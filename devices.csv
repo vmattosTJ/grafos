@@ -1,0 +1,2376 @@
+id,name,device_type,device_role,serial,status,site,rack,position,tenant
+2960,Agregador TA-25-1 (CPD),,Agregador de tráfego para Visibilidade de Dados,,Active,CPD,Rack Nexus CPD,34.0,
+2565,AP-Abelardo-Luz-TJ_01,,Access Point,,Active,Abelardo Luz,,,MPSC
+2566,AP-Abelardo-Luz-TJ_02,,Access Point,,Active,Abelardo Luz,,,MPSC
+62,AP_ACAD_1A_101,,Access Point,TSP2112ADHZ,Active,Academia Judicial / UDB,,,
+76,AP_ACAD_1A_102,,Access Point,TSP2112ADIC,Active,Academia Judicial / UDB,,,
+81,AP_ACAD_1A_Corredor,,Access Point,TSP2112ACGI,Active,Academia Judicial / UDB,,,
+68,AP_ACAD_2A_201,,Access Point,TSP2112ACGG,Active,Academia Judicial / UDB,,,
+69,AP_ACAD_2A_202,,Access Point,TSP2112ADJL,Active,Academia Judicial / UDB,,,
+77,AP_ACAD_3A_301,,Access Point,TSP2112ACZL,Active,Academia Judicial / UDB,,,
+66,AP_ACAD_3A_302,,Access Point,TSP2112ACGC,Active,Academia Judicial / UDB,,,
+80,AP_ACAD_4A_401,,Access Point,TSP2112ADJH,Active,Academia Judicial / UDB,,,
+79,AP_ACAD_4A_402,,Access Point,TSP2112ADJD,Active,Academia Judicial / UDB,,,
+67,AP_ACAD_4A_Corredor,,Access Point,TSP2112ADJU,Active,Academia Judicial / UDB,,,
+70,AP_ACAD_5A_501,,Access Point,TSP2112ADIU,Active,Academia Judicial / UDB,,,
+71,AP_ACAD_5A_502,,Access Point,TSP2112ADCG,Active,Academia Judicial / UDB,,,
+65,AP_ACAD_6A_601,,Access Point,TSP2113AAFN,Active,Academia Judicial / UDB,,,
+75,AP_ACAD_6A_602,,Access Point,TSP2112ADIB,Active,Academia Judicial / UDB,,,
+64,AP_ACAD_6A_Corredor,,Access Point,TSP2112ADBZ,Active,Academia Judicial / UDB,,,
+78,AP_ACAD_Atico,,Access Point,TSP2112ADKT,Active,Academia Judicial / UDB,,,
+72,AP_ACAD_Terreo_001,,Access Point,TSP2112ADIK,Active,Academia Judicial / UDB,,,
+74,AP_ACAD_Terreo_007,,Access Point,TSP2112ADJK,Active,Academia Judicial / UDB,,,
+73,AP_ACAD_Terreo_Corredor,,Access Point,TSP2112ACKT,Active,Academia Judicial / UDB,,,
+16,AP_ACCR_6A_601,,Access Point,,Active,ACCR,T4.6A.R1,,
+17,AP_ACCR_6A_602,,Access Point,,Active,ACCR,T4.6A.R1,,
+2274,AP-ALMOX-01,,Access Point,,Active,Almoxarifado,,,
+3149,AP-ALMOX-TRANSP,,Access Point,,Active,Almoxarifado,,,
+2258,AP-Anchieta-TJ_01,,Access Point,,Active,Anchieta,,,MPSC
+2194,AP-Anita-Garibaldi-TJ_01,,Access Point,,Active,Anita Garibaldi,,,MPSC
+2195,AP-Anita-Garibaldi-TJ_02,,Access Point,,Active,Anita Garibaldi,,,MPSC
+2672,AP-Araquari-TJ_01,,Access Point,,Active,Araquari,,,MPSC
+2673,AP-Araquari-TJ_02,,Access Point,,Active,Araquari,,,MPSC
+2378,AP-Ararangua-TJ_01,,Access Point,,Active,Araranguá,,,MPSC
+2379,AP-Ararangua-TJ_02,,Access Point,,Active,Araranguá,,,MPSC
+2380,AP-Ararangua-TJ_03,,Access Point,,Active,Araranguá,,,MPSC
+2381,AP-Ararangua-TJ_04,,Access Point,,Active,Araranguá,,,MPSC
+2382,AP-Ararangua-TJ_05,,Access Point,,Active,Araranguá,,,MPSC
+2383,AP-Ararangua-TJ_06,,Access Point,,Active,Araranguá,,,MPSC
+2521,AP-Armazem-TJ_01,,Access Point,,Active,Armazém,,,MPSC
+2522,AP-Armazem-TJ_02,,Access Point,,Active,Armazém,,,MPSC
+2523,AP-Armazem-TJ_03,,Access Point,,Active,Armazém,,,MPSC
+3379,AP-ARQ-CENTRAL-01,,Access Point,,Active,Aririú,,,
+3380,AP-ARQ-CENTRAL-02,,Access Point,,Active,Aririú,,,
+3381,AP-ARQ-CENTRAL-03,,Access Point,,Active,Aririú,,,
+3382,AP-ARQ-CENTRAL-04,,Access Point,,Active,Aririú,,,
+3383,AP-ARQ-CENTRAL-05,,Access Point,,Active,Aririú,,,
+2107,AP-Ascurra-TJ_01,,Access Point,,Active,Ascurra,,,MPSC
+2108,AP-Ascurra-TJ_02,,Access Point,,Active,Ascurra,,,MPSC
+2109,AP-Ascurra-TJ_03,,Access Point,,Active,Ascurra,,,MPSC
+2660,AP-Balneario-Camboriu-TJ_01,,Access Point,,Active,Balneário Camboriú,,,MPSC
+2661,AP-Balneario-Camboriu-TJ_02,,Access Point,,Active,Balneário Camboriú,,,MPSC
+2662,AP-Balneario-Camboriu-TJ_03,,Access Point,,Active,Balneário Camboriú,,,MPSC
+2663,AP-Balneario-Camboriu-TJ_04,,Access Point,,Active,Balneário Camboriú,,,MPSC
+2664,AP-Balneario-Camboriu-TJ_05,,Access Point,,Active,Balneário Camboriú,,,MPSC
+2665,AP-Balneario-Camboriu-TJ_06,,Access Point,,Active,Balneário Camboriú,,,MPSC
+2666,AP-Balneario-Camboriu-TJ_07,,Access Point,,Active,Balneário Camboriú,,,MPSC
+2667,AP-Balneario-Camboriu-TJ_08,,Access Point,,Active,Balneário Camboriú,,,MPSC
+2668,AP-Balneario-Camboriu-TJ_09,,Access Point,,Active,Balneário Camboriú,,,MPSC
+2669,AP-Balneario-Camboriu-TJ_10,,Access Point,,Active,Balneário Camboriú,,,MPSC
+2670,AP-Balneario-Camboriu-TJ_11,,Access Point,,Active,Balneário Camboriú,,,MPSC
+2671,AP-Balneario-Camboriu-TJ_12,,Access Point,,Active,Balneário Camboriú,,,MPSC
+2458,AP-Balneario-Picarras-TJ_01,,Access Point,,Active,Balneário Piçarras,,,MPSC
+2459,AP-Balneario-Picarras-TJ_02,,Access Point,,Active,Balneário Piçarras,,,MPSC
+2460,AP-Balneario-Picarras-TJ_03,,Access Point,,Active,Balneário Piçarras,,,MPSC
+2461,AP-Balneario-Picarras-TJ_04,,Access Point,,Active,Balneário Piçarras,,,MPSC
+2674,AP-Barra-Velha-TJ_01,,Access Point,,Active,Barra Velha,,,MPSC
+2675,AP-Barra-Velha-TJ_02,,Access Point,,Active,Barra Velha,,,MPSC
+2676,AP-Barra-Velha-TJ_03,,Access Point,,Active,Barra Velha,,,MPSC
+2112,AP-Biguacu-TJ_01,,Access Point,,Active,Biguaçu,,,MPSC
+2111,AP-Biguacu-TJ_02,,Access Point,,Active,Biguaçu,,,MPSC
+2110,AP-Biguacu-TJ_03,,Access Point,,Active,Biguaçu,,,MPSC
+2154,AP-Blumenau-2-TJ_01,,Access Point,,Active,Blumenau - Furb,,,MPSC
+2155,AP-Blumenau-2-TJ_02,,Access Point,,Active,Blumenau - Furb,,,MPSC
+2156,AP-Blumenau-2-TJ_03,,Access Point,,Active,Blumenau - Furb,,,MPSC
+2157,AP-Blumenau-2-TJ_04,,Access Point,,Active,Blumenau - Furb,,,MPSC
+2158,AP-Blumenau-2-TJ_05,,Access Point,,Active,Blumenau - Furb,,,MPSC
+2159,AP-Blumenau-2-TJ_06,,Access Point,,Active,Blumenau - Furb,,,MPSC
+2137,AP-Blumenau-TJ_01,,Access Point,,Active,Blumenau,,,MPSC
+2138,AP-Blumenau-TJ_02,,Access Point,,Active,Blumenau,,,MPSC
+2139,AP-Blumenau-TJ_03,,Access Point,,Active,Blumenau,,,MPSC
+2140,AP-Blumenau-TJ_04,,Access Point,,Active,Blumenau,,,MPSC
+2141,AP-Blumenau-TJ_05,,Access Point,,Active,Blumenau,,,MPSC
+2142,AP-Blumenau-TJ_06,,Access Point,,Active,Blumenau,,,MPSC
+2143,AP-Blumenau-TJ_07,,Access Point,,Active,Blumenau,,,MPSC
+2144,AP-Blumenau-TJ_08,,Access Point,,Active,Blumenau,,,MPSC
+2604,AP-Blumenau-TJ_09,,Access Point,,Active,Blumenau,,,MPSC
+2145,AP-Blumenau-TJ_10,,Access Point,,Active,Blumenau,,,MPSC
+2146,AP-Blumenau-TJ_11,,Access Point,,Active,Blumenau,,,MPSC
+2147,AP-Blumenau-TJ_12,,Access Point,,Active,Blumenau,,,MPSC
+2148,AP-Blumenau-TJ_13,,Access Point,,Active,Blumenau,,,MPSC
+2149,AP-Blumenau-TJ_14,,Access Point,,Active,Blumenau,,,MPSC
+2150,AP-Blumenau-TJ_15,,Access Point,,Active,Blumenau,,,MPSC
+2151,AP-Blumenau-TJ_16,,Access Point,,Active,Blumenau,,,MPSC
+2152,AP-Blumenau-TJ_17,,Access Point,,Active,Blumenau,,,MPSC
+2153,AP-Blumenau-TJ_18,,Access Point,,Active,Blumenau,,,MPSC
+2132,AP-Bom-Retiro-TJ_01,,Access Point,,Active,Bom Retiro,,,MPSC
+2160,AP-Braco-do-Norte-TJ_01,,Access Point,,Active,Braço do Norte,,,MPSC
+2161,AP-Braco-do-Norte-TJ_02,,Access Point,,Active,Braço do Norte,,,MPSC
+2162,AP-Braco-do-Norte-TJ_03,,Access Point,,Active,Braço do Norte,,,MPSC
+2163,AP-Braco-do-Norte-TJ_04,,Access Point,,Active,Braço do Norte,,,MPSC
+3384,AP-Brejaru-01,,Access Point,,Active,Brejarú,,,
+2280,AP-Brusque-TJ_01,,Access Point,,Active,Brusque,,,MPSC
+2281,AP-Brusque-TJ_02,,Access Point,,Active,Brusque,,,MPSC
+2282,AP-Brusque-TJ_03,,Access Point,,Active,Brusque,,,MPSC
+2283,AP-Brusque-TJ_04,,Access Point,,Active,Brusque,,,MPSC
+2284,AP-Brusque-TJ_05,,Access Point,,Active,Brusque,,,MPSC
+2291,AP-Brusque-TJ_06,,Access Point,,Active,Brusque - Unidade Avançada,,,MPSC
+2472,AP-Cacador-TJ_01,,Access Point,,Active,Caçador,,,MPSC
+2471,AP-Cacador-TJ_02,,Access Point,,Active,Caçador,,,MPSC
+2470,AP-Cacador-TJ_03,,Access Point,,Active,Caçador,,,MPSC
+2469,AP-Cacador-TJ_04,,Access Point,,Active,Caçador,,,MPSC
+2583,AP-Cacador-TJ_05,,Access Point,,Active,Caçador - Unidade Avançada,,,MPSC
+2619,AP-Cacador-TJ-Teste,,Access Point,,Offline,Caçador,,,MPSC
+2292,AP-Camboriu-TJ_01,,Access Point,,Active,Camboriú,,,MPSC
+2293,AP-Camboriu-TJ_02,,Access Point,,Active,Camboriú,,,MPSC
+2294,AP-Camboriu-TJ_03,,Access Point,,Active,Camboriú,,,MPSC
+2691,AP-Campo-Belo-do-Sul-TJ_01,,Access Point,,Active,Campo Belo do Sul,,,MPSC
+2505,AP-Campo-Ere-TJ_01,,Access Point,,Active,Campo Erê,,,MPSC
+2506,AP-Campo-Ere-TJ_02,,Access Point,,Active,Campo Erê,,,MPSC
+2507,AP-Campo-Ere-TJ_03,,Access Point,,Active,Campo Erê,,,MPSC
+2352,AP-Campos-Novos-TJ_01,,Access Point,,Active,Campos Novos,,,MPSC
+2353,AP-Campos-Novos-TJ_02,,Access Point,,Active,Campos Novos,,,MPSC
+2354,AP-Campos-Novos-TJ_03,,Access Point,,Active,Campos Novos,,,MPSC
+2355,AP-Campos-Novos-TJ_04,,Access Point,,Active,Campos Novos,,,MPSC
+2269,AP-Canoinhas-TJ_01,,Access Point,,Active,Canoinhas,,,MPSC
+2270,AP-Canoinhas-TJ_02,,Access Point,,Active,Canoinhas,,,MPSC
+2271,AP-Canoinhas-TJ_03,,Access Point,,Active,Canoinhas,,,MPSC
+2272,AP-Canoinhas-TJ_04,,Access Point,,Active,Canoinhas,,,MPSC
+2370,AP-Capinzal-TJ_01,,Access Point,,Active,Capinzal,,,MPSC
+2371,AP-Capinzal-TJ_02,,Access Point,,Active,Capinzal,,,MPSC
+2524,AP-Capivari-de-Baixo-TJ_01,,Access Point,,Active,Capivari de Baixo,,,MPSC
+2525,AP-Capivari-de-Baixo-TJ_02,,Access Point,,Active,Capivari de Baixo,,,MPSC
+2196,AP-Catanduvas-TJ_01,,Access Point,,Active,Catanduvas,,,MPSC
+2197,AP-Catanduvas-TJ_02,,Access Point,,Active,Catanduvas,,,MPSC
+2198,AP-Catanduvas-TJ_03,,Access Point,,Active,Catanduvas,,,MPSC
+2584,AP-Chapeco-TJ_01,,Access Point,,Active,Chapecó,,,MPSC
+2585,AP-Chapeco-TJ_02,,Access Point,,Active,Chapecó,,,MPSC
+2586,AP-Chapeco-TJ_03,,Access Point,,Active,Chapecó,,,MPSC
+2587,AP-Chapeco-TJ_04,,Access Point,,Active,Chapecó,,,MPSC
+2588,AP-Chapeco-TJ_05,,Access Point,,Active,Chapecó,,,MPSC
+2589,AP-Chapeco-TJ_06,,Access Point,,Active,Chapecó,,,MPSC
+2590,AP-Chapeco-TJ_07,,Access Point,,Active,Chapecó,,,MPSC
+2591,AP-Chapeco-TJ_08,,Access Point,,Active,Chapecó,,,MPSC
+2592,AP-Chapeco-TJ_09,,Access Point,,Active,Chapecó,,,MPSC
+2593,AP-Chapeco-TJ_10,,Access Point,,Active,Chapecó,,,MPSC
+2594,AP-Chapeco-TJ_11,,Access Point,,Active,Chapecó,,,MPSC
+2595,AP-Chapeco-TJ_12,,Access Point,,Active,Chapecó,,,MPSC
+2596,AP-Chapeco-TJ_13,,Access Point,,Active,Chapecó,,,MPSC
+2597,AP-Chapeco-TJ_14,,Access Point,,Active,Chapecó,,,MPSC
+2482,AP-Concordia-TJ_01,,Access Point,,Active,Concórdia,,,MPSC
+2483,AP-Concordia-TJ_02,,Access Point,,Active,Concórdia,,,MPSC
+2484,AP-Concordia-TJ_03,,Access Point,,Active,Concórdia,,,MPSC
+2485,AP-Concordia-TJ_04,,Access Point,,Active,Concórdia,,,MPSC
+2486,AP-Concordia-TJ_05,,Access Point,,Active,Concórdia,,,MPSC
+2487,AP-Concordia-TJ_06,,Access Point,,Active,Concórdia,,,MPSC
+2367,AP-Coronel-Freitas-TJ_01,,Access Point,,Active,Coronel Freitas,,,MPSC
+2368,AP-Coronel-Freitas-TJ_02,,Access Point,,Active,Coronel Freitas,,,MPSC
+2369,AP-Coronel-Freitas-TJ_03,,Access Point,,Active,Coronel Freitas,,,MPSC
+2230,AP-Correia-Pinto-TJ_01,,Access Point,,Active,Correia Pinto,,,MPSC
+2231,AP-Correia-Pinto-TJ_02,,Access Point,,Active,Correia Pinto,,,MPSC
+2646,AP-Criciuma-TJ_01,,Access Point,,Active,Criciúma,,,MPSC
+2647,AP-Criciuma-TJ_02,,Access Point,,Active,Criciúma,,,MPSC
+2648,AP-Criciuma-TJ_03,,Access Point,,Active,Criciúma,,,MPSC
+2649,AP-Criciuma-TJ_04,,Access Point,,Active,Criciúma,,,MPSC
+2650,AP-Criciuma-TJ_05,,Access Point,,Active,Criciúma,,,MPSC
+2651,AP-Criciuma-TJ_06,,Access Point,,Active,Criciúma,,,MPSC
+2652,AP-Criciuma-TJ_07,,Access Point,,Active,Criciúma,,,MPSC
+2653,AP-Criciuma-TJ_08,,Access Point,,Active,Criciúma,,,MPSC
+2654,AP-Criciuma-TJ_09,,Access Point,,Active,Criciúma,,,MPSC
+2655,AP-Criciuma-TJ_10,,Access Point,,Active,Criciúma,,,MPSC
+2656,AP-Criciuma-TJ_11,,Access Point,,Active,Criciúma,,,MPSC
+2657,AP-Criciuma-TJ_12,,Access Point,,Active,Criciúma,,,MPSC
+2658,AP-Criciuma-TJ_13,,Access Point,,Active,Criciúma,,,MPSC
+2659,AP-Criciuma-TJ_14,,Access Point,,Active,Criciúma,,,MPSC
+3375,AP-Criciuma-TJ_15,,Access Point,,Active,Criciúma,,,MPSC
+2645,AP-Criciuma-Unesc-TJ_01,,Access Point,,Offline,Criciúma - UNESC,,,MPSC
+2232,AP-Cunha-Pora-TJ_01,,Access Point,,Active,Cunha Porã,,,MPSC
+2233,AP-Cunha-Pora-TJ_02,,Access Point,,Active,Cunha Porã,,,MPSC
+2488,AP-Curitibanos-TJ_01,,Access Point,,Active,Curitibanos,,,MPSC
+2489,AP-Curitibanos-TJ_02,,Access Point,,Active,Curitibanos,,,MPSC
+2490,AP-Curitibanos-TJ_03,,Access Point,,Active,Curitibanos,,,MPSC
+2491,AP-Curitibanos-TJ_04,,Access Point,,Active,Curitibanos,,,MPSC
+2273,AP_Deposito.tjsc.jus.br,,Access Point,,Active,Depósito,,,
+2234,AP-Descanso-TJ_01,,Access Point,,Active,Descanso,,,MPSC
+2235,AP-Descanso-TJ_02,,Access Point,,Active,Descanso,,,MPSC
+2259,AP-Dionisio-Cerqueira-TJ_01,,Access Point,,Active,Dionísio Cerqueira,,,MPSC
+2260,AP-Dionisio-Cerqueira-TJ_02,,Access Point,,Active,Dionísio Cerqueira,,,MPSC
+2275,AP-DIV-PAT-01,,Access Point,,Active,Almoxarifado,,,
+2276,AP-DIV-PAT-02,,Access Point,,Active,Almoxarifado,,,
+2277,AP-DIV-PAT-03,,Access Point,,Active,Almoxarifado,,,
+2399,AP-Eduardo-Luz-TJ_01,,Access Point,,Active,Eduardo Luz,,,MPSC
+2400,AP-Eduardo-Luz-TJ_02,,Access Point,,Active,Eduardo Luz,,,MPSC
+2401,AP-Eduardo-Luz-TJ_03,,Access Point,,Active,Eduardo Luz,,,MPSC
+2402,AP-Eduardo-Luz-TJ_04,,Access Point,,Active,Eduardo Luz,,,MPSC
+2403,AP-Eduardo-Luz-TJ_05,,Access Point,,Active,Eduardo Luz,,,MPSC
+2404,AP-Eduardo-Luz-TJ_06,,Access Point,,Active,Eduardo Luz,,,MPSC
+2405,AP-Eduardo-Luz-TJ_07,,Access Point,,Active,Eduardo Luz,,,MPSC
+2130,AP-Forquilhinha-TJ_01,,Access Point,,Active,Forquilhinha,,,MPSC
+2131,AP-Forquilhinha-TJ_02,,Access Point,,Active,Forquilhinha,,,MPSC
+2175,AP-Forum-Capital-TJ_01,,Access Point,,Active,Fórum da Capital,,,MPSC
+2176,AP-Forum-Capital-TJ_02,,Access Point,,Active,Fórum da Capital,,,MPSC
+2177,AP-Forum-Capital-TJ_03,,Access Point,,Active,Fórum da Capital,,,MPSC
+2178,AP-Forum-Capital-TJ_04,,Access Point,,Active,Fórum da Capital,,,MPSC
+2179,AP-Forum-Capital-TJ_05,,Access Point,,Active,Fórum da Capital,,,MPSC
+2180,AP-Forum-Capital-TJ_06,,Access Point,,Active,Fórum da Capital,,,MPSC
+2181,AP-Forum-Capital-TJ_07,,Access Point,,Active,Fórum da Capital,,,MPSC
+2182,AP-Forum-Capital-TJ_08,,Access Point,,Active,Fórum da Capital,,,MPSC
+2183,AP-Forum-Capital-TJ_09,,Access Point,,Active,Fórum da Capital,,,MPSC
+2184,AP-Forum-Capital-TJ_10,,Access Point,,Active,Fórum da Capital,,,MPSC
+2185,AP-Forum-Capital-TJ_11,,Access Point,,Active,Fórum da Capital,,,MPSC
+2186,AP-Forum-Capital-TJ_12,,Access Point,,Active,Fórum da Capital,,,MPSC
+2187,AP-Forum-Capital-TJ_13,,Access Point,,Active,Fórum da Capital,,,MPSC
+2246,AP-Forum-Capital-TJ_14,,Access Point,,Active,Fórum da Capital,,,MPSC
+2247,AP-Forum-Capital-TJ_15,,Access Point,,Active,Fórum da Capital,,,MPSC
+2248,AP-Forum-Capital-TJ_16,,Access Point,,Active,Fórum da Capital,,,MPSC
+2249,AP-Forum-Capital-TJ_17,,Access Point,,Active,Fórum da Capital,,,MPSC
+2250,AP-Forum-Capital-TJ_18,,Access Point,,Active,Fórum da Capital,,,MPSC
+2133,AP-Forum-Do-Estreito-TJ_01,,Access Point,,Active,Estreito,,,MPSC
+2134,AP-Forum-Do-Estreito-TJ_02,,Access Point,,Active,Estreito,,,MPSC
+2135,AP-Forum-Do-Estreito-TJ_03,,Access Point,,Active,Estreito,,,MPSC
+2136,AP-Forum-Do-Estreito-TJ_04,,Access Point,,Active,Estreito,,,MPSC
+2113,AP-Fpolis-Forum-Da-Ufsc-TJ_01,,Access Point,,Active,Norte da Ilha - UFSC,,,MPSC
+2114,AP-Fpolis-Forum-Da-Ufsc-TJ_02,,Access Point,,Active,Norte da Ilha - UFSC,,,MPSC
+2264,AP-Fraiburgo-TJ_01,,Access Point,,Active,Fraiburgo,,,MPSC
+2265,AP-Fraiburgo-TJ_02,,Access Point,,Active,Fraiburgo,,,MPSC
+2266,AP-Fraiburgo-TJ_03,,Access Point,,Active,Fraiburgo,,,MPSC
+2267,AP-Fraiburgo-TJ_04,,Access Point,,Active,Fraiburgo,,,MPSC
+2268,AP-Fraiburgo-TJ_05,,Access Point,,Active,Fraiburgo,,,MPSC
+2325,AP-Garopaba-TJ_01,,Access Point,,Active,Garopaba,,,MPSC
+2326,AP-Garopaba-TJ_02,,Access Point,,Active,Garopaba,,,MPSC
+2708,AP-Garuva-TJ_01,,Access Point,,Active,Garuva,,,MPSC
+2709,AP-Garuva-TJ_02,,Access Point,,Active,Garuva,,,MPSC
+2285,AP-Gaspar-TJ_01,,Access Point,,Active,Gaspar,,,MPSC
+2286,AP-Gaspar-TJ_02,,Access Point,,Active,Gaspar,,,MPSC
+2287,AP-Gaspar-TJ_03,,Access Point,,Active,Gaspar,,,MPSC
+2288,AP-Gaspar-TJ_04,,Access Point,,Active,Gaspar,,,MPSC
+2289,AP-Gaspar-TJ_05,,Access Point,,Active,Gaspar,,,MPSC
+2290,AP-Gaspar-TJ_06,,Access Point,,Active,Gaspar,,,MPSC
+2686,AP-Guaramirim-TJ_01,,Access Point,,Active,Guaramirim,,,MPSC
+2688,AP-Guaramirim-TJ_02,,Access Point,,Active,Guaramirim,,,MPSC
+2689,AP-Guaramirim-TJ_03,,Access Point,,Active,Guaramirim,,,MPSC
+2508,AP-Herval-dOeste-TJ_01,,Access Point,,Active,Herval do Oeste,,,MPSC
+2509,AP-Herval-dOeste-TJ_02,,Access Point,,Active,Herval do Oeste,,,MPSC
+2510,AP-Herval-dOeste-TJ_03,,Access Point,,Active,Herval do Oeste,,,MPSC
+2511,AP-Herval-dOeste-TJ_04,,Access Point,,Active,Herval do Oeste,,,MPSC
+3405,AP-Herval-dOeste-TJ_05,,Access Point,,Active,Herval do Oeste,,,MPSC
+2348,AP-High-Tech-TJ_01,,Access Point,,Active,Norte da Ilha,,,MPSC
+2349,AP-High-Tech-TJ_02,,Access Point,,Active,Norte da Ilha,,,MPSC
+2350,AP-High-Tech-TJ_03,,Access Point,,Active,Norte da Ilha,,,MPSC
+2351,AP-High-Tech-TJ_04,,Access Point,,Active,Norte da Ilha,,,MPSC
+2127,AP-Ibirama-TJ_01,,Access Point,,Active,Ibirama,,,MPSC
+2128,AP-Ibirama-TJ_02,,Access Point,,Active,Ibirama,,,MPSC
+2129,AP-Ibirama-TJ_03,,Access Point,,Active,Ibirama,,,MPSC
+2620,AP-Icara-TJ_01,,Access Point,,Active,Içara,,,MPSC
+2621,AP-Icara-TJ_02,,Access Point,,Active,Içara,,,MPSC
+2622,AP-Icara-TJ_03,,Access Point,,Active,Içara,,,MPSC
+2624,AP-Imarui-TJ_01,,Access Point,,Active,Imaruí,,,MPSC
+2623,AP-Imarui-TJ_02,,Access Point,,Active,Imaruí,,,MPSC
+2627,AP-Imbituba-v1-TJ_01,,Access Point,,Active,Imbituba - Primeira Vara,,,MPSC
+2628,AP-Imbituba-v1-TJ_02,,Access Point,,Active,Imbituba - Primeira Vara,,,MPSC
+2625,AP-Imbituba-v2-TJ_01,,Access Point,,Active,Imbituba - Segunda Vara,,,MPSC
+2626,AP-Imbituba-v2-TJ_02,,Access Point,,Active,Imbituba - Segunda Vara,,,MPSC
+2615,AP-Indaial-TJ_01,,Access Point,,Active,Indaial,,,MPSC
+2616,AP-Indaial-TJ_02,,Access Point,,Active,Indaial,,,MPSC
+2617,AP-Indaial-TJ_03,,Access Point,,Active,Indaial,,,MPSC
+2618,AP-Indaial-TJ_04,,Access Point,,Active,Indaial,,,MPSC
+2512,AP-Ipumirim-TJ_01,,Access Point,,Active,Ipumirim,,,MPSC
+2513,AP-Ipumirim-TJ_02,,Access Point,,Active,Ipumirim,,,MPSC
+2170,AP-Itaiopolis-TJ_01,,Access Point,,Active,Itaiópolis,,,MPSC
+2171,AP-Itaiopolis-TJ_02,,Access Point,,Active,Itaiópolis,,,MPSC
+2417,AP-Itajai-TJ_01,,Access Point,,Active,Itajaí,,,MPSC
+2418,AP-Itajai-TJ_02,,Access Point,,Active,Itajaí,,,MPSC
+2419,AP-Itajai-TJ_03,,Access Point,,Active,Itajaí,,,MPSC
+2420,AP-Itajai-TJ_04,,Access Point,,Active,Itajaí,,,MPSC
+2421,AP-Itajai-TJ_05,,Access Point,,Active,Itajaí,,,MPSC
+2422,AP-Itajai-TJ_06,,Access Point,,Active,Itajaí,,,MPSC
+2423,AP-Itajai-TJ_07,,Access Point,,Active,Itajaí,,,MPSC
+2424,AP-Itajai-TJ_08,,Access Point,,Active,Itajaí,,,MPSC
+2425,AP-Itajai-TJ_09,,Access Point,,Active,Itajaí,,,MPSC
+2426,AP-Itajai-TJ_10,,Access Point,,Active,Itajaí,,,MPSC
+2427,AP-Itajai-TJ_11,,Access Point,,Active,Itajaí,,,MPSC
+2428,AP-Itajai-TJ_12,,Access Point,,Active,Itajaí,,,MPSC
+2416,AP-Itapema-TJ_01,,Access Point,,Active,Itapema,,,MPSC
+2413,AP-Itapema-TJ_02,,Access Point,,Active,Itapema,,,MPSC
+2415,AP-Itapema-TJ_03,,Access Point,,Active,Itapema,,,MPSC
+2236,AP-Itapiranga-TJ_01,,Access Point,,Active,Itapiranga,,,MPSC
+2677,AP-Itapoa-TJ_01,,Access Point,,Active,Itapoá,,,MPSC
+2678,AP-Itapoa-TJ_02,,Access Point,,Active,Itapoá,,,MPSC
+2514,AP-Ita-TJ_01,,Access Point,,Active,Itá,,,MPSC
+2679,AP-Ituporanga-TJ_01,,Access Point,,Active,Ituporanga,,,MPSC
+2680,AP-Ituporanga-TJ_02,,Access Point,,Active,Ituporanga,,,MPSC
+2681,AP-Ituporanga-TJ_03,,Access Point,,Active,Ituporanga,,,MPSC
+2683,AP-Jaguaruna-TJ_01,,Access Point,,Active,Jaguaruna,,,MPSC
+2684,AP-Jaguaruna-TJ_02,,Access Point,,Active,Jaguaruna,,,MPSC
+2685,AP-Jaguaruna-TJ_03,,Access Point,,Active,Jaguaruna,,,MPSC
+2711,AP-Jaragua-do-Sul-TJ_01,,Access Point,,Active,Jaraguá do Sul,,,MPSC
+2712,AP-Jaragua-do-Sul-TJ_02,,Access Point,,Active,Jaraguá do Sul,,,MPSC
+2713,AP-Jaragua-do-Sul-TJ_03,,Access Point,,Active,Jaraguá do Sul,,,MPSC
+2714,AP-Jaragua-do-Sul-TJ_04,,Access Point,,Active,Jaraguá do Sul,,,MPSC
+2715,AP-Jaragua-do-Sul-TJ_05,,Access Point,,Active,Jaraguá do Sul,,,MPSC
+2716,AP-Jaragua-do-Sul-TJ_06,,Access Point,,Active,Jaraguá do Sul,,,MPSC
+2717,AP-Jaragua-do-Sul-TJ_07,,Access Point,,Active,Jaraguá do Sul,,,MPSC
+2710,AP-Jaragua-do-Sul-TJ_08,,Access Point,,Active,Jaraguá do Sul - Unidade Avançada,,,MPSC
+2718,AP-Jaragua-do-Sul-TJ_09,,Access Point,,Active,Jaraguá do Sul,,,MPSC
+2362,AP-Joacaba-TJ_01,,Access Point,,Active,Joaçaba,,,MPSC
+2363,AP-Joacaba-TJ_02,,Access Point,,Active,Joaçaba,,,MPSC
+2364,AP-Joacaba-TJ_03,,Access Point,,Active,Joaçaba,,,MPSC
+2365,AP-Joacaba-TJ_04,,Access Point,,Active,Joaçaba,,,MPSC
+2366,AP-Joacaba-TJ_05,,Access Point,,Active,Joaçaba,,,MPSC
+2430,AP-Joinville-Fazendario-TJ_01,,Access Point,,Active,Joinville - Fórum Fazendário,,,MPSC
+2431,AP-Joinville-TJ_01,,Access Point,,Active,Joinville,,,MPSC
+2432,AP-Joinville-TJ_02,,Access Point,,Active,Joinville,,,MPSC
+2433,AP-Joinville-TJ_03,,Access Point,,Active,Joinville,,,MPSC
+2434,AP-Joinville-TJ_04,,Access Point,,Active,Joinville,,,MPSC
+2435,AP-Joinville-TJ_05,,Access Point,,Active,Joinville,,,MPSC
+2436,AP-Joinville-TJ_06,,Access Point,,Active,Joinville,,,MPSC
+2437,AP-Joinville-TJ_07,,Access Point,,Active,Joinville,,,MPSC
+2438,AP-Joinville-TJ_08,,Access Point,,Active,Joinville,,,MPSC
+2439,AP-Joinville-TJ_09,,Access Point,,Active,Joinville,,,MPSC
+2440,AP-Joinville-TJ_10,,Access Point,,Active,Joinville,,,MPSC
+2441,AP-Joinville-TJ_11,,Access Point,,Active,Joinville,,,MPSC
+2442,AP-Joinville-TJ_12,,Access Point,,Active,Joinville,,,MPSC
+2443,AP-Joinville-TJ_13,,Access Point,,Active,Joinville,,,MPSC
+2444,AP-Joinville-TJ_14,,Access Point,,Active,Joinville,,,MPSC
+2445,AP-Joinville-TJ_15,,Access Point,,Active,Joinville,,,MPSC
+2446,AP-Joinville-TJ_16,,Access Point,,Active,Joinville,,,MPSC
+2447,AP-Joinville-TJ_17,,Access Point,,Active,Joinville,,,MPSC
+2448,AP-Joinville-TJ_18,,Access Point,,Active,Joinville,,,MPSC
+2449,AP-Joinville-TJ_19,,Access Point,,Active,Joinville,,,MPSC
+2450,AP-Joinville-TJ_20,,Access Point,,Active,Joinville,,,MPSC
+3392,AP-Joinville-TJ_21,,Access Point,,Active,Joinville,,,MPSC
+2085,AP-Lages-TJ_01,,Access Point,,Active,Lages,,,MPSC
+2086,AP-Lages-TJ_02,,Access Point,,Active,Lages,,,MPSC
+2087,AP-Lages-TJ_03,,Access Point,,Active,Lages,,,MPSC
+2088,AP-Lages-TJ_04,,Access Point,,Active,Lages,,,MPSC
+2089,AP-Lages-TJ_05,,Access Point,,Active,Lages,,,MPSC
+2090,AP-Lages-TJ_06,,Access Point,,Active,Lages,,,MPSC
+2091,AP-Lages-TJ_07,,Access Point,,Active,Lages,,,MPSC
+2092,AP-Lages-TJ_08,,Access Point,,Active,Lages,,,MPSC
+2093,AP-Lages-TJ_09,,Access Point,,Active,Lages,,,MPSC
+2094,AP-Lages-TJ_10,,Access Point,,Active,Lages,,,MPSC
+2095,AP-Lages-TJ_11,,Access Point,,Active,Lages,,,MPSC
+2096,AP-Lages-TJ_12,,Access Point,,Active,Lages,,,MPSC
+2084,AP-Lages-TJ_13,,Access Point,,Active,Lages - Unidade Avançada,,,MPSC
+2629,AP-Laguna-TJ_01,,Access Point,,Active,Laguna,,,MPSC
+2630,AP-Laguna-TJ_02,,Access Point,,Active,Laguna,,,MPSC
+2631,AP-Laguna-TJ_03,,Access Point,,Active,Laguna,,,MPSC
+2632,AP-Laguna-TJ_04,,Access Point,,Active,Laguna,,,MPSC
+2515,AP-Lauro-Muller-TJ_01,,Access Point,,Active,Lauro Müller,,,MPSC
+2516,AP-Lauro-Muller-TJ_02,,Access Point,,Active,Lauro Müller,,,MPSC
+2473,AP-Lebon-Regis-TJ_01,,Access Point,,Active,Lebon Régis,,,MPSC
+2474,AP-Lebon-Regis-TJ_02,,Access Point,,Active,Lebon Régis,,,MPSC
+2475,AP-Lebon-Regis-TJ_03,,Access Point,,Active,Lebon Régis,,,MPSC
+2123,AP-Mafra-TJ_01,,Access Point,,Active,Mafra,,,MPSC
+2124,AP-Mafra-TJ_02,,Access Point,,Active,Mafra,,,MPSC
+2125,AP-Mafra-TJ_03,,Access Point,,Active,Mafra,,,MPSC
+2126,AP-Mafra-TJ_04,,Access Point,,Active,Mafra,,,MPSC
+2517,AP-Maravilha-TJ_01,,Access Point,,Active,Maravilha,,,MPSC
+2518,AP-Maravilha-TJ_02,,Access Point,,Active,Maravilha,,,MPSC
+2519,AP-Maravilha-TJ_03,,Access Point,,Active,Maravilha,,,MPSC
+2520,AP-Meleiro-TJ_01,,Access Point,,Active,Meleiro,,,MPSC
+2581,AP-Modelo-TJ_01,,Access Point,,Active,Modelo,,,MPSC
+2582,AP-Modelo-TJ_02,,Access Point,,Active,Modelo,,,MPSC
+2225,AP-Mondai-TJ_01,,Access Point,,Active,Mondaí,,,MPSC
+2226,AP-Mondai-TJ_02,,Access Point,,Active,Mondaí,,,MPSC
+2229,AP-Mondai-TJ_03,,Access Point,,Active,Mondaí,,,MPSC
+2693,AP-Navegantes-TJ_01,,Access Point,,Active,Navegantes,,,MPSC
+2694,AP-Navegantes-TJ_02,,Access Point,,Active,Navegantes,,,MPSC
+2695,AP-Navegantes-TJ_03,,Access Point,,Active,Navegantes,,,MPSC
+2696,AP-Navegantes-TJ_04,,Access Point,,Active,Navegantes,,,MPSC
+2697,AP-Navegantes-TJ_05,,Access Point,,Active,Navegantes,,,MPSC
+2698,AP-Navegantes-TJ_06,,Access Point,,Active,Navegantes,,,MPSC
+2699,AP-Navegantes-TJ_07,,Access Point,,Active,Navegantes,,,MPSC
+2598,AP-Orleans-TJ_01,,Access Point,,Active,Orleans,,,MPSC
+2599,AP-Orleans-TJ_02,,Access Point,,Active,Orleans,,,MPSC
+2600,AP-Orleans-TJ_03,,Access Point,,Active,Orleans,,,MPSC
+2476,AP-Otacilio-Costa-TJ_01,,Access Point,,Active,Otacílio Costa,,,MPSC
+2477,AP-Otacilio-Costa-TJ_02,,Access Point,,Active,Otacílio Costa,,,MPSC
+2478,AP-Otacilio-Costa-TJ_03,,Access Point,,Active,Otacílio Costa,,,MPSC
+2330,AP-Palhoca-TJ_01,,Access Point,,Active,Palhoça,,,MPSC
+2331,AP-Palhoca-TJ_02,,Access Point,,Active,Palhoça,,,MPSC
+2332,AP-Palhoca-TJ_03,,Access Point,,Active,Palhoça,,,MPSC
+2333,AP-Palhoca-TJ_04,,Access Point,,Active,Palhoça,,,MPSC
+2334,AP-Palhoca-TJ_05,,Access Point,,Active,Palhoça,,,MPSC
+2335,AP-Palhoca-TJ_06,,Access Point,,Active,Palhoça,,,MPSC
+2336,AP-Palhoca-TJ_07,,Access Point,,Active,Palhoça,,,MPSC
+2337,AP-Palhoca-TJ_08,,Access Point,,Active,Palhoça,,,MPSC
+2338,AP-Palhoca-TJ_09,,Access Point,,Active,Palhoça,,,MPSC
+2339,AP-Palhoca-TJ_10,,Access Point,,Active,Palhoça,,,MPSC
+2372,AP-Palmitos-TJ_01,,Access Point,,Active,Palmitos,,,MPSC
+2373,AP-Palmitos-TJ_02,,Access Point,,Active,Palmitos,,,MPSC
+2374,AP-Palmitos-TJ_03,,Access Point,,Active,Palmitos,,,MPSC
+2121,AP-Papanduva-TJ_01,,Access Point,,Active,Papanduva,,,MPSC
+2122,AP-Papanduva-TJ_02,,Access Point,,Active,Papanduva,,,MPSC
+2467,AP-Penha-TJ_01,,Access Point,,Active,Penha,,,MPSC
+3386,AP-Penha-TJ_02,,Access Point,,Active,Penha,,,MPSC
+2358,AP-Pinhalzinho-TJ_01,,Access Point,,Active,Pinhalzinho,,,MPSC
+2359,AP-Pinhalzinho-TJ_02,,Access Point,,Active,Pinhalzinho,,,MPSC
+2700,AP-Pomerode-TJ_01,,Access Point,,Active,Pomerode,,,MPSC
+2701,AP-Pomerode-TJ_02,,Access Point,,Active,Pomerode,,,MPSC
+2702,AP-Pomerode-TJ_03,,Access Point,,Active,Pomerode,,,MPSC
+2703,AP-Pomerode-TJ_04,,Access Point,,Active,Pomerode,,,MPSC
+2704,AP-Pomerode-TJ_05,,Access Point,,Active,Pomerode,,,MPSC
+2360,AP-Ponte-Serrada-TJ_01,,Access Point,,Active,Ponte Serrada,,,MPSC
+2361,AP-Ponte-Serrada-TJ_02,,Access Point,,Active,Ponte Serrada,,,MPSC
+2576,AP-Porto-Belo-TJ_01,,Access Point,,Active,Porto Belo,,,MPSC
+2577,AP-Porto-Belo-TJ_02,,Access Point,,Active,Porto Belo,,,MPSC
+2578,AP-Porto-Belo-TJ_03,,Access Point,,Active,Porto Belo,,,MPSC
+2567,AP-Porto-Uniao-TJ_01,,Access Point,,Active,Porto União,,,MPSC
+2568,AP-Porto-Uniao-TJ_02,,Access Point,,Active,Porto União,,,MPSC
+2569,AP-Porto-Uniao-TJ_03,,Access Point,,Active,Porto União,,,MPSC
+2570,AP-Porto-Uniao-TJ_04,,Access Point,,Active,Porto União,,,MPSC
+2564,AP-Presidente-Getulio-TJ_01,,Access Point,,Active,Presidente Getúlio,,,MPSC
+2227,AP-Quilombo-TJ_01,,Access Point,,Active,Quilombo,,,MPSC
+2228,AP-Quilombo-TJ_02,,Access Point,,Active,Quilombo,,,MPSC
+2188,AP-Rio-do-Campo-TJ_01,,Access Point,,Active,Rio do Campo,,,MPSC
+2705,AP-Rio-do-Oeste-TJ,,Access Point,,Active,Rio do Oeste,,,MPSC
+2554,AP-Rio-do-Sul-TJ_01,,Access Point,,Active,Rio do Sul,,,MPSC
+2555,AP-Rio-do-Sul-TJ_02,,Access Point,,Active,Rio do Sul,,,MPSC
+2556,AP-Rio-do-Sul-TJ_03,,Access Point,,Active,Rio do Sul,,,MPSC
+2557,AP-Rio-do-Sul-TJ_04,,Access Point,,Active,Rio do Sul,,,MPSC
+2558,AP-Rio-do-Sul-TJ_05,,Access Point,,Active,Rio do Sul,,,MPSC
+2559,AP-Rio-do-Sul-TJ_06,,Access Point,,Active,Rio do Sul,,,MPSC
+2560,AP-Rio-do-Sul-TJ_07,,Access Point,,Active,Rio do Sul,,,MPSC
+2561,AP-Rio-do-Sul-TJ_08,,Access Point,,Active,Rio do Sul,,,MPSC
+2172,AP-Rio-Negrinho-TJ_01,,Access Point,,Active,Rio Negrinho,,,MPSC
+2173,AP-Rio-Negrinho-TJ_02,,Access Point,,Active,Rio Negrinho - Unidade Avançada,,,MPSC
+2479,AP-Santa-Cecilia-TJ_01,,Access Point,,Active,Santa Cecília,,,MPSC
+2480,AP-Santa-Cecilia-TJ_02,,Access Point,,Active,Santa Cecília,,,MPSC
+2481,AP-Santa-Cecilia-TJ_03,,Access Point,,Active,Santa Cecília,,,MPSC
+2327,AP-Santa-Rosa-Sul-TJ_01,,Access Point,,Active,Santa Rosa do Sul,,,MPSC
+2328,AP-Santa-Rosa-Sul-TJ_02,,Access Point,,Active,Santa Rosa do Sul,,,MPSC
+2454,AP-Sao-Bento-Do-Sul-TJ_01,,Access Point,,Active,São Bento do Sul,,,MPSC
+2455,AP-Sao-Bento-Do-Sul-TJ_02,,Access Point,,Active,São Bento do Sul,,,MPSC
+2456,AP-Sao-Bento-Do-Sul-TJ_03,,Access Point,,Active,São Bento do Sul,,,MPSC
+2457,AP-Sao-Bento-Do-Sul-TJ_04,,Access Point,,Active,São Bento do Sul,,,MPSC
+2574,AP-Sao-Carlos-TJ_01,,Access Point,,Active,São Carlos,,,MPSC
+2575,AP-Sao-Carlos-TJ_02,,Access Point,,Active,São Carlos,,,MPSC
+2601,AP-Sao-Domingos-TJ_01,,Access Point,,Active,São Domingos,,,MPSC
+2602,AP-Sao-Domingos-TJ_02,,Access Point,,Active,São Domingos,,,MPSC
+2603,AP-Sao-Domingos-TJ_03,,Access Point,,Active,São Domingos,,,MPSC
+2117,AP-Sao-Francisco-do-Sul-TJ_01,,Access Point,,Active,São Francisco do Sul,,,MPSC
+2118,AP-Sao-Francisco-do-Sul-TJ_02,,Access Point,,Active,São Francisco do Sul,,,MPSC
+2119,AP-Sao-Francisco-do-Sul-TJ_03,,Access Point,,Active,São Francisco do Sul,,,MPSC
+2120,AP-Sao-Francisco-do-Sul-TJ_04,,Access Point,,Active,São Francisco do Sul,,,MPSC
+2295,AP-Sao-Joao-Batista-TJ_01,,Access Point,,Active,São João Batista,,,MPSC
+2296,AP-Sao-Joao-Batista-TJ_02,,Access Point,,Active,São João Batista,,,MPSC
+2297,AP-Sao-Joao-Batista-TJ_03,,Access Point,,Active,São João Batista,,,MPSC
+2550,AP-Sao-Joaquim-TJ_01,,Access Point,,Active,São Joaquim,,,MPSC
+2551,AP-Sao-Joaquim-TJ_02,,Access Point,,Active,São Joaquim,,,MPSC
+2552,AP-Sao-Joaquim-TJ_03,,Access Point,,Active,São Joaquim,,,MPSC
+2553,AP-Sao-Joaquim-TJ_04,,Access Point,,Active,São Joaquim,,,MPSC
+2257,AP-Sao-Jose-do-Cedro-TJ_01,,Access Point,,Active,São José do Cedro,,,MPSC
+2536,AP-Sao-Jose-TJ_01,,Access Point,,Active,São José,,,MPSC
+2537,AP-Sao-Jose-TJ_02,,Access Point,,Active,São José,,,MPSC
+2538,AP-Sao-Jose-TJ_03,,Access Point,,Active,São José,,,MPSC
+2539,AP-Sao-Jose-TJ_04,,Access Point,,Active,São José,,,MPSC
+2540,AP-Sao-Jose-TJ_05,,Access Point,,Active,São José,,,MPSC
+2541,AP-Sao-Jose-TJ_06,,Access Point,,Active,São José,,,MPSC
+2542,AP-Sao-Jose-TJ_07,,Access Point,,Active,São José,,,MPSC
+2543,AP-Sao-Jose-TJ_08,,Access Point,,Active,São José,,,MPSC
+2544,AP-Sao-Jose-TJ_09,,Access Point,,Active,São José,,,MPSC
+2545,AP-Sao-Jose-TJ_10,,Access Point,,Active,São José,,,MPSC
+3147,AP-Sao-Jose-TJ_11,,Access Point,,Active,São José,,,MPSC
+2573,AP-Sao-Lourenco-do-Oeste-TJ_01,,Access Point,,Active,São Lourenço do Oeste,,,MPSC
+2252,AP-Sao-Miguel-do-Oeste-TJ_01,,Access Point,,Active,São Miguel do Oeste,,,MPSC
+2253,AP-Sao-Miguel-do-Oeste-TJ_02,,Access Point,,Active,São Miguel do Oeste,,,MPSC
+2254,AP-Sao-Miguel-do-Oeste-TJ_03,,Access Point,,Active,São Miguel do Oeste,,,MPSC
+2255,AP-Sao-Miguel-do-Oeste-TJ_04,,Access Point,,Active,São Miguel do Oeste,,,MPSC
+2256,AP-Sao-Miguel-do-Oeste-TJ_05,,Access Point,,Active,São Miguel do Oeste,,,MPSC
+3391,AP-Sao-Miguel-do-Oeste-TJ_06,,Access Point,,Active,São Miguel do Oeste,,,MPSC
+2200,AP-Seara-TJ_01,,Access Point,,Active,Seara,,,MPSC
+2201,AP-Seara-TJ_02,,Access Point,,Active,Seara,,,MPSC
+2202,AP-Seara-TJ_03,,Access Point,,Active,Seara,,,MPSC
+2115,AP-Sombrio-TJ_01,,Access Point,,Active,Sombrio,,,MPSC
+2116,AP-Sombrio-TJ_02,,Access Point,,Active,Sombrio,,,MPSC
+2375,AP-Sto-Amaro-Imperatriz-2-TJ_01,,Access Point,,Active,Santo Amaro da Imperatriz - Unidade Avançada,,,MPSC
+2376,AP-Sto-Amaro-Imperatriz-TJ_01,,Access Point,,Active,Santo Amaro da Imperatriz,,,MPSC
+2377,AP-Sto-Amaro-Imperatriz-TJ_02,,Access Point,,Active,Santo Amaro da Imperatriz,,,MPSC
+2189,AP-Taio-TJ_01,,Access Point,,Active,Taió,,,MPSC
+2356,AP-Tangara-TJ_01,,Access Point,,Active,Tangará,,,MPSC
+2357,AP-Tangara-TJ_02,,Access Point,,Active,Tangará,,,MPSC
+2345,AP-Tijucas-TJ_01,,Access Point,,Active,Tijucas,,,MPSC
+2346,AP-Tijucas-TJ_02,,Access Point,,Active,Tijucas,,,MPSC
+2347,AP-Tijucas-TJ_03,,Access Point,,Active,Tijucas,,,MPSC
+2532,AP-Timbo-TJ_01,,Access Point,,Active,Timbó,,,MPSC
+2533,AP-Timbo-TJ_02,,Access Point,,Active,Timbó,,,MPSC
+2535,AP-Timbo-TJ_03,,Access Point,,Active,Timbó,,,MPSC
+3385,AP-Timbo-TJ_04,,Access Point,,Active,Timbó,,,MPSC
+2752,AP_TJ_Terreo_Corredor_Acesso_T2,,Access Point,,Active,Torre 1,,,
+2757,AP_TJ_Terreo_Escada_Ent_Pleno,,Access Point,,Active,Torre 1,,,
+2756,AP_TJ_Terreo_FAC_031,,Access Point,,Active,Torre 1,,,
+2755,AP_TJ_Terreo_GVP_007,,Access Point,,Active,Torre 1,,,
+2753,AP_TJ_Terreo_Restaurante,,Access Point,,Active,Torre 1,,,
+2754,AP_TJ_Terreo_Tramitacao_034,,Access Point,,Active,Torre 1,,,
+2706,AP-Trombudo-Central-TJ_01,,Access Point,,Active,Trombudo Central,,,MPSC
+2707,AP-Trombudo-Central-TJ_02,,Access Point,,Active,Trombudo Central,,,MPSC
+2019,AP-Tubarao-TJ_01,,Access Point,,Active,Tubarão,,,MPSC
+2020,AP-Tubarao-TJ_02,,Access Point,,Active,Tubarão,,,MPSC
+2021,AP-Tubarao-TJ_03,,Access Point,,Active,Tubarão,,,MPSC
+2022,AP-Tubarao-TJ_04,,Access Point,,Active,Tubarão,,,MPSC
+2023,AP-Tubarao-TJ_05,,Access Point,,Active,Tubarão,,,MPSC
+2024,AP-Tubarao-TJ_06,,Access Point,,Active,Tubarão,,,MPSC
+2025,AP-Tubarao-TJ_07,,Access Point,,Active,Tubarão,,,MPSC
+2026,AP-Tubarao-TJ_08,,Access Point,,Active,Tubarão,,,MPSC
+2027,AP-Tubarao-TJ_09,,Access Point,,Active,Tubarão,,,MPSC
+2028,AP-Tubarao-TJ_10,,Access Point,,Active,Tubarão,,,MPSC
+2029,AP-Tubarao-TJ_11,,Access Point,,Active,Tubarão,,,MPSC
+2529,AP-Turvo-TJ_01,,Access Point,,Active,Turvo,,,MPSC
+2530,AP-Turvo-TJ_02,,Access Point,,Active,Turvo,,,MPSC
+2531,AP-Turvo-TJ_03,,Access Point,,Active,Turvo,,,MPSC
+2499,AP-Urubici-TJ_01,,Access Point,,Active,Urubici,,,MPSC
+2500,AP-Urubici-TJ_02,,Access Point,,Active,Urubici,,,MPSC
+2501,AP-Urubici-TJ_03,,Access Point,,Active,Urubici,,,MPSC
+2526,AP-Urussanga-TJ_01,,Access Point,,Active,Urussanga,,,MPSC
+2527,AP-Urussanga-TJ_02,,Access Point,,Active,Urussanga,,,MPSC
+2495,AP-Videira-TJ_01,,Access Point,,Active,Videira,,,MPSC
+2496,AP-Videira-TJ_02,,Access Point,,Active,Videira,,,MPSC
+2497,AP-Videira-TJ_03,,Access Point,,Active,Videira,,,MPSC
+2498,AP-Videira-TJ_04,,Access Point,,Active,Videira,,,MPSC
+2203,AP-Xanxere-TJ_01,,Access Point,,Active,Xanxerê,,,MPSC
+2204,AP-Xanxere-TJ_02,,Access Point,,Active,Xanxerê,,,MPSC
+2205,AP-Xanxere-TJ_03,,Access Point,,Active,Xanxerê,,,MPSC
+2206,AP-Xanxere-TJ_04,,Access Point,,Active,Xanxerê,,,MPSC
+2492,AP-Xaxim-TJ_01,,Access Point,,Active,Xaxim,,,MPSC
+2493,AP-Xaxim-TJ_02,,Access Point,,Active,Xaxim,,,MPSC
+2494,AP-Xaxim-TJ_03,,Access Point,,Active,Xaxim,,,MPSC
+2947,ASR 1001 Oi,,Router Internet,,Active,CPD,Rack Telecom 01,21.0,
+2953,ASR 1001-X Oi (confirmar),,Router MPLS,,Active,CPD,Rack Telecom 01,13.0,
+3448,ATA D-Link 01,,VoIP Gateway,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,5.0,
+2068,Backbone-Torre5-9300,,Core Switch,,Active,Academia Judicial / UDB,,,TJSC
+2069,Backbone-Torre5-9300:2,,Core Switch,,Active,Academia Judicial / UDB,,,TJSC
+2878,BACKBONE_TORRE_II_novo:1,,Core Switch,,Active,Torre 2,,,TJSC
+2879,BACKBONE_TORRE_II_novo:2,,Core Switch,,Active,Torre 2,,,TJSC
+2817,BACKBONE_TORRE_I-NEXUS1,,Core Switch,,Active,Torre 1,,,TJSC
+2818,BACKBONE_TORRE_I-NEXUS2,,Core Switch,,Active,Torre 1,,,TJSC
+3312,bb_Abelardo_Luz:1,,Core Switch,,Active,Abelardo Luz,,,TJSC
+3313,bb_Abelardo_Luz:2,,Core Switch,,Active,Abelardo Luz,,,TJSC
+3290,bb_anchieta:1,,Core Switch,,Active,Anchieta,,,TJSC
+3291,bb_anchieta:2,,Core Switch,,Active,Anchieta,,,TJSC
+3158,bb_anita_garibaldi:1,,Core Switch,,Active,Anita Garibaldi,,,TJSC
+3159,bb_anita_garibaldi:2,,Core Switch,,Active,Anita Garibaldi,,,TJSC
+3343,bb_araquari:1,,Core Switch,,Active,Araquari,,,TJSC
+3344,bb_araquari:2,,Core Switch,,Active,Araquari,,,TJSC
+3121,bb_ararangua:1,,Core Switch,,Active,Araranguá,,,TJSC
+3122,bb_ararangua:2,,Core Switch,,Active,Araranguá,,,TJSC
+2763,bb_aririu:1,,Core Switch,,Active,Aririú,,,
+2764,bb_aririu:2,,Core Switch,,Active,Aririú,,,
+3072,bb_armazem:1,,Core Switch,,Active,Armazém,,,TJSC
+3073,bb_armazem:2,,Core Switch,,Active,Armazém,,,TJSC
+3066,bb_ascurra:1,,Core Switch,,Active,Ascurra,,,TJSC
+3067,bb_ascurra:2,,Core Switch,,Active,Ascurra,,,TJSC
+3005,bb_balneario_camboriu:1,,Core Switch,,Active,Balneário Camboriú,,,TJSC
+3006,bb_balneario_camboriu:2,,Core Switch,,Active,Balneário Camboriú,,,TJSC
+3056,bb_balneario_picarras:1,,Core Switch,,Active,Balneário Piçarras,,,TJSC
+3057,bb_balneario_picarras:2,,Core Switch,,Active,Balneário Piçarras,,,TJSC
+3052,bb_barra_velha:1,,Core Switch,,Active,Barra Velha,,,TJSC
+3053,bb_barra_velha:2,,Core Switch,,Active,Barra Velha,,,TJSC
+2902,bb_biguacu:1,,Core Switch,,Active,Biguaçu,,,TJSC
+2903,bb_biguacu:2,,Core Switch,,Active,Biguaçu,,,TJSC
+3356,bb_biguacu_avancada:1,,Core Switch,,Active,Biguaçu - Unidade Avançada (Jec),,,TJSC
+3357,bb_biguacu_avancada:2,,Core Switch,,Active,Biguaçu - Unidade Avançada (Jec),,,TJSC
+3058,bb_blumenau:1,,Core Switch,,Active,Blumenau,,,TJSC
+3059,bb_blumenau:2,,Core Switch,,Active,Blumenau,,,TJSC
+3060,bb_blumenau_furb:1,,Core Switch,,Active,Blumenau - Furb,,,TJSC
+3061,bb_blumenau_furb:2,,Core Switch,,Active,Blumenau - Furb,,,TJSC
+3164,bb_bom_retiro:1,,Core Switch,,Active,Bom Retiro,,,TJSC
+3165,bb_bom_retiro:2,,Core Switch,,Active,Bom Retiro,,,TJSC
+3074,bb_braco_do_norte:1,,Core Switch,,Active,Braço do Norte,,,TJSC
+3075,bb_braco_do_norte:2,,Core Switch,,Active,Braço do Norte,,,TJSC
+2758,bb_brejaru:1,,Core Switch,,Active,Brejarú,,,
+2759,bb_brejaru:2,,Core Switch,,Active,Brejarú,,,
+3038,bb_brusque:1,,Core Switch,,Active,Brusque,,,TJSC
+3039,bb_brusque:2,,Core Switch,,Active,Brusque,,,TJSC
+3040,bb_brusque_avancada:1,,Core Switch,,Active,Brusque - Unidade Avançada,,,TJSC
+3041,bb_brusque_avancada:2,,Core Switch,,Active,Brusque - Unidade Avançada,,,TJSC
+3186,bb_cacador:1,,Core Switch,,Active,Caçador,,,TJSC
+3187,bb_cacador:2,,Core Switch,,Active,Caçador,,,TJSC
+3184,bb_cacador_avancada:1,,Core Switch,,Active,Caçador - Unidade Avançada,,,TJSC
+3185,bb_cacador_avancada:2,,Core Switch,,Active,Caçador - Unidade Avançada,,,TJSC
+3007,bb_camboriu:1,,Core Switch,,Active,Camboriú,,,TJSC
+3012,bb_camboriu:2,,Core Switch,,Active,Camboriú,,,TJSC
+3155,bb_campo_belo_do_sul:1,,Core Switch,,Active,Campo Belo do Sul,,,TJSC
+3156,bb_campo_belo_do_sul:2,,Core Switch,,Active,Campo Belo do Sul,,,TJSC
+3292,bb_campo_ere:1,,Core Switch,,Active,Campo Erê,,,TJSC
+3293,bb_campo_ere:2,,Core Switch,,Active,Campo Erê,,,TJSC
+3196,bb_campos_novos:1,,Core Switch,,Active,Campos Novos,,,TJSC
+3197,bb_campos_novos:2,,Core Switch,,Active,Campos Novos,,,TJSC
+3259,bb_canoinhas:1,,Core Switch,,Active,Canoinhas,,,TJSC
+3260,bb_canoinhas:2,,Core Switch,,Active,Canoinhas,,,TJSC
+3198,bb_capinzal:1,,Core Switch,,Active,Capinzal,,,TJSC
+3199,bb_capinzal:2,,Core Switch,,Active,Capinzal,,,TJSC
+3001,bb_capivari:1,,Core Switch,,Active,Capivari de Baixo,,,TJSC
+3002,bb_capivari:2,,Core Switch,,Active,Capivari de Baixo,,,TJSC
+3202,bb_catanduvas:1,,Core Switch,,Active,Catanduvas,,,TJSC
+3203,bb_catanduvas:2,,Core Switch,,Active,Catanduvas,,,TJSC
+3235,bb_chapeco:1,,Core Switch,,Active,Chapecó,,,TJSC
+3236,bb_chapeco:2,,Core Switch,,Active,Chapecó,,,TJSC
+3222,bb_concordia:1,,Core Switch,,Active,Concórdia,,,TJSC
+3223,bb_concordia:2,,Core Switch,,Active,Concórdia,,,TJSC
+3249,bb_coronel_freitas:1,,Core Switch,,Active,Coronel Freitas,,,TJSC
+3250,bb_coronel_freitas:2,,Core Switch,,Active,Coronel Freitas,,,TJSC
+3151,bb_correia_pinto:1,,Core Switch,,Active,Correia Pinto,,,TJSC
+3152,bb_correia_pinto:2,,Core Switch,,Active,Correia Pinto,,,TJSC
+3088,bb_criciuma:1,,Core Switch,,Active,Criciúma,,,TJSC
+3089,bb_criciuma:2,,Core Switch,,Active,Criciúma,,,TJSC
+3098,bb_criciuma_unesc:1,,Core Switch,,Active,Criciúma - UNESC,,,TJSC
+3099,bb_criciuma_unesc:2,,Core Switch,,Active,Criciúma - UNESC,,,TJSC
+3280,bb_cunha_pora:1,,Core Switch,,Active,Cunha Porã,,,TJSC
+3281,bb_cunha_pora:2,,Core Switch,,Active,Cunha Porã,,,TJSC
+3176,bb_curitibanos:1,,Core Switch,,Active,Curitibanos,,,TJSC
+3177,bb_curitibanos:2,,Core Switch,,Active,Curitibanos,,,TJSC
+3331,bb_descanso:1,,Core Switch,,Active,Descanso,,,TJSC
+3332,bb_descanso:2,,Core Switch,,Active,Descanso,,,TJSC
+3297,bb_dionisio_cerqueira:1,,Core Switch,,Active,Dionísio Cerqueira,,,TJSC
+3298,bb_dionisio_cerqueira:2,,Core Switch,,Active,Dionísio Cerqueira,,,TJSC
+2765,bb_estreito:1,,Core Switch,,Active,Estreito,,,
+2766,bb_estreito:2,,Core Switch,,Active,Estreito,,,
+2995,bb_fln_norte_ilha_ufsc:1,,Core Switch,2S2190053446,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,40.0,TJSC
+2996,bb_fln_norte_ilha_ufsc:2,,Core Switch,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,38.0,TJSC
+3086,bb_forquilhinha:1,,Core Switch,,Active,Forquilhinha,,,TJSC
+3087,bb_forquilhinha:2,,Core Switch,,Active,Forquilhinha,,,TJSC
+3178,bb_fraiburgo:1,,Core Switch,,Active,Fraiburgo,,,TJSC
+3179,bb_fraiburgo:2,,Core Switch,,Active,Fraiburgo,,,TJSC
+2993,bb_garopaba:1,,Core Switch,2S2190053409,Active,Garopaba,,,TJSC
+2994,bb_garopaba:2,,Core Switch,,Active,Garopaba,,,TJSC
+3337,bb_garuva:1,,Core Switch,,Active,Garuva,,,TJSC
+3338,bb_garuva:2,,Core Switch,,Active,Garuva,,,TJSC
+3068,bb_gaspar:1,,Core Switch,,Active,Gaspar,,,TJSC
+3069,bb_gaspar:2,,Core Switch,,Active,Gaspar,,,TJSC
+3345,bb_guaramirim:1,,Core Switch,,Active,Guaramirim,,,TJSC
+3346,bb_guaramirim:2,,Core Switch,,Active,Guaramirim,,,TJSC
+3220,bb_herval_do_oeste:1,,Core Switch,,Active,Herval do Oeste,,,TJSC
+3221,bb_herval_do_oeste:2,,Core Switch,,Active,Herval do Oeste,,,TJSC
+3127,bb_ibirama:1,,Core Switch,,Active,Ibirama,,,TJSC
+3128,bb_ibirama:2,,Core Switch,,Active,Ibirama,,,TJSC
+3090,bb_icara:1,,Core Switch,,Active,Içara,,,TJSC
+3091,bb_icara:2,,Core Switch,,Active,Içara,,,TJSC
+3076,bb_imarui:1,,Core Switch,,Active,Imaruí,,,TJSC
+3077,bb_imarui:2,,Core Switch,,Active,Imaruí,,,TJSC
+3078,bb_imbituba_1vara:1,,Core Switch,,Active,Imbituba - Primeira Vara,,,TJSC
+3079,bb_imbituba_1vara:2,,Core Switch,,Active,Imbituba - Primeira Vara,,,TJSC
+3080,bb_imbituba_2vara:1,,Core Switch,,Active,Imbituba - Segunda Vara,,,TJSC
+3081,bb_imbituba_2vara:2,,Core Switch,,Active,Imbituba - Segunda Vara,,,TJSC
+3027,bb_indaial:1,,Core Switch,,Active,Indaial,,,
+3028,bb_indaial:2,,Core Switch,,Active,Indaial,,,
+3314,bb_ipumirim:1,,Core Switch,,Active,Ipumirim,,,TJSC
+3315,bb_ipumirim:2,,Core Switch,,Active,Ipumirim,,,TJSC
+3316,bb_ita:1,,Core Switch,,Active,Itá,,,TJSC
+3317,bb_ita:2,,Core Switch,,Active,Itá,,,TJSC
+3257,bb_itaiopolis:1,,Core Switch,,Active,Itaiópolis,,,TJSC
+3258,bb_itaiopolis:2,,Core Switch,,Active,Itaiópolis,,,TJSC
+3008,bb_itajai:1,,Core Switch,,Active,Itajaí,,,TJSC
+3013,bb_itajai:2,,Core Switch,,Active,Itajaí,,,TJSC
+3358,bb_itajai_universitario:1,,Core Switch,,Active,Itajaí - Fórum Universitário,,,TJSC
+3359,bb_itajai_universitario:2,,Core Switch,,Active,Itajaí - Fórum Universitário,,,TJSC
+2999,bb_itapema:1,,Core Switch,,Active,Itapema,,,TJSC
+3000,bb_itapema:2,,Core Switch,,Active,Itapema,,,TJSC
+3284,bb_itapiranga:1,,Core Switch,,Active,Itapiranga,,,TJSC
+3285,bb_itapiranga:2,,Core Switch,,Active,Itapiranga,,,TJSC
+3339,bb_itapoa:1,,Core Switch,,Active,Itapoá,,,TJSC
+3340,bb_itapoa:2,,Core Switch,,Active,Itapoá,,,TJSC
+3142,bb_ituporanga:1,,Core Switch,,Active,Ituporanga,,,TJSC
+3143,bb_ituporanga:2,,Core Switch,,Active,Ituporanga,,,TJSC
+3084,bb_jaguaruna:1,,Core Switch,,Active,Jaguaruna,,,TJSC
+3085,bb_jaguaruna:2,,Core Switch,,Active,Jaguaruna,,,TJSC
+3347,bb_jaragua_do_sul:1,,Core Switch,,Active,Jaraguá do Sul,,,TJSC
+3348,bb_jaragua_do_sul:2,,Core Switch,,Active,Jaraguá do Sul,,,TJSC
+3349,bb_jaragua_do_sul_avancada:1,,Core Switch,,Active,Jaraguá do Sul - Unidade Avançada,,,TJSC
+3350,bb_jaragua_do_sul_avancada:2,,Core Switch,,Active,Jaraguá do Sul - Unidade Avançada,,,TJSC
+3224,bb_joacaba:1,,Core Switch,,Active,Joaçaba,,,TJSC
+3225,bb_joacaba:2,,Core Switch,,Active,Joaçaba,,,TJSC
+3227,bb_joacaba_avancada:1,,Core Switch,,Active,Joaçaba - Unidade Avançada,,,TJSC
+3228,bb_joacaba_avancada:2,,Core Switch,,Active,Joaçaba - Unidade Avançada,,,TJSC
+3333,bb_joinville:1,,Core Switch,,Active,Joinville,,,TJSC
+3334,bb_joinville:2,,Core Switch,,Active,Joinville,,,TJSC
+3335,bb_joinville_fazendario:1,,Core Switch,,Active,Joinville - Fórum Fazendário,,,TJSC
+3336,bb_joinville_fazendario:2,,Core Switch,,Active,Joinville - Fórum Fazendário,,,TJSC
+3171,bb_lages:1,,Core Switch,,Active,Lages,,,TJSC
+3172,bb_lages:2,,Core Switch,,Active,Lages,,,TJSC
+3160,bb_lages_avancada:1,,Core Switch,,Active,Lages - Unidade Avançada,,,TJSC
+3161,bb_lages_avancada:2,,Core Switch,,Active,Lages - Unidade Avançada,,,TJSC
+3070,bb_laguna:1,,Core Switch,,Active,Laguna,,,TJSC
+3071,bb_laguna:2,,Core Switch,,Active,Laguna,,,TJSC
+3104,bb_lauro_muller:1,,Core Switch,,Active,Lauro Müller,,,TJSC
+3105,bb_lauro_muller:2,,Core Switch,,Active,Lauro Müller,,,TJSC
+3191,bb_lebon_regis:1,,Core Switch,,Active,Lebon Régis,,,TJSC
+3192,bb_lebon_regis:2,,Core Switch,,Active,Lebon Régis,,,TJSC
+3263,bb_mafra:1,,Core Switch,,Active,Mafra,,,TJSC
+3264,bb_mafra:2,,Core Switch,,Active,Mafra,,,TJSC
+3274,bb_maravilha:1,,Core Switch,,Active,Maravilha,,,TJSC
+3275,bb_maravilha:2,,Core Switch,,Active,Maravilha,,,TJSC
+3111,bb_meleiro:1,,Core Switch,,Active,Meleiro,,,TJSC
+3112,bb_meleiro:2,,Core Switch,,Active,Meleiro,,,TJSC
+3241,bb_modelo:1,,Core Switch,,Active,Modelo,,,TJSC
+3242,bb_modelo:2,,Core Switch,,Active,Modelo,,,TJSC
+3282,bb_mondai:1,,Core Switch,,Active,Mondaí,,,TJSC
+3283,bb_mondai:2,,Core Switch,,Active,Mondaí,,,TJSC
+3009,bb_navegantes:1,,Core Switch,,Active,Navegantes,,,TJSC
+3014,bb_navegantes:2,,Core Switch,,Active,Navegantes,,,TJSC
+2876,bb_norte_ilha:1,,Core Switch,,Active,Norte da Ilha,,,TJSC
+2877,bb_norte_ilha:2,,Core Switch,,Active,Norte da Ilha,,,TJSC
+3106,bb_orleans:1,,Core Switch,,Active,Orleans,,,TJSC
+3107,bb_orleans:2,,Core Switch,,Active,Orleans,,,TJSC
+3153,bb_otacilio_costa:1,,Core Switch,,Active,Otacílio Costa,,,TJSC
+3154,bb_otacilio_costa:2,,Core Switch,,Active,Otacílio Costa,,,TJSC
+2962,bb_palhoca:1,,Core Switch,2S2190042830,Active,Palhoça,,,TJSC
+2963,bb_palhoca:2,,Core Switch,,Active,Palhoça,,,TJSC
+3237,bb_palmitos:1,,Core Switch,,Active,Palmitos,,,TJSC
+3238,bb_palmitos:2,,Core Switch,,Active,Palmitos,,,TJSC
+3255,bb_papanduva:1,,Core Switch,,Active,Papanduva,,,TJSC
+3256,bb_papanduva:2,,Core Switch,,Active,Papanduva,,,TJSC
+3054,bb_penha:1,,Core Switch,,Active,Penha,,,TJSC
+3055,bb_penha:2,,Core Switch,,Active,Penha,,,TJSC
+3243,bb_pinhalzinho:1,,Core Switch,,Active,Pinhalzinho,,,TJSC
+3244,bb_pinhalzinho:2,,Core Switch,,Active,Pinhalzinho,,,TJSC
+3064,bb_pomerode:1,,Core Switch,,Active,Pomerode,,,TJSC
+3065,bb_pomerode:2,,Core Switch,,Active,Pomerode,,,TJSC
+3318,bb_ponte_serrada:1,,Core Switch,,Active,Ponte Serrada,,,TJSC
+3319,bb_ponte_serrada:2,,Core Switch,,Active,Ponte Serrada,,,TJSC
+2997,bb_porto_belo:1,,Core Switch,,Active,Porto Belo,,,TJSC
+2998,bb_porto_belo:2,,Core Switch,,Active,Porto Belo,,,TJSC
+3261,bb_porto_uniao:1,,Core Switch,,Active,Porto União,,,TJSC
+3262,bb_porto_uniao:2,,Core Switch,,Active,Porto União,,,TJSC
+3129,bb_presidente_getulio:1,,Core Switch,,Active,Presidente Getúlio,,,TJSC
+3130,bb_presidente_getulio:2,,Core Switch,,Active,Presidente Getúlio,,,TJSC
+3245,bb_quilombo:1,,Core Switch,,Active,Quilombo,,,TJSC
+3246,bb_quilombo:2,,Core Switch,,Active,Quilombo,,,TJSC
+3138,bb_rio_do_campo:1,,Core Switch,,Active,Rio do Campo,,,TJSC
+3139,bb_rio_do_campo:2,,Core Switch,,Active,Rio do Campo,,,TJSC
+3136,bb_rio_do_oeste:1,,Core Switch,,Active,Rio do Oeste,,,TJSC
+3137,bb_rio_do_oeste:2,,Core Switch,,Active,Rio do Oeste,,,TJSC
+3131,bb_rio_do_sul:1,,Core Switch,,Active,Rio do Sul,,,TJSC
+3132,bb_rio_do_sul:2,,Core Switch,,Active,Rio do Sul,,,TJSC
+3267,bb_rio_negrinho:1,,Core Switch,,Active,Rio Negrinho,,,TJSC
+3268,bb_rio_negrinho:2,,Core Switch,,Active,Rio Negrinho,,,TJSC
+3265,bb_rio_negrinho_avancada:1,,Core Switch,,Active,Rio Negrinho - Unidade Avançada,,,TJSC
+3266,bb_rio_negrinho_avancada:2,,Core Switch,,Active,Rio Negrinho - Unidade Avançada,,,TJSC
+3193,bb_santa_cecilia:1,,Core Switch,,Active,Santa Cecília,,,TJSC
+3194,bb_santa_cecilia:2,,Core Switch,,Active,Santa Cecília,,,TJSC
+3119,bb_santa_rosa:1,,Core Switch,,Active,Santa Rosa do Sul,,,TJSC
+3120,bb_santa_rosa:2,,Core Switch,,Active,Santa Rosa do Sul,,,TJSC
+2904,bb_santo_amaro:1,,Core Switch,,Active,Santo Amaro da Imperatriz,,,TJSC
+2905,bb_santo_amaro:2,,Core Switch,,Active,Santo Amaro da Imperatriz,,,TJSC
+2906,bb_santo_amaro_avancada:1,,Core Switch,,Active,Santo Amaro da Imperatriz - Unidade Avançada,,,TJSC
+2907,bb_santo_amaro_avancada:2,,Core Switch,,Active,Santo Amaro da Imperatriz - Unidade Avançada,,,TJSC
+3010,bb_sao_batista:1,,Core Switch,,Active,São João Batista,,,TJSC
+3015,bb_sao_batista:2,,Core Switch,,Active,São João Batista,,,TJSC
+3269,bb_sao_bento:1,,Core Switch,,Active,São Bento do Sul,,,TJSC
+3270,bb_sao_bento:2,,Core Switch,,Active,São Bento do Sul,,,TJSC
+3239,bb_sao_carlos:1,,Core Switch,,Active,São Carlos,,,TJSC
+3240,bb_sao_carlos:2,,Core Switch,,Active,São Carlos,,,TJSC
+3320,bb_sao_domingos:1,,Core Switch,,Active,São Domingos,,,TJSC
+3321,bb_sao_domingos:2,,Core Switch,,Active,São Domingos,,,TJSC
+3341,bb_sao_francisco_do_sul:1,,Core Switch,,Active,São Francisco do Sul,,,TJSC
+3342,bb_sao_francisco_do_sul:2,,Core Switch,,Active,São Francisco do Sul,,,TJSC
+3166,bb_sao_joaquim:1,,Core Switch,,Active,São Joaquim,,,TJSC
+3167,bb_sao_joaquim:2,,Core Switch,,Active,São Joaquim,,,TJSC
+2909,bb_sao_jose:1,,Core Switch,,Active,São José,,,TJSC
+2910,bb_sao_jose:2,,Core Switch,,Active,São José,,,TJSC
+2900,bb_sao_jose_almox:1,,Core Switch,,Active,Almoxarifado,,,TJSC
+2901,bb_sao_jose_almox:2,,Core Switch,,Active,Almoxarifado,,,TJSC
+3294,bb_sao_jose_cedro:1,,Core Switch,,Active,São José do Cedro,,,TJSC
+3295,bb_sao_jose_cedro:2,,Core Switch,,Active,São José do Cedro,,,TJSC
+3407,bb_sao_jose_deposito:1,,Core Switch,,Active,Depósito,,,TJSC
+3408,bb_sao_jose_deposito:2,,Core Switch,,Active,Depósito,,,TJSC
+3322,bb_sao_lourenco_do_oeste:1,,Core Switch,,Active,São Lourenço do Oeste,,,TJSC
+3323,bb_sao_lourenco_do_oeste:2,,Core Switch,,Active,São Lourenço do Oeste,,,TJSC
+3287,bb_sao_miguel_oeste:1,,Core Switch,,Active,São Miguel do Oeste,,,TJSC
+3288,bb_sao_miguel_oeste:2,,Core Switch,,Active,São Miguel do Oeste,,,TJSC
+3233,bb_seara:1,,Core Switch,,Active,Seara,,,TJSC
+3234,bb_seara:2,,Core Switch,,Active,Seara,,,TJSC
+3117,bb_sombrio:1,,Core Switch,,Active,Sombrio,,,TJSC
+3118,bb_sombrio:2,,Core Switch,,Active,Sombrio,,,TJSC
+3140,bb_taio:1,,Core Switch,,Active,Taió,,,TJSC
+3141,bb_taio:2,,Core Switch,,Active,Taió,,,TJSC
+3182,bb_tangara:1,,Core Switch,,Active,Tangará,,,TJSC
+3183,bb_tangara:2,,Core Switch,,Active,Tangará,,,TJSC
+3011,bb_tijucas:1,,Core Switch,,Active,Tijucas,,,TJSC
+3016,bb_tijucas:2,,Core Switch,,Active,Tijucas,,,TJSC
+3062,bb_timbo:1,,Core Switch,,Active,Timbó,,,TJSC
+3063,bb_timbo:2,,Core Switch,,Active,Timbó,,,TJSC
+3134,bb_trombudo_central:1,,Core Switch,,Active,Trombudo Central,,,TJSC
+3135,bb_trombudo_central:2,,Core Switch,,Active,Trombudo Central,,,TJSC
+3082,bb_tubarao:1,,Core Switch,,Active,Tubarão,,,TJSC
+3083,bb_tubarao:2,,Core Switch,,Active,Tubarão,,,TJSC
+3109,bb_turvo:1,,Core Switch,,Active,Turvo,,,TJSC
+3110,bb_turvo:2,,Core Switch,,Active,Turvo,,,TJSC
+3247,bb_unochapeco:1,,Core Switch,,Active,Chapecó - Unochapecó,,,TJSC
+3248,bb_unochapeco:2,,Core Switch,,Active,Chapecó - Unochapecó,,,TJSC
+3168,bb_urubici:1,,Core Switch,,Active,Urubici,,,TJSC
+3169,bb_urubici:2,,Core Switch,,Active,Urubici,,,TJSC
+3093,bb_urussanga:1,,Core Switch,,Active,Urussanga,,,TJSC
+3094,bb_urussanga:2,,Core Switch,,Active,Urussanga,,,TJSC
+3180,bb_videira:1,,Core Switch,,Active,Videira,,,TJSC
+3181,bb_videira:2,,Core Switch,,Active,Videira,,,TJSC
+3324,bb_xanxere:1,,Core Switch,,Active,Xanxerê,,,TJSC
+3325,bb_xanxere:2,,Core Switch,,Active,Xanxerê,,,TJSC
+3326,bb_xaxim:1,,Core Switch,,Active,Xaxim,,,TJSC
+3327,bb_xaxim:2,,Core Switch,,Active,Xaxim,,,TJSC
+2948,Cabos Diversos 01,,Cabos,,Active,CPD,Rack Telecom 01,20.0,
+2190,CAPITAL_ACESSO.1A.1:1,,Access Switch,,Active,Fórum da Capital,,,
+2191,CAPITAL_ACESSO.1A.1:2,,Access Switch,,Active,Fórum da Capital,,,
+2210,CAPITAL_ACESSO.2A.1:1,,Access Switch,,Active,Fórum da Capital,,,
+2209,CAPITAL_ACESSO.2A.1:2,,Access Switch,,Active,Fórum da Capital,,,
+2211,CAPITAL_ACESSO.3A.1:1,,Access Switch,,Active,Fórum da Capital,,,
+2212,CAPITAL_ACESSO.3A.1:2,,Access Switch,,Active,Fórum da Capital,,,
+2213,CAPITAL_ACESSO.4A.1:1,,Access Switch,,Active,Fórum da Capital,,,
+2214,CAPITAL_ACESSO.4A.1:2,,Access Switch,,Active,Fórum da Capital,,,
+2215,CAPITAL_ACESSO.5A.1:1,,Access Switch,,Active,Fórum da Capital,,,
+2216,CAPITAL_ACESSO.5A.1:2,,Access Switch,,Active,Fórum da Capital,,,
+2219,CAPITAL_ACESSO.6A.1:1,,Access Switch,,Active,Fórum da Capital,,,
+2220,CAPITAL_ACESSO.6A.1:2,,Access Switch,,Active,Fórum da Capital,,,
+2221,CAPITAL_ACESSO.7A.1:1,,Access Switch,,Active,Fórum da Capital,,,
+2222,CAPITAL_ACESSO.7A.1:2,,Access Switch,,Active,Fórum da Capital,,,
+2223,CAPITAL_ACESSO.8A.1:1,,Access Switch,,Active,Fórum da Capital,,,
+2224,CAPITAL_ACESSO.8A.1:2,,Access Switch,,Active,Fórum da Capital,,,
+2242,CAPITAL_ACESSO.9A.1:1,,Access Switch,,Active,Fórum da Capital,,,
+2243,CAPITAL_ACESSO.9A.1:2,,Access Switch,,Active,Fórum da Capital,,,
+2244,CAPITAL_ACESSO.10A.1:1,,Access Switch,,Active,Fórum da Capital,,,
+2245,CAPITAL_ACESSO.10A.1:2,,Access Switch,,Active,Fórum da Capital,,,
+2208,CAPITAL_ACESSO.11A.1,,Access Switch,,Active,Fórum da Capital,,,
+2262,CAPITAL_ACESSO.13A.1:1,,Access Switch,,Active,Fórum da Capital,,,
+2263,CAPITAL_ACESSO.13A.1:2,,Access Switch,,Active,Fórum da Capital,,,
+2207,CAPITAL_ACESSO.SS3.1,,Access Switch,,Active,Fórum da Capital,,,
+2237,CAPITAL_ACESSO.T.1,,Access Switch,,Active,Fórum da Capital,,,
+2192,CAPITAL_BACKBONE-9500:1,,Core Switch,,Active,Fórum da Capital,,,
+2193,CAPITAL_BACKBONE-9500:2,,Core Switch,,Active,Fórum da Capital,,,
+2238,CAPITAL.SS1.1,,Access Switch,,Active,Fórum da Capital,,,
+2240,CAPITAL.SS2.1,,Access Switch,,Active,Fórum da Capital,,,
+2239,CAPITAL.SS2.2,,Access Switch,,Active,Fórum da Capital,,,
+2241,CAPITAL.SS4.1,,Access Switch,,Active,Fórum da Capital,,,
+2218,CAPITAL.T.CENTRAL.M.1,,Access Switch,,Active,Fórum da Capital,,,
+2261,CAPITAL_VOIP.1,,Access Switch,,Active,Fórum da Capital,,,
+2946,Catalyst 2960 STJ (confirmar),,Access Switch,,Active,CPD,Rack Telecom 01,31.0,
+2961,Chassis TAP Óptico,,TAP,,Active,CPD,Rack Nexus CPD,32.0,
+2981,Chassis TAP Óptico,,TAP,,Active,Sala Cofre,Telecom 01,15.0,
+2933,Chave-Óptica-Algar,,Chave Óptica,,Active,CPD,Rack Telecom 01,38.0,
+1779,cisco_seara_15,,Access Switch,,Offline,Seara,,,TJSC
+1865,cl-fw-adz-tjsc-abelardo-luz-01,,SD-WAN,,Active,Abelardo Luz,,,mhnet
+1882,cl-fw-agd-tjsc-anita-garibaldi-01,,SD-WAN,,Active,Anita Garibaldi,,,mhnet
+1866,cl-fw-aht-tjsc-anchieta-01,,SD-WAN,,Active,Anchieta,,,mhnet
+1883,cl-fw-aqi-tjsc-araquari-01,,SD-WAN,,Active,Araquari,,,Algar
+1884,cl-fw-aru-tjsc-ararangua-01,,SD-WAN,,Active,Araranguá,,,Algar
+25,cl-fw-asc-tjsc-ascurra-01,,SD-WAN,,Active,Ascurra,,,Unifique
+3415,cl-fw-asc-tjsc-ascurra-02,,SD-WAN,,Active,Ascurra,,,Unifique
+1885,cl-fw-azm-tjsc-armazem-01,,SD-WAN,,Active,Armazém,,,ALT
+1886,cl-fw-bcu-tjsc-balneario-camb-01,,SD-WAN,,Active,Balneário Camboriú,,,Algar
+2002,cl-fw-bcu-tjsc-balneario-c-avan-01,,SD-WAN,,Offline,Balneário Camboriú  - Unidade Avançada,,,Algar
+1889,cl-fw-bgc-tjsc-biguacu-01,,SD-WAN,,Active,Biguaçu,,,Algar
+2972,cl-fw-bgc-tjsc-biguacu-avanc-01,,SD-WAN,FG100ETK19010650,Active,Biguaçu - Unidade Avançada (Jec),,,ALT
+1891,cl-fw-bmr-tjsc-bom-retiro-01,,SD-WAN,,Active,Bom Retiro,,,ALT
+1890,cl-fw-bnu-tjsc-blumenau-01,,SD-WAN,,Active,Blumenau,,,Algar
+2003,cl-fw-bnu-tjsc-blumenau-furb-01,,SD-WAN,,Active,Blumenau - Furb,,,Algar
+1892,cl-fw-bon-tjsc-braco-norte-01,,SD-WAN,,Active,Braço do Norte,,,Algar
+1893,cl-fw-bqe-tjsc-brusque-01,,SD-WAN,,Active,Brusque,,,Algar
+1894,cl-fw-bqe-tjsc-brusque-avancado-01,,SD-WAN,,Active,Brusque - Unidade Avançada,,,Algar
+1888,cl-fw-bvh-tjsc-barra-velha-01,,SD-WAN,,Active,Barra Velha,,,Algar
+1898,cl-fw-cbk-tjsc-campo-belo-01,,SD-WAN,,Active,Campo Belo do Sul,,,mhnet
+1911,cl-fw-cbs-tjsc-curitibanos-01,,SD-WAN,,Active,Curitibanos,,,Algar
+1897,cl-fw-cbw-tjsc-camboriu-01,,SD-WAN,,Active,Camboriú,,,Algar
+1904,cl-fw-cco-tjsc-chapeco-01,,SD-WAN,,Active,Chapecó,,,Algar
+2340,cl-fw-cco-tjsc-unochapeco-01,,SD-WAN,,Active,Chapecó - Unochapecó,,,Algar
+1905,cl-fw-cda-tjsc-concordia-01,,SD-WAN,,Active,Concórdia,,,TJSC
+1895,cl-fw-cdr-tjsc-cacador-01,,SD-WAN,,Active,Caçador,,,Algar
+1896,cl-fw-cdr-tjsc-cacador-avanc-vf-01,,SD-WAN,,Active,Caçador - Unidade Avançada,,,Algar
+1899,cl-fw-cew-tjsc-campo-ere-01,,SD-WAN,,Active,Campo Erê,,,mhnet
+1906,cl-fw-clf-tjsc-coronel-freitas-01,,SD-WAN,,Active,Coronel Freitas,,,mhnet
+1900,cl-fw-cni-tjsc-canoinhas-01,,SD-WAN,,Active,Canoinhas,,,Algar
+1910,cl-fw-cnp-tjsc-cunha-pora-01,,SD-WAN,,Active,Cunha Porã,,,mhnet
+1860,cl-fw-cnv-tjsc-campos-novos-01,,SD-WAN,,Active,Campos Novos,,,Algar
+1901,cl-fw-cnz-tjsc-capinzal-01,,SD-WAN,,Active,Capinzal,,,mhnet
+1902,cl-fw-cpva-tjsc-capivari-01,,SD-WAN,,Active,Capivari de Baixo,,,Algar
+1903,cl-fw-ctv-tjsc-catanduvas-01,,SD-WAN,,Active,Catanduvas,,,mhnet
+1908,cl-fw-cua-tjsc-criciuma-01,,SD-WAN,,Active,Criciúma,,,Algar
+1909,cl-fw-cua-tjsc-criciuma-unesc-01,,SD-WAN,,Active,Criciúma - UNESC,,,Algar
+1913,cl-fw-dcq-tjsc-dionisio-cerq-01,,SD-WAN,,Active,Dionísio Cerqueira,,,mhnet
+1912,cl-fw-dcs-tjsc-descanso-01,,SD-WAN,,Active,Descanso,,,mhnet
+1917,cl-fw-fgo-tjsc-fraiburgo-01,,SD-WAN,,Active,Fraiburgo,,,Algar
+2004,cl-fw-fln-tjsc-hub-a,,SD-WAN,,Active,CPD,Rack Telecom 01,9.0,Algar
+2005,cl-fw-fln-tjsc-hub-b,,SD-WAN,,Active,CPD,Rack Telecom 02,17.0,Algar
+106,cl-fw-fns-tjsc-acad-judicial-01,,SD-WAN,FG100ETK19007383,Active,Academia Judicial / UDB,,,Algar
+1881,cl-fw-fns-tjsc-accr-01,,SD-WAN,,Active,ACCR,,,Algar
+55,cl-fw-fns-tjsc-eduardo-luz,,SD-WAN,FG200ETK18914154,Active,Eduardo Luz,,,Algar
+1915,cl-fw-fns-tjsc-estreito-01,,SD-WAN,,Active,Estreito,,,Algar
+2841,cl-fw-fns-tjsc-exec-estadual-01,,SD-WAN,,Active,Executivo Estadual,,,TJSC
+1954,cl-fw-fns-tjsc-norte-da-ilha-01,,SD-WAN,,Active,Norte da Ilha,,,Algar
+1955,cl-fw-fns-tjsc-norte-da-ilha-ufsc-1,,SD-WAN,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Bracket-01,4.0,Algar
+2502,cl-fw-fns-tjsc-saldanha-marinho-01,,SD-WAN,,Offline,Unidade Saldanha Marinho - CPMA,,,Algar
+1916,cl-fw-fqa-tjsc-forquilhinha-01,,SD-WAN,,Active,Forquilhinha,,,Algar
+1921,cl-fw-gmm-tjsc-guaramirim-01,,SD-WAN,,Active,Guaramirim,,,Algar
+1920,cl-fw-gpr-tjsc-gaspar-01,,SD-WAN,,Active,Gaspar,,,Algar
+1918,cl-fw-grb-tjsc-garopaba-01,,SD-WAN,,Active,Garopaba,,,Algar
+1919,cl-fw-grv-tjsc-garuva-01,,SD-WAN,,Active,Garuva,,,Algar
+1922,cl-fw-hvd-tjsc-herval-oeste-01,,SD-WAN,,Active,Herval do Oeste,,,ALT
+3413,cl-fw-hvd-tjsc-herval-oeste-02,,SD-WAN,,Active,Herval do Oeste,,,ALT
+1932,cl-fw-iai-tjsc-Itajai-01,,SD-WAN,,Active,Itajaí,,,Algar
+1933,cl-fw-iai-tjsc-itajai-forum-uni-01,,SD-WAN,,Active,Itajaí - Fórum Universitário,,,Algar
+1928,cl-fw-idl-tjsc-indaial-01,,SD-WAN,,Active,Indaial,,,Algar
+1934,cl-fw-iea-tjsc-itapema-01,,SD-WAN,,Active,Itapema,,,Algar
+1923,cl-fw-iir-tjsc-ibirama-01,,SD-WAN,,Active,Ibirama,,,Algar
+1931,cl-fw-ils-tjsc-itaiopolis-01,,SD-WAN,,Active,Itaiópolis,,,ALT
+1926,cl-fw-ima-tjsc-imbituba-01,,SD-WAN,,Active,Imbituba - Primeira Vara,,,Algar
+1927,cl-fw-ima-tjsc-imbituba-2v-01,,SD-WAN,,Active,Imbituba - Segunda Vara,,,Algar
+1929,cl-fw-imk-tjsc-ipumirim-01,,SD-WAN,,Active,Ipumirim,,,mhnet
+1935,cl-fw-ipx-tjsc-itapiranga-01,,SD-WAN,,Active,Itapiranga,,,mhnet
+1925,cl-fw-iru-tjsc-imarui-01,,SD-WAN,,Active,Imaruí,,,ALT
+1936,cl-fw-ith-tjsc-Itapoa-01,,SD-WAN,,Active,Itapoá,,,Unifique
+3419,cl-fw-ith-tjsc-Itapoa-02,,SD-WAN,,Active,Itapoá,,,Unifique
+1937,cl-fw-iup-tjsc-Ituporanga-01,,SD-WAN,,Active,Ituporanga,,,Unifique
+3416,cl-fw-iup-tjsc-Ituporanga-02,,SD-WAN,,Active,Ituporanga,,,Unifique
+1930,cl-fw-ixa-tjsc-ita-01,,SD-WAN,,Active,Itá,,,mhnet
+1941,cl-fw-jca-tjsc-joacaba-01,,SD-WAN,,Active,Joaçaba,,,Algar
+2036,cl-fw-jca-tjsc-joacaba-avanc-01,,SD-WAN,,Active,Joaçaba - Unidade Avançada,,,Algar
+1939,cl-fw-jgs-tjsc-jaragua-sul-01,,SD-WAN,,Active,Jaraguá do Sul,,,Algar
+1940,cl-fw-jgs-tjsc-jaragua-sul-avanc-01,,SD-WAN,,Active,Jaraguá do Sul - Unidade Avançada,,,Algar
+1938,cl-fw-juu-tjsc-jaguaruna-01,,SD-WAN,,Active,Jaguaruna,,,ALT
+1943,cl-fw-jve-tjsc-joinvile-forum-fz-01,,SD-WAN,,Active,Joinville - Fórum Fazendário,,,Algar
+1942,cl-fw-jve-tjsc-joinville-01,,SD-WAN,,Active,Joinville,,,Algar
+1907,cl-fw-kpo-tjsc-correia-pinto-01,,SD-WAN,,Active,Correia Pinto,,,mhnet
+1945,cl-fw-lga-tjsc-laguna-01,,SD-WAN,,Active,Laguna,,,Algar
+1944,cl-fw-lgs-tjsc-lages-01,,SD-WAN,,Active,Lages,,,Algar
+2070,cl-fw-lgs-tjsc-lages-avanc-01,,SD-WAN,,Active,Lages - Unidade Avançada,,,Algar
+1946,cl-fw-lml-tjsc-lauro-muller-01,,SD-WAN,,Active,Lauro Müller,,,Algar
+1947,cl-fw-lng-tjsc-lebon-regis-01,,SD-WAN,,Active,Lebon Régis,,,ALT
+1951,cl-fw-mdl-tjsc-modelo-01,,SD-WAN,,Active,Modelo,,,mhnet
+1950,cl-fw-mei-tjsc-meleiro-01,,SD-WAN,,Active,Meleiro,,,ALT
+1948,cl-fw-mfa-tjsc-mafra-01,,SD-WAN,,Active,Mafra,,,Algar
+1952,cl-fw-moi-tjsc-mondai-01,,SD-WAN,,Active,Mondaí,,,mhnet
+1949,cl-fw-mvh-tjsc-maravilha-01,,SD-WAN,,Active,Maravilha,,,mhnet
+1953,cl-fw-nvg-tjsc-navegantes-01,,SD-WAN,,Active,Navegantes,,,Algar
+1956,cl-fw-ols-tjsc-orleans-01,,SD-WAN,,Active,Orleans,,,Algar
+1957,cl-fw-oto-tjsc-otacilio-costa-01,,SD-WAN,,Active,Otacílio Costa,,,Algar
+1959,cl-fw-pac-tjsc-aririu-01,,SD-WAN,,Active,Aririú,,,Algar
+1960,cl-fw-pac-tjsc-brejaru-01,,SD-WAN,,Active,Brejarú,,,Algar
+1958,cl-fw-pac-tjsc-palhoca-01,,SD-WAN,,Active,Palhoça,,,Algar
+1887,cl-fw-pcx-tjsc-balneario-pic-01,,SD-WAN,,Active,Balneário Piçarras,,,Algar
+1967,cl-fw-pel-tjsc-porto-belo-01,,SD-WAN,,Active,Porto Belo,,,Algar
+1963,cl-fw-pen-tjsc-penha-01,,SD-WAN,,Active,Penha,,,Algar
+1969,cl-fw-peu-tjsc-pres-getulio-01,,SD-WAN,,Active,Presidente Getúlio,,,Algar
+1961,cl-fw-pli-tjsc-palmitos-01,,SD-WAN,,Active,Palmitos,,,mhnet
+1965,cl-fw-pod-tjsc-pomerode-01,,SD-WAN,,Active,Pomerode,,,Algar
+1962,cl-fw-ppv-tjsc-papanduva-01,,SD-WAN,,Active,Papanduva,,,ALT
+1966,cl-fw-psw-tjsc-ponteserrada-01,,SD-WAN,,Active,Ponte Serrada,,,mhnet
+1968,cl-fw-pun-tjsc-PortoUniao-01,,SD-WAN,,Active,Porto União,,,Unifique
+1964,cl-fw-pzo-tjsc-pinhalzinho-01,,SD-WAN,,Active,Pinhalzinho,,,mhnet
+1970,cl-fw-qbo-tjsc-quilombo-01,,SD-WAN,,Active,Quilombo,,,mhnet
+1971,cl-fw-rcp-tjsc-rio-do-campo-01,,SD-WAN,,Active,Rio do Campo,,,ALT
+1974,cl-fw-rin-tjsc-rio-negrinho-01,,SD-WAN,,Active,Rio Negrinho,,,Algar
+1975,cl-fw-rin-tjsc-rio-negrinho-nv-01,,SD-WAN,,Active,Rio Negrinho - Unidade Avançada,,,Algar
+1972,cl-fw-rio-tjsc-rio-do-oeste-01,,SD-WAN,,Active,Rio do Oeste,,,Algar
+1973,cl-fw-rsl-tjsc-rio-do-sul-forum-01,,SD-WAN,,Active,Rio do Sul,,,Algar
+1989,cl-fw-sar-tjsc-seara-01,,SD-WAN,,Active,Seara,,,Algar
+1978,cl-fw-sbs-tjsc-sao-bento-sul-01,,SD-WAN,,Active,São Bento do Sul,,,Algar
+1976,cl-fw-scc-tjsc-santa-cecilia-01,,SD-WAN,,Active,Santa Cecília,,,mhnet
+1985,cl-fw-scc-tjsc-sao-jose-ced-01,,SD-WAN,,Active,São José do Cedro,,,mhnet
+2039,cl-fw-sdx-tjsc-saodomingos-01,,SD-WAN,,Active,São Domingos,,,mhnet
+2006,cl-fw-seq-tjsc-santa-rosa-sul-01,,SD-WAN,,Active,Santa Rosa do Sul,,,Algar
+1980,cl-fw-sfs-tjsc-s-francisco-sul-01,,SD-WAN,,Active,São Francisco do Sul,,,Algar
+1988,cl-fw-sge-tjsc-sao-miguel-oeste-01,,SD-WAN,,Active,São Miguel do Oeste,,,mhnet
+1991,cl-fw-siz-tjsc-santo-amaro-avan-01,,SD-WAN,,Active,Santo Amaro da Imperatriz - Unidade Avançada,,,Algar
+1977,cl-fw-siz-tjsc-sto-amaro-forum-01,,SD-WAN,,Active,Santo Amaro da Imperatriz,,,Algar
+1982,cl-fw-sjq-tjsc-SaoJoaquim-01,,SD-WAN,,Active,São Joaquim,,,Unifique
+3417,cl-fw-sjq-tjsc-SaoJoaquim-02,,SD-WAN,,Active,São Joaquim,,,Unifique
+1981,cl-fw-sjs-tjsc-sao-batista-01,,SD-WAN,,Active,São João Batista,,,Algar
+1990,cl-fw-smo-tjsc-sombrio-01,,SD-WAN,,Active,Sombrio,,,Algar
+1987,cl-fw-snx-tjsc-saolourenco-01,,SD-WAN,,Active,São Lourenço do Oeste,,,mhnet
+1986,cl-fw-soo-tjsc-almox-grafica-01,,SD-WAN,,Active,Almoxarifado,,,Algar
+1984,cl-fw-soo-tjsc-sao-jose-deposito-01,,SD-WAN,,Active,Depósito,,,ALT
+3412,cl-fw-soo-tjsc-sao-jose-deposito-02,,SD-WAN,,Active,Depósito,,,ALT
+1983,cl-fw-soo-tjsc-sao-jose-forum-01,,SD-WAN,,Active,São José,,,Algar
+1979,cl-fw-srl-tjsc-sao-carlos-01,,SD-WAN,,Active,São Carlos,,,mhnet
+1993,cl-fw-tan-tjsc-tangara-01,,SD-WAN,,Active,Tangará,,,Algar
+1992,cl-fw-tao-tjsc-Taio-01,,SD-WAN,,Active,Taió,,,Unifique
+3418,cl-fw-tao-tjsc-Taio-02,,SD-WAN,,Active,Taió,,,Unifique
+1996,cl-fw-tbc-tjsc-trombudo-central-01,,SD-WAN,,Active,Trombudo Central,,,Algar
+1994,cl-fw-tij-tjsc-tijucas-01,,SD-WAN,,Active,Tijucas,,,Algar
+1995,cl-fw-tio-tjsc-timbo-01,,SD-WAN,,Active,Timbó,,,Unifique
+3414,cl-fw-tio-tjsc-timbo-02,,SD-WAN,,Active,Timbó,,,Unifique
+1864,cl-fw-tro-tjsc-tubarao-01,,SD-WAN,,Active,Tubarão,,,Algar
+2007,cl-fw-tvo-tjsc-turvo-01,,SD-WAN,,Active,Turvo,,,Algar
+1998,cl-fw-uug-tjsc-urussanga-01,,SD-WAN,,Active,Urussanga,,,Algar
+1997,cl-fw-uui-tjsc-urubici-01,,SD-WAN,,Active,Urubici,,,ALT
+3411,cl-fw-uui-tjsc-urubici-02,,SD-WAN,,Active,Urubici,,,ALT
+1999,cl-fw-vii-tjsc-videira-01,,SD-WAN,,Active,Videira,,,Algar
+2000,cl-fw-xxe-tjsc-xanxere-01,,SD-WAN,,Active,Xanxerê,,,Algar
+2001,cl-fw-xxm-tjsc-xaxim-01,,SD-WAN,,Active,Xaxim,,,mhnet
+1924,cl-fw-yca-tjsc-icara-01,,SD-WAN,,Active,Içara,,,Algar
+2964,Controladora Wireless 1,,Controladora Wireless,,Active,CPD,Rack Nexus CPD,42.0,
+2965,Controladora Wireless 2,,Controladora Wireless,,Active,CPD,Rack Nexus CPD,40.0,
+2988,CORE-DC-CIASC-01,,Core Switch,,Active,CIASC - Data Center,,,
+2989,CORE-DC-CIASC-02,,Core Switch,,Active,CIASC - Data Center,,,
+2503,CPMA-01,,Access Switch,,Offline,Unidade Saldanha Marinho - CPMA,,,TJSC
+772,cs_Chapeco_Fibra,,Distribution Switch,,Active,Chapecó,,,TJSC
+1233,cs_Joinville_Fibra,,Distribution Switch,,Active,Joinville,,,TJSC
+1814,cs_Tubarao_Fibra,,Distribution Switch,,Active,Tubarão,,,TJSC
+2842,DIO 01 - Rack Telecom 01,,Distribuidor Óptico (DIO),,Active,CPD,Rack Telecom 01,42.0,
+2978,DIO 1 - Sala Cofre,,Distribuidor Óptico (DIO),,Active,Sala Cofre,Telecom 01,20.0,
+2843,DIO 02 - Rack Telecom 01,,Distribuidor Óptico (DIO),,Active,CPD,Rack Telecom 01,41.0,
+2858,DIO 02 - Rack Telecom 02,,Distribuidor Óptico (DIO),,Active,CPD,Rack Telecom 02,32.0,
+2979,DIO 2 - Sala Cofre,,Distribuidor Óptico (DIO),,Active,Sala Cofre,Telecom 01,18.0,
+2849,DIO 03 - Rack Telecom 01,,Distribuidor Óptico (DIO),,Active,CPD,Rack Telecom 01,19.0,
+2852,DIO Algar 01 - Rack Telecom 02,,Distribuidor Óptico (DIO),,Active,CPD,Rack Telecom 02,44.0,
+3425,DIO Algar-Conv. CIASC-Ch Óptica Algar,,Distribuidor Óptico (DIO),,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Bracket-01,2.0,
+2860,DIO ALT 01 - Rack Telecom 02,,Distribuidor Óptico (DIO),,Active,CPD,Rack Telecom 02,30.0,
+2861,DIO ALT 02 - Rack Telecom 02,,Distribuidor Óptico (DIO),,Active,CPD,Rack Telecom 02,29.0,
+3421,DIO CIASC,,Distribuidor Óptico (DIO),,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Bracket-01,6.0,
+2853,DIO CIASC 01 - Rack Telecom 02,,Distribuidor Óptico (DIO),,Active,CPD,Rack Telecom 02,43.0,
+2857,DIO Claro 01 - Rack Telecom 02,,Distribuidor Óptico (DIO),,Active,CPD,Rack Telecom 02,36.0,
+2968,DIO Distribuição Rack2 CPD,,Distribuidor Óptico (DIO),,Active,CPD,Rack Nexus CPD,27.0,
+2863,DIO Lumen/BRDigital,,Distribuidor Óptico (DIO),,Active,CPD,Rack Telecom 02,24.0,
+2855,DIO Oi - FNS 1559 - 185 m,,Distribuidor Óptico (DIO),,Active,CPD,Rack Telecom 02,41.0,
+2844,DIO Oi - PRAN 04 - Rack Telecom 01,,Distribuidor Óptico (DIO),,Active,CPD,Rack Telecom 01,7.0,
+2854,DIO Oi - PRAN 3145,,Distribuidor Óptico (DIO),,Active,CPD,Rack Telecom 02,42.0,
+2966,DIO Teleco 01,,Distribuidor Óptico (DIO),,Active,CPD,Rack Nexus CPD,29.0,
+2967,DIO Torre LAN,,Distribuidor Óptico (DIO),,Active,CPD,Rack Nexus CPD,28.0,
+2856,Dio Unifique,,Distribuidor Óptico (DIO),,Active,CPD,Rack Telecom 02,38.0,
+2956,EDD Cirion/Lumen,,EDD (Ethernet Demarcation Device),,Active,CPD,Rack Telecom 02,22.0,
+2955,EDD Cirion/Lumen (br.digital),,EDD (Ethernet Demarcation Device),,Active,CPD,Rack Telecom 02,23.0,
+2940,EDD Claro 01,,EDD (Ethernet Demarcation Device),,Active,CPD,Rack Telecom 01,11.0,
+2941,EDD Oi 01,,EDD (Ethernet Demarcation Device),,Active,CPD,Rack Telecom 01,12.0,
+3449,EDD Oi e Ata pequeno,,EDD (Ethernet Demarcation Device),,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,4.0,
+2935,EDD-STJ,,EDD (Ethernet Demarcation Device),,Active,CPD,Rack Telecom 01,36.0,
+2389,EL.1A.1:1,,Access Switch,,Active,Eduardo Luz,,,
+2395,EL.1A.1:2,,Access Switch,,Active,Eduardo Luz,,,
+2396,EL.1A.1:3,,Access Switch,,Active,Eduardo Luz,,,
+2390,EL.1A.1:4,,Access Switch,,Active,Eduardo Luz,,,
+2391,EL.2A.1:1,,Access Switch,,Active,Eduardo Luz,,,
+2397,EL.2A.1:2,,Access Switch,,Active,Eduardo Luz,,,
+2392,EL.2A.1:3,,Access Switch,,Active,Eduardo Luz,,,
+2393,EL.3A.1:1,,Access Switch,,Active,Eduardo Luz,,,
+2394,EL.3A.1:2,,Access Switch,,Active,Eduardo Luz,,,
+2398,EL.3A.5-RACK2,,Access Switch,,Active,Eduardo Luz,,,
+2384,EL.BB.1-NOVO-BACKBONE:1,,Core Switch,,Active,Eduardo Luz,,,
+2385,EL.BB.1-NOVO-BACKBONE:2,,Core Switch,,Active,Eduardo Luz,,,
+2386,EL.T.1:1,,Access Switch,,Active,Eduardo Luz,,,
+2388,EL.T.1:2,,Access Switch,,Active,Eduardo Luz,,,
+2387,EL.T.1:3,,Access Switch,,Active,Eduardo Luz,,,
+2406,EL.T.6,,Access Switch,,Active,Eduardo Luz,,,
+2760,EXEC_ESTADUAL_01,,Access Switch,,Offline,Executivo Estadual,,,
+2761,EXEC_ESTADUAL_02,,Access Switch,,Offline,Executivo Estadual,,,
+2762,EXEC_ESTADUAL_03,,Access Switch,,Offline,Executivo Estadual,,,
+2936,FEX 150,,Fabric Extender,,Active,CPD,Rack Telecom 01,32.0,
+2970,FortiAnalyzer,,FortiAnalyzer,,Active,CPD,HCI CPD,37.0,
+2934,Fortigate-STJ,,SD-WAN,,Active,CPD,Rack Telecom 01,37.0,
+2749,Gigavue_HC2_1,,Switch Concentrador de Visibilidade de Dados,,Active,Sala Cofre,Rack 04 (Viavi e HC-2),32.0,TJSC
+2606,Guia de Cabos,,Guia de Cabos,,Active,Fraiburgo,FGO - Rack 1 - Corredor 1º andar,4.0,
+2607,Guia de Cabos 2,,Guia de Cabos,,Active,Fraiburgo,FGO - Rack 1 - Corredor 1º andar,11.0,
+219,hw24_ararangua_44,,Access Switch,,Active,Araranguá,,,TJSC
+222,hw24_ararangua_48,,Access Switch,,Active,Araranguá,,,TJSC
+1335,hw24_Aririu_11,,Access Switch,,Active,Aririú,,,TJSC
+1336,hw24_Aririu_12,,Access Switch,,Active,Aririú,,,TJSC
+1337,hw24_Aririu_13,,Spare Switch,,Offline,Aririú,,,TJSC
+1338,hw24_Aririu_14,,Access Switch,,Active,Aririú,,,TJSC
+229,hw24_balneario_36,,Spare Switch,,Inventory,Balneário Camboriú,,,TJSC
+230,hw24_balneario_37,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+231,hw24_balneario_38,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+233,hw24_balneario_40,,Spare Switch,,Offline,Balneário Camboriú,,,TJSC
+234,hw24_balneario_41,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+235,hw24_balneario_42,,Spare Switch,,Offline,Balneário Camboriú,,,TJSC
+236,hw24_balneario_43,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+237,hw24_balneario_44,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+238,hw24_balneario_45,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+239,hw24_balneario_46,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+240,hw24_balneario_47,,Spare Switch,,Offline,Balneário Camboriú,,,TJSC
+241,hw24_balneario_48,,Spare Switch,,Offline,Balneário Camboriú,,,TJSC
+243,hw24_balneario_50,,Spare Switch,,Offline,Balneário Camboriú,,,TJSC
+244,hw24_balneario_51,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+245,hw24_balneario_52,,Spare Switch,,Offline,Balneário Camboriú,,,TJSC
+246,hw24_balneario_53,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+247,hw24_balneario_54,,Spare Switch,,Offline,Balneário Camboriú,,,TJSC
+248,hw24_balneario_55,,Spare Switch,,Offline,Balneário Camboriú,,,TJSC
+249,hw24_balneario_56,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+2032,hw24_balneario_59,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+268,hw24_biguacu_24,,Access Switch,,Active,Biguaçu,,,TJSC
+269,hw24_biguacu_25,,Access Switch,,Active,Biguaçu,,,TJSC
+272,hw24_biguacu_Univali_138,,Spare Switch,,Offline,Biguaçu,,,TJSC
+271,hw24_biguacu_Univali_140,,Spare Switch,,Offline,Biguaçu,,,TJSC
+340,hw24_blumenau_48,,Access Switch,,Active,Blumenau,,,TJSC
+341,hw24_blumenau_49,,Access Switch,,Active,Blumenau,,,TJSC
+343,hw24_blumenau_51,,Spare Switch,,Offline,Blumenau,,,TJSC
+345,hw24_blumenau_53,,Access Switch,,Active,Blumenau,,,TJSC
+346,hw24_blumenau_54,,Access Switch,,Active,Blumenau,,,TJSC
+347,hw24_blumenau_55,,Access Switch,,Active,Blumenau,,,TJSC
+348,hw24_blumenau_56,,Access Switch,,Active,Blumenau,,,TJSC
+349,hw24_blumenau_57,,Access Switch,,Active,Blumenau,,,TJSC
+350,hw24_blumenau_58,,Access Switch,,Active,Blumenau,,,TJSC
+351,hw24_blumenau_59,,Access Switch,,Active,Blumenau,,,TJSC
+353,hw24_blumenau_61,,Access Switch,,Active,Blumenau,,,TJSC
+357,hw24_blumenau_66,,Access Switch,,Active,Blumenau,,,TJSC
+359,hw24_blumenau_68,,Access Switch,,Active,Blumenau,,,TJSC
+361,hw24_blumenau_70,,Access Switch,,Active,Blumenau,,,TJSC
+362,hw24_blumenau_71,,Access Switch,,Active,Blumenau,,,TJSC
+363,hw24_blumenau_72,,Access Switch,,Active,Blumenau,,,TJSC
+364,hw24_blumenau_73,,Access Switch,,Active,Blumenau,,,TJSC
+720,hw24_Brusque_40,,Access Switch,,Active,Brusque,,,TJSC
+856,hw24_curitibanos_20,,Access Switch,,Active,Curitibanos,,,TJSC
+932,hw24_imbituba_13,,Spare Switch,,Offline,Imbituba - Segunda Vara,,,TJSC
+935,hw24_imbituba_19,,Access Switch,,Active,Imbituba - Segunda Vara,,,TJSC
+1183,hw24_Jaragua_21,,Access Switch,,Active,Jaraguá do Sul,,,TJSC
+1185,hw24_Jaragua_23,,Access Switch,,Active,Jaraguá do Sul,,,TJSC
+1191,hw24_Jaragua_29,,Access Switch,,Active,Jaraguá do Sul,,,TJSC
+1192,hw24_Jaragua_30,,Spare Switch,,Inventory,Jaraguá do Sul,,,TJSC
+3251,hw24_Jaragua_32,,Access Switch,,Active,Jaraguá do Sul,,,TJSC
+1193,hw24_Jaragua_33,,Access Switch,,Active,Jaraguá do Sul,,,TJSC
+1194,hw24_Jaragua_34,,Access Switch,,Active,Jaraguá do Sul,,,TJSC
+1213,hw24_joinville_8,,Access Switch,,Active,Joinville,,,TJSC
+1215,hw24_joinville_10,,Access Switch,,Active,Joinville,,,TJSC
+1255,hw24_lages_125,,Access Switch,,Active,Lages,,,TJSC
+1256,hw24_lages_126,,Access Switch,,Active,Lages,,,TJSC
+1257,hw24_lages_127,,Access Switch,,Active,Lages,,,TJSC
+1258,hw24_lages_128,,Access Switch,,Active,Lages,,,TJSC
+1259,hw24_lages_129,,Access Switch,,Active,Lages,,,TJSC
+2071,hw24_lages_130,,Access Switch,,Active,Lages,,,TJSC
+1262,hw24_lages_132,,Access Switch,,Offline,Lages - Unidade Avançada,,,TJSC
+1261,hw24_lages_133,,Access Switch,,Active,Lages,,,TJSC
+1327,hw24_palhoca_24,,Access Switch,,Active,Palhoça,,,TJSC
+1331,hw24_palhoca_29,,Access Switch,,Active,Palhoça,,,TJSC
+1794,hw24_Tijucas_10,,Access Switch,,Active,Tijucas,,,TJSC
+1800,hw24_Tijucas_19,,Access Switch,,Active,Tijucas,,,TJSC
+1816,hw24_Tubarao_101,,Access Switch,,Active,Tubarão,,,TJSC
+1819,hw24_Tubarao_104,,Access Switch,,Active,Tubarão,,,TJSC
+1820,hw24_Tubarao_105,,Access Switch,,Active,Tubarão,,,TJSC
+1863,hw24_Tubarao_106,,Access Switch,,Offline,Tubarão,,,TJSC
+1824,hw24_Tubarao_110,,Access Switch,,Active,Tubarão,,,TJSC
+217,hw48_ararangua_42,,Access Switch,,Active,Araranguá,,,TJSC
+218,hw48_ararangua_43,,Access Switch,,Active,Araranguá,,,TJSC
+220,hw48_ararangua_45,,Access Switch,,Active,Araranguá,,,TJSC
+221,hw48_ararangua_46,,Access Switch,,Active,Araranguá,,,TJSC
+1339,hw48_Aririu_15,,Access Switch,,Active,Aririú,,,TJSC
+1340,hw48_Aririu_16,,Access Switch,,Active,Aririú,,,TJSC
+232,hw48_balneario_39,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+242,hw48_balneario_49,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+252,hw48_balneario_62,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+266,hw48_biguacu_21,,Access Switch,,Active,Biguaçu,,,TJSC
+267,hw48_biguacu_23,,Access Switch,,Active,Biguaçu,,,TJSC
+270,hw48_biguacu_26,,Access Switch,,Active,Biguaçu,,,TJSC
+710,hw48_Brusque_30,,Access Switch,,Active,Brusque,,,TJSC
+711,hw48_Brusque_31,,Access Switch,,Active,Brusque,,,TJSC
+712,hw48_Brusque_32,,Access Switch,,Active,Brusque,,,TJSC
+713,hw48_Brusque_33,,Spare Switch,,Inventory,Brusque,,,TJSC
+714,hw48_Brusque_34,,Access Switch,,Active,Brusque,,,TJSC
+715,hw48_Brusque_35,,Access Switch,,Active,Brusque,,,TJSC
+716,hw48_Brusque_36,,Access Switch,,Active,Brusque,,,TJSC
+717,hw48_Brusque_37,,Access Switch,,Active,Brusque,,,TJSC
+718,hw48_Brusque_38,,Spare Switch,,Inventory,Brusque,,,TJSC
+719,hw48_Brusque_39,,Spare Switch,,Inventory,Brusque,,,TJSC
+721,hw48_Brusque_41,,Access Switch,,Active,Brusque,,,TJSC
+723,hw48_Brusque_Avanc_10,,Access Switch,,Active,Brusque - Unidade Avançada,,,TJSC
+933,hw48_imbituba_17,,Access Switch,,Active,Imbituba - Segunda Vara,,,TJSC
+934,hw48_imbituba_18,,Access Switch,,Active,Imbituba - Segunda Vara,,,TJSC
+1159,hw48_itapema_17,,Access Switch,,Active,Itapema,,,TJSC
+1160,hw48_itapema_18,,Access Switch,,Active,Itapema,,,TJSC
+1184,hw48_jaragua_22,,Access Switch,,Active,Jaraguá do Sul,,,TJSC
+1186,hw48_jaragua_24,,Access Switch,,Active,Jaraguá do Sul,,,TJSC
+1187,hw48_jaragua_25,,Access Switch,,Active,Jaraguá do Sul,,,TJSC
+1188,hw48_jaragua_26,,Access Switch,,Active,Jaraguá do Sul,,,TJSC
+1189,hw48_jaragua_27,,Access Switch,,Active,Jaraguá do Sul,,,TJSC
+1190,hw48_jaragua_28,,Access Switch,,Active,Jaraguá do Sul,,,TJSC
+1211,hw48_joinville_4,,Access Switch,,Active,Joinville,,,TJSC
+1212,hw48_joinville_5,,Access Switch,,Active,Joinville,,,TJSC
+1217,hw48_joinville_14,,Access Switch,,Active,Joinville,,,TJSC
+1218,hw48_joinville_20,,Access Switch,,Active,Joinville,,,TJSC
+1219,hw48_joinville_21,,Access Switch,,Active,Joinville,,,TJSC
+1220,hw48_joinville_23,,Access Switch,,Active,Joinville,,,TJSC
+1221,hw48_joinville_25,,Access Switch,,Active,Joinville,,,TJSC
+1222,hw48_Joinville_29,,Spare Switch,,Offline,Joinville,,,TJSC
+1223,hw48_Joinville_30,,Access Switch,,Active,Joinville,,,TJSC
+1224,hw48_Joinville_34,,Access Switch,,Active,Joinville,,,TJSC
+1260,hw48_lages_131,,Access Switch,,Active,Lages,,,TJSC
+1328,hw48_palhoca_26,,Access Switch,,Active,Palhoça,,,TJSC
+1329,hw48_palhoca_27,,Access Switch,,Active,Palhoça,,,TJSC
+1330,hw48_palhoca_28,,Access Switch,,Active,Palhoça,,,TJSC
+1332,hw48_palhoca_30,,Access Switch,,Active,Palhoça,,,TJSC
+1333,hw48_palhoca_35,,Access Switch,,Active,Palhoça,,,TJSC
+1334,hw48_palhoca_36,,Access Switch,,Active,Palhoça,,,TJSC
+1801,hw48_Tijucas_20,,Access Switch,,Active,Tijucas,,,TJSC
+1815,hw48_tubarao_100,,Access Switch,,Active,Tubarão,,,TJSC
+1817,hw48_tubarao_102,,Access Switch,,Active,Tubarão,,,TJSC
+1818,hw48_tubarao_103,,Access Switch,,Active,Tubarão,,,TJSC
+1821,hw48_tubarao_107,,Access Switch,,Active,Tubarão,,,TJSC
+1822,hw48_tubarao_108,,Access Switch,,Active,Tubarão,,,TJSC
+1823,hw48_tubarao_109,,Access Switch,,Active,Tubarão,,,TJSC
+1825,hw48_tubarao_111,,Access Switch,,Active,Tubarão,,,TJSC
+1826,hw48_tubarao_112,,Access Switch,,Active,Tubarão,,,TJSC
+1846,hw48_xanxere_11,,Access Switch,,Offline,Xanxerê,,,TJSC
+1849,hw48_Xanxere_20,,Access Switch,patrimônio antigo 434485,Active,Xanxerê,,,TJSC
+1850,hw48_Xanxere_22,,Access Switch,patrimônio antigo 434487,Active,Xanxerê,,,TJSC
+1851,hw48_xaxim_10,,Access Switch,,Active,Xaxim,,,TJSC
+1853,hw48_xaxim_14,,Access Switch,,Active,Xaxim,,,TJSC
+107,hw_Abelardo_Luz_10,,Spare Switch,,Inventory,Abelardo Luz,,,Unidade Jud/Adm
+108,hw_Abelardo_Luz_11,,Access Switch,,Active,Abelardo Luz,,,TJSC
+109,hw_Abelardo_Luz_12,,Access Switch,,Active,Abelardo Luz,,,TJSC
+110,hw_Abelardo_Luz_13,,Access Switch,,Active,Abelardo Luz,,,TJSC
+111,hw_Abelardo_Luz_14,,Access Switch,,Planned,Abelardo Luz,,,TJSC
+113,hw_Abelardo_Luz_16,,Access Switch,,Active,Abelardo Luz,,,TJSC
+198,hw_ALMOXARIFADO_10,,Access Switch,,Active,Almoxarifado,,,TJSC
+199,hw_ALMOXARIFADO_11,,Access Switch,,Active,Almoxarifado,,,TJSC
+200,hw_ALMOXARIFADO_12,,Access Switch,,Active,Almoxarifado,,,TJSC
+201,hw_ALMOXARIFADO_13,,Spare Switch,,Offline,Almoxarifado,,,TJSC
+204,hw_ALMOXARIFADO_16,,Access Switch,,Active,Almoxarifado,,,TJSC
+3029,hw_ALMOXARIFADO_17,,Access Switch,,Active,Almoxarifado,,,TJSC
+117,hw_Anchieta_10,,Access Switch,,Active,Anchieta,,,TJSC
+116,hw_Anchieta_12,,Access Switch,,Active,Anchieta,,,TJSC
+115,hw_Anchieta_13,,Access Switch,,Active,Anchieta,,,TJSC
+114,hw_Anchieta_14,,Access Switch,,Active,Anchieta,,,TJSC
+206,hw_anita_garibaldi_10,,Spare Switch,,Offline,Anita Garibaldi,,,TJSC
+207,hw_anita_garibaldi_11,,Access Switch,,Active,Anita Garibaldi,,,TJSC
+208,hw_anita_garibaldi_12,,Access Switch,,Active,Anita Garibaldi,,,TJSC
+3162,hw_anita_garibaldi_17,,Access Switch,,Active,Anita Garibaldi,,,TJSC
+211,hw_Araquari_11,,Access Switch,,Active,Araquari,,,TJSC
+212,hw_Araquari_12,,Access Switch,,Active,Araquari,,,TJSC
+213,hw_Araquari_13,,Spare Switch,,Inventory,Araquari,,,TJSC
+214,hw_Araquari_14,,Access Switch,,Active,Araquari,,,TJSC
+215,hw_Araquari_15,,Access Switch,,Active,Araquari,,,TJSC
+2973,hw_Aririu_18,,Access Switch,,Active,Aririú,,,TJSC
+1341,hw_Aririu_Formiga_17,,Access Switch,,Active,Aririú,,,TJSC
+18,hw_armazem_10,,Access Switch,,Active,Armazém,,,TJSC
+19,hw_armazem_11,,Access Switch,,Active,Armazém,,,TJSC
+20,hw_ascurra_10,,Access Switch,,Offline,Ascurra,,,TJSC
+21,hw_ascurra_11,,Access Switch,,Active,Ascurra,,,TJSC
+22,hw_ascurra_12,,Access Switch,,Active,Ascurra,,,TJSC
+23,hw_ascurra_13,,Access Switch,,Active,Ascurra,,,TJSC
+24,hw_ascurra_14,,Access Switch,,Active,Ascurra,,,TJSC
+3037,hw_ascurra_17,,Access Switch,,Active,Ascurra,,,TJSC
+223,hw_Bal_Camboriu_12,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+224,hw_Bal_Camboriu_13,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+225,hw_Bal_Camboriu_14,,Spare Switch,,Offline,Balneário Camboriú,,,TJSC
+226,hw_Bal_Camboriu_15,,Spare Switch,,Offline,Balneário Camboriú,,,TJSC
+227,hw_Bal_Camboriu_16,,Spare Switch,,Offline,Balneário Camboriú,,,TJSC
+228,hw_Bal_Camboriu_17,,Spare Switch,,Offline,Balneário Camboriú,,,TJSC
+3404,hw_Bal_Camboriu_18,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+2164,hw_bal_camboriu_27,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+2165,hw_bal_camboriu_28,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+2166,hw_bal_camboriu_29,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+2167,hw_bal_camboriu_30,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+2168,hw_bal_camboriu_31,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+2169,hw_bal_camboriu_32,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+250,hw_Bal_Camboriu_57,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+251,hw_Bal_Camboriu_58,,Access Switch,,Active,Balneário Camboriú,,,TJSC
+2033,hw_bal_camboriu_avan_52,,Access Switch,,Offline,Balneário Camboriú  - Unidade Avançada,,,TJSC
+2034,hw_bal_camboriu_avan_53,,Access Switch,,Offline,Balneário Camboriú  - Unidade Avançada,,,TJSC
+2035,hw_bal_camboriu_avan_54,,Access Switch,,Offline,Balneário Camboriú  - Unidade Avançada,,,TJSC
+2464,hw_Balneario_Picarras_10,,Access Switch,,Active,Balneário Piçarras,,,
+2465,hw_Balneario_Picarras_13,,Access Switch,,Active,Balneário Piçarras,,,
+2466,hw_Balneario_Picarras_14,,Access Switch,,Active,Balneário Piçarras,,,
+259,hw_Barra_Velha_10,,Access Switch,,Active,Barra Velha,,,TJSC
+2611,hw_Barra_Velha_11,,Spare Switch,,Offline,Barra Velha,,,TJSC
+260,hw_Barra_Velha_12,,Access Switch,,Active,Barra Velha,,,TJSC
+261,hw_Barra_Velha_13,,Access Switch,,Active,Barra Velha,,,TJSC
+262,hw_Barra_Velha_14,,Access Switch,,Active,Barra Velha,,,TJSC
+263,hw_Barra_Velha_15,,Access Switch,,Active,Barra Velha,,,TJSC
+264,hw_Barra_Velha_16,,Access Switch,,Active,Barra Velha,,,TJSC
+2612,hw_Barra_Velha_17,,Access Switch,,Active,Barra Velha,,,TJSC
+3018,hw_Barra_Velha_20,,Access Switch,,Active,Barra Velha,,,TJSC
+2971,hw_biguacu_nova_vara_140,,Access Switch,21980105812SJ9606263,Active,Biguaçu - Unidade Avançada (Jec),,,TJSC
+3371,hw_Blumenau_10,,Access Switch,,Active,Blumenau,,,
+3368,hw_Blumenau_11,,Access Switch,,Active,Blumenau,,,
+3369,hw_Blumenau_12,,Access Switch,,Active,Blumenau,,,
+3372,hw_Blumenau_13,,Access Switch,,Active,Blumenau,,,
+3394,hw_Blumenau_14,,Access Switch,,Active,Blumenau,,,
+3175,hw_Blumenau_75,,Access Switch,,Active,Blumenau,,,TJSC
+3329,hw_Blumenau_Furb_10,,Access Switch,,Active,Blumenau - Furb,,,TJSC
+3370,hw_Blumenau_Furb_14,,Access Switch,,Active,Blumenau - Furb,,,TJSC
+3330,hw_Blumenau_Furb_22,,Spare Switch,,Inventory,Blumenau - Furb,,,TJSC
+3367,hw_Blumenau_Furb_23,,Spare Switch,,Inventory,Blumenau - Furb,,,TJSC
+701,hw_Bom_Retiro_10,,Access Switch,,Active,Bom Retiro,,,TJSC
+3170,hw_bom_retiro_11,,Access Switch,,Active,Bom Retiro,,,TJSC
+3126,hw_braco_do_norte_15,,Access Switch,,Active,Braço do Norte,,,
+703,hw_braco_do_norte_16,,Access Switch,,Active,Braço do Norte,,,TJSC
+704,hw_braco_do_norte_17,,Access Switch,,Active,Braço do Norte,,,TJSC
+705,hw_braco_do_norte_18,,Access Switch,,Active,Braço do Norte,,,TJSC
+706,hw_braco_do_norte_19,,Spare Switch,,Offline,Braço do Norte,,,TJSC
+3387,hw_Brusque_10,,Access Switch,,Active,Brusque,,,TJSC
+3388,hw_Brusque_11,,Spare Switch,,Inventory,Brusque,,,TJSC
+3389,hw_Brusque_13,,Access Switch,,Active,Brusque,,,TJSC
+722,hw_Brusque_43,,Access Switch,,Active,Brusque,,,TJSC
+3230,hw_cacador_avancada_135,,Access Switch,,Active,Caçador - Unidade Avançada,,,TJSC
+3188,hw_cacador_avancada_136,,Access Switch,,Active,Caçador - Unidade Avançada,,,TJSC
+3189,hw_cacador_avancada_137,,Access Switch,,Active,Caçador - Unidade Avançada,,,TJSC
+3190,hw_cacador_avancada_138,,Access Switch,,Active,Caçador - Unidade Avançada,,,TJSC
+729,hw_Camboriu_19,,Access Switch,,Active,Camboriú,,,TJSC
+738,hw_campo_belo_sul_13,,Access Switch,,Active,Campo Belo do Sul,,,TJSC
+3157,hw_campo_belo_sul_14,,Spare Switch,,Offline,Campo Belo do Sul,,,TJSC
+739,hw_campo_ere_15,,Spare Switch,,Offline,Campo Erê,,,TJSC
+740,hw_campo_ere_16,,Spare Switch,,Offline,Campo Erê,,,TJSC
+741,hw_campo_ere_17,,Access Switch,,Active,Campo Erê,,,TJSC
+2217,hw_campo_ere_18,,Access Switch,,Offline,Campo Erê,,,
+3296,hw_campo_ere_19,,Access Switch,,Active,Campo Erê,,,
+742,hw_Campos_Novos_10,,Access Switch,,Active,Campos Novos,,,TJSC
+743,hw_Campos_Novos_11,,Access Switch,,Active,Campos Novos,,,TJSC
+744,hw_Campos_Novos_12,,Access Switch,,Active,Campos Novos,,,TJSC
+745,hw_Campos_Novos_15,,Access Switch,,Active,Campos Novos,,,TJSC
+746,hw_Campos_Novos_16,,Access Switch,,Active,Campos Novos,,,TJSC
+747,hw_Campos_Novos_17,,Access Switch,,Active,Campos Novos,,,TJSC
+3271,hw_canoinhas_13,,Access Switch,,Active,Canoinhas,,,TJSC
+3272,hw_canoinhas_14,,Access Switch,,Active,Canoinhas,,,TJSC
+3273,hw_canoinhas_16,,Access Switch,,Active,Canoinhas,,,TJSC
+751,hw_canoinhas_20,,Access Switch,,Active,Canoinhas,,,TJSC
+752,hw_canoinhas_21,,Access Switch,,Active,Canoinhas,,,TJSC
+753,hw_canoinhas_22,,Access Switch,,Active,Canoinhas,,,TJSC
+754,hw_canoinhas_23,,Access Switch,,Active,Canoinhas,,,TJSC
+755,hw_canoinhas_24,,Access Switch,,Active,Canoinhas,,,TJSC
+756,hw_canoinhas_25,,Access Switch,,Active,Canoinhas,,,TJSC
+757,hw_canoinhas_26,,Access Switch,,Active,Canoinhas,,,TJSC
+758,hw_canoinhas_27,,Spare Switch,,Offline,Canoinhas,,,TJSC
+759,hw_canoinhas_28,,Access Switch,,Active,Canoinhas,,,TJSC
+762,hw_Capinzal_19,,Access Switch,,Active,Capinzal,,,TJSC
+3030,hw_Capivari_Baixo_11,,Access Switch,,Active,Capivari de Baixo,,,TJSC
+3003,hw_Capivari_Baixo_12,,Access Switch,,Active,Capivari de Baixo,,,TJSC
+3031,hw_Capivari_Baixo_13,,Access Switch,,Active,Capivari de Baixo,,,TJSC
+3032,hw_Capivari_Baixo_14,,Access Switch,,Active,Capivari de Baixo,,,
+770,hw_Catanduvas_10,,Access Switch,,Active,Catanduvas,,,TJSC
+771,hw_Catanduvas_11,,Access Switch,,Active,Catanduvas,,,TJSC
+2199,hw_Catanduvas_12,,Access Switch,,Active,Catanduvas,,,
+774,hw_chapeco_57,,Access Switch,,Active,Chapecó,,,TJSC
+775,hw_chapeco_58,,Access Switch,,Active,Chapecó,,,TJSC
+776,hw_chapeco_59,,Access Switch,,Active,Chapecó,,,TJSC
+777,hw_chapeco_60,,Access Switch,,Active,Chapecó,,,TJSC
+778,hw_chapeco_61,,Access Switch,,Active,Chapecó,,,TJSC
+779,hw_chapeco_62,,Access Switch,,Active,Chapecó,,,TJSC
+780,hw_chapeco_63,,Access Switch,,Active,Chapecó,,,TJSC
+781,hw_chapeco_64,,Access Switch,,Active,Chapecó,,,TJSC
+783,hw_chapeco_65,,Spare Switch,,Offline,Chapecó,,,TJSC
+782,hw_chapeco_66,,Access Switch,,Active,Chapecó,,,TJSC
+784,hw_chapeco_67,,Access Switch,,Active,Chapecó,,,TJSC
+785,hw_chapeco_68,,Access Switch,,Active,Chapecó,,,TJSC
+786,hw_chapeco_69,,Spare Switch,,Offline,Chapecó,,,TJSC
+787,hw_chapeco_70,,Access Switch,,Active,Chapecó,,,TJSC
+788,hw_chapeco_71,,Access Switch,,Active,Chapecó,,,TJSC
+789,hw_chapeco_72,,Access Switch,,Active,Chapecó,,,TJSC
+790,hw_chapeco_73,,Access Switch,,Active,Chapecó,,,TJSC
+791,hw_chapeco_74,,Access Switch,,Active,Chapecó,,,TJSC
+792,hw_chapeco_75,,Access Switch,,Active,Chapecó,,,TJSC
+793,hw_chapeco_76,,Access Switch,,Active,Chapecó,,,TJSC
+794,hw_chapeco_77,,Access Switch,,Active,Chapecó,,,TJSC
+795,hw_chapeco_78,,Access Switch,,Active,Chapecó,,,TJSC
+796,hw_chapeco_79,,Spare Switch,,Offline,Chapecó,,,TJSC
+797,hw_chapeco_80,,Spare Switch,,Offline,Chapecó,,,TJSC
+798,hw_Concordia_20,,Access Switch,,Active,Concórdia,,,TJSC
+799,hw_Concordia_21,,Access Switch,,Active,Concórdia,,,TJSC
+800,hw_Concordia_22,,Access Switch,,Active,Concórdia,,,TJSC
+801,hw_Concordia_23,,Access Switch,,Active,Concórdia,,,TJSC
+802,hw_Concordia_24,,Access Switch,,Active,Concórdia,,,TJSC
+803,hw_Concordia_26,,Access Switch,,Active,Concórdia,,,TJSC
+804,hw_Concordia_27,,Access Switch,,Active,Concórdia,,,TJSC
+805,hw_Concordia_32,,Access Switch,,Active,Concórdia,,,TJSC
+806,hw_Concordia_33,,Access Switch,,Active,Concórdia,,,TJSC
+807,hw_Coronel_Freitas_10,,Access Switch,,Active,Coronel Freitas,,,TJSC
+808,hw_Coronel_Freitas_11,,Access Switch,,Active,Coronel Freitas,,,TJSC
+809,hw_Coronel_Freitas_12,,Access Switch,,Active,Coronel Freitas,,,TJSC
+3306,hw_coronel_freitas_13,,Access Switch,,Active,Coronel Freitas,,,TJSC
+3307,hw_coronel_freitas_16,,Access Switch,,Active,Coronel Freitas,,,TJSC
+811,hw_Correia_Pinto_10,,Spare Switch,,Offline,Correia Pinto,,,TJSC
+812,hw_Correia_Pinto_11,,Access Switch,,Active,Correia Pinto,,,TJSC
+813,hw_Correia_Pinto_12,,Access Switch,,Active,Correia Pinto,,,TJSC
+3150,hw_correia_pinto_13,,Access Switch,,Active,Correia Pinto,,,TJSC
+814,hw_correia_pinto_15,,Access Switch,,Active,Correia Pinto,,,TJSC
+3378,hw_criciuma_10,,Access Switch,,Active,Criciúma,,,TJSC
+816,hw_criciuma_11,,Spare Switch,,Inventory,Criciúma,,,TJSC
+817,hw_criciuma_12,,Access Switch,,Active,Criciúma,,,TJSC
+818,hw_criciuma_13,,Access Switch,,Active,Criciúma,,,TJSC
+819,hw_criciuma_14,,Access Switch,,Active,Criciúma,,,TJSC
+820,hw_criciuma_15,,Access Switch,,Active,Criciúma,,,TJSC
+821,hw_criciuma_16,,Access Switch,,Active,Criciúma,,,TJSC
+822,hw_criciuma_17,,Access Switch,,Active,Criciúma,,,TJSC
+823,hw_criciuma_18,,Access Switch,,Active,Criciúma,,,TJSC
+824,hw_criciuma_19,,Access Switch,,Active,Criciúma,,,TJSC
+825,hw_criciuma_20,,Access Switch,,Active,Criciúma,,,TJSC
+826,hw_criciuma_21,,Access Switch,,Active,Criciúma,,,TJSC
+827,hw_criciuma_22,,Access Switch,,Active,Criciúma,,,TJSC
+828,hw_criciuma_23,,Access Switch,,Active,Criciúma,,,TJSC
+829,hw_criciuma_24,,Access Switch,,Active,Criciúma,,,TJSC
+830,hw_criciuma_25,,Access Switch,,Active,Criciúma,,,TJSC
+831,hw_criciuma_26,,Access Switch,,Active,Criciúma,,,TJSC
+832,hw_criciuma_27,,Access Switch,,Active,Criciúma,,,TJSC
+833,hw_criciuma_28,,Access Switch,,Active,Criciúma,,,TJSC
+834,hw_criciuma_29,,Access Switch,,Active,Criciúma,,,TJSC
+3376,hw_criciuma_30,,Access Switch,,Active,Criciúma,,,TJSC
+835,hw_criciuma_31,,Access Switch,,Active,Criciúma,,,TJSC
+836,hw_criciuma_32,,Access Switch,,Active,Criciúma,,,TJSC
+837,hw_criciuma_33,,Access Switch,,Active,Criciúma,,,TJSC
+838,hw_criciuma_40,,Access Switch,,Active,Criciúma,,,TJSC
+839,hw_criciuma_41,,Access Switch,,Active,Criciúma,,,TJSC
+840,hw_criciuma_43,,Access Switch,,Active,Criciúma,,,TJSC
+3097,hw_criciuma_44,,Access Switch,,Active,Criciúma,,,
+841,hw_criciuma_51,,Access Switch,,Offline,Criciúma,,,TJSC
+843,hw_criciuma_Unesc_11,,Spare Switch,,Offline,Criciúma - UNESC,,,TJSC
+3092,hw_criciuma_Unesc_12,,Access Switch,,Active,Criciúma - UNESC,,,TJSC
+844,hw_Cunha_Pora_10,,Access Switch,,Active,Cunha Porã,,,TJSC
+845,hw_Cunha_Pora_11,,Access Switch,,Active,Cunha Porã,,,TJSC
+848,hw_Curitibanos_10,,Access Switch,,Active,Curitibanos,,,TJSC
+849,hw_Curitibanos_11,,Access Switch,,Active,Curitibanos,,,TJSC
+850,hw_Curitibanos_12,,Access Switch,,Active,Curitibanos,,,TJSC
+851,hw_Curitibanos_13,,Access Switch,,Active,Curitibanos,,,TJSC
+2571,hw_Curitibanos_14,,Access Switch,,Active,Curitibanos,,,TJSC
+853,hw_Curitibanos_15,,Access Switch,,Active,Curitibanos,,,TJSC
+854,hw_Curitibanos_16,,Access Switch,,Active,Curitibanos,,,TJSC
+855,hw_Curitibanos_17,,Spare Switch,,Inventory,Curitibanos,,,TJSC
+3396,hw_Curitibanos_18,,Access Switch,,Active,Curitibanos,,,TJSC
+2572,hw_Curitibanos_19,,Access Switch,,Active,Curitibanos,,,TJSC
+857,hw_DEPOSITO_26,,Access Switch,,Active,Depósito,,,TJSC
+858,hw_DEPOSITO_27,,Access Switch,,Active,Depósito,,,TJSC
+860,hw_Deposito_29,,Access Switch,,Active,Depósito,,,TJSC
+861,hw_Descanso_10,,Access Switch,,Active,Descanso,,,TJSC
+862,hw_Descanso_11,,Access Switch,,Active,Descanso,,,TJSC
+863,hw_descanso_12,,Access Switch,,Active,Descanso,,,TJSC
+864,hw_Descanso_13,,Access Switch,,Active,Descanso,,,TJSC
+865,hw_Dionisio_Cerq_10,,Spare Switch,,Offline,Dionísio Cerqueira,,,TJSC
+866,hw_Dionisio_Cerq_11,,Access Switch,,Active,Dionísio Cerqueira,,,TJSC
+867,hw_Dionisio_Cerq_12,,Access Switch,,Active,Dionísio Cerqueira,,,TJSC
+868,hw_Dionisio_Cerq_13,,Access Switch,,Active,Dionísio Cerqueira,,,TJSC
+869,hw_Dionisio_Cerq_14,,Access Switch,,Active,Dionísio Cerqueira,,,TJSC
+3229,hw_Estreito_16,,Access Switch,,Active,Estreito,,,
+2728,hw_Estreito_17,,Access Switch,,Active,Estreito,,,
+871,hw_Estreito_19,,Access Switch,,Active,Estreito,,,TJSC
+872,hw_Estreito_20,,Access Switch,,Active,Estreito,,,TJSC
+873,hw_Estreito_24,,Access Switch,,Active,Estreito,,,TJSC
+2840,hw_executivo_fiscal_01,,Access Switch,,Active,Executivo Estadual,,,TJSC
+874,hw_forquilhinha_10,,Access Switch,,Active,Forquilhinha,,,TJSC
+875,hw_forquilhinha_11,,Access Switch,,Active,Forquilhinha,,,TJSC
+2635,hw_fraiburgo_10,,Access Switch,,Active,Fraiburgo,,,
+2636,hw_fraiburgo_11,,Access Switch,,Active,Fraiburgo,,,
+2637,hw_fraiburgo_12,,Spare Switch,,Offline,Fraiburgo,,,
+2638,hw_fraiburgo_13,,Access Switch,,Active,Fraiburgo,,,
+2639,hw_fraiburgo_14,,Spare Switch,,Offline,Fraiburgo,,,
+2640,hw_fraiburgo_15,,Access Switch,,Active,Fraiburgo,,,
+2641,hw_fraiburgo_16,,Access Switch,,Active,Fraiburgo,,,
+2642,hw_fraiburgo_17,,Access Switch,,Active,Fraiburgo,,,
+2643,hw_fraiburgo_18,,Access Switch,,Active,Fraiburgo,,,
+2644,hw_fraiburgo_19,,Access Switch,,Active,Fraiburgo,,,
+889,hw_Garopaba_10,,Access Switch,,Active,Garopaba,,,TJSC
+890,hw_Garopaba_11,,Access Switch,,Active,Garopaba,,,TJSC
+891,hw_garuva_10,,Spare Switch,,Inventory,Garuva,,,TJSC
+892,hw_garuva_11,,Access Switch,,Active,Garuva,,,TJSC
+893,hw_garuva_12,,Access Switch,,Active,Garuva,,,TJSC
+2726,hw_Gaspar_36,,Access Switch,,Active,Gaspar,,,TJSC
+2727,hw_Gaspar_37,,Access Switch,,Active,Gaspar,,,TJSC
+3353,hw_Guaramirim_10,,Spare Switch,,Inventory,Guaramirim,,,TJSC
+906,hw_guaramirim_17,,Access Switch,,Active,Guaramirim,,,TJSC
+907,hw_guaramirim_18,,Access Switch,,Active,Guaramirim,,,TJSC
+908,hw_guaramirim_19,,Access Switch,,Active,Guaramirim,,,TJSC
+909,hw_Herval_Oeste_10,,Spare Switch,,Offline,Herval do Oeste,,,TJSC
+910,hw_Herval_Oeste_11,,Spare Switch,,Offline,Herval do Oeste,,,TJSC
+911,hw_Herval_Oeste_12,,Spare Switch,,Offline,Herval do Oeste,,,TJSC
+2719,hw_Herval_Oeste_13,,Spare Switch,,Offline,Herval do Oeste,,,
+3226,hw_Herval_Oeste_14,,Spare Switch,,Offline,Herval do Oeste,,,
+3399,hw_Herval_Oeste_15,,Access Switch,,Active,Herval do Oeste,,,
+3400,hw_Herval_Oeste_16,,Access Switch,,Active,Herval do Oeste,,,
+3401,hw_Herval_Oeste_17,,Access Switch,,Active,Herval do Oeste,,,
+3402,hw_Herval_Oeste_18,,Access Switch,,Active,Herval do Oeste,,,
+917,hw_Icara_10,,Access Switch,,Active,Içara,,,TJSC
+918,hw_Icara_11,,Access Switch,,Active,Içara,,,TJSC
+919,hw_Icara_12,,Access Switch,,Active,Içara,,,TJSC
+920,hw_Icara_13,,Spare Switch,,Offline,Içara,,,TJSC
+2748,hw_Icara_14,,Access Switch,,Active,Içara,,,TJSC
+3095,hw_icara_15,,Access Switch,,Active,Içara,,,TJSC
+3096,hw_icara_16,,Access Switch,,Active,Içara,,,TJSC
+923,hw_imarui_10,,Access Switch,,Offline,Imaruí,,,TJSC
+924,hw_imarui_15,,Access Switch,,Active,Imaruí,,,TJSC
+925,hw_imarui_16,,Access Switch,,Active,Imaruí,,,TJSC
+926,hw_imarui_17,,Access Switch,,Active,Imaruí,,,TJSC
+3035,hw_Imbituba_1Vara_13,,Access Switch,,Active,Imbituba - Primeira Vara,,,TJSC
+3036,hw_Imbituba_1Vara_14,,Access Switch,,Active,Imbituba - Primeira Vara,,,TJSC
+3033,hw_imbituba_10,,Access Switch,,Active,Imbituba - Segunda Vara,,,TJSC
+3034,hw_imbituba_14,,Access Switch,,Active,Imbituba - Segunda Vara,,,TJSC
+3019,hw_Indaial_10,,Access Switch,,Active,Indaial,,,
+3020,hw_Indaial_11,,Access Switch,,Active,Indaial,,,
+3021,hw_Indaial_12,,Access Switch,,Active,Indaial,,,
+3022,hw_Indaial_13,,Access Switch,,Active,Indaial,,,
+3023,hw_Indaial_14,,Access Switch,,Active,Indaial,,,
+3024,hw_Indaial_15,,Access Switch,,Active,Indaial,,,
+3025,hw_Indaial_16,,Access Switch,,Active,Indaial,,,
+3026,hw_Indaial_17,,Access Switch,,Active,Indaial,,,
+948,hw_ipumirim_10,,Spare Switch,,Offline,Ipumirim,,,TJSC
+949,hw_ipumirim_11,,Access Switch,,Active,Ipumirim,,,TJSC
+950,hw_ipumirim_12,,Access Switch,,Active,Ipumirim,,,TJSC
+951,hw_ipumirim_13,,Spare Switch,,Offline,Ipumirim,,,TJSC
+953,hw_ita_10,,Access Switch,,Active,Itá,,,TJSC
+954,hw_ita_11,,Access Switch,,Active,Itá,,,TJSC
+955,hw_itaiopolis_10,,Spare Switch,,Offline,Itaiópolis,,,TJSC
+3253,hw_itaiopolis_11,,Access Switch,,Active,Itaiópolis,,,TJSC
+956,hw_itaiopolis_15,,Access Switch,,Active,Itaiópolis,,,TJSC
+957,hw_itaiopolis_16,,Access Switch,,Active,Itaiópolis,,,TJSC
+958,hw_itaiopolis_17,,Spare Switch,,Offline,Itaiópolis,,,TJSC
+959,hw_itaiopolis_19,,Access Switch,,Active,Itaiópolis,,,TJSC
+961,hw_Itajai_10,,Spare Switch,,Inventory,Itajaí,,,TJSC
+962,hw_Itajai_11,,Access Switch,,Active,Itajaí,,,TJSC
+963,hw_Itajai_12,,Access Switch,,Active,Itajaí,,,TJSC
+964,hw_Itajai_13,,Access Switch,,Active,Itajaí,,,TJSC
+965,hw_Itajai_14,,Access Switch,,Active,Itajaí,,,TJSC
+966,hw_Itajai_15,,Access Switch,,Active,Itajaí,,,TJSC
+967,hw_Itajai_16,,Access Switch,,Active,Itajaí,,,TJSC
+968,hw_Itajai_17,,Spare Switch,,Offline,Itajaí,,,TJSC
+969,hw_Itajai_18,,Access Switch,,Active,Itajaí,,,TJSC
+970,hw_Itajai_19,,Access Switch,,Active,Itajaí,,,TJSC
+971,hw_Itajai_20,,Access Switch,,Active,Itajaí,,,TJSC
+972,hw_Itajai_21,,Spare Switch,,Offline,Itajaí,,,TJSC
+973,hw_Itajai_22,,Access Switch,,Active,Itajaí,,,TJSC
+974,hw_Itajai_23,,Access Switch,,Active,Itajaí,,,TJSC
+975,hw_Itajai_24,,Access Switch,,Active,Itajaí,,,TJSC
+976,hw_Itajai_25,,Access Switch,,Offline,Itajaí,,,TJSC
+977,hw_Itajai_26,,Access Switch,,Active,Itajaí,,,TJSC
+978,hw_Itajai_27,,Access Switch,,Active,Itajaí,,,TJSC
+979,hw_Itajai_28,,Access Switch,,Active,Itajaí,,,TJSC
+980,hw_Itajai_29,,Access Switch,,Active,Itajaí,,,TJSC
+981,hw_Itajai_30,,Access Switch,,Active,Itajaí,,,TJSC
+982,hw_Itajai_31,,Access Switch,,Active,Itajaí,,,TJSC
+983,hw_Itajai_32,,Access Switch,,Active,Itajaí,,,TJSC
+984,hw_Itajai_33,,Access Switch,,Active,Itajaí,,,TJSC
+985,hw_Itajai_34,,Access Switch,,Active,Itajaí,,,TJSC
+986,hw_Itajai_35,,Access Switch,,Active,Itajaí,,,TJSC
+987,hw_Itajai_36,,Spare Switch,,Offline,Itajaí,,,TJSC
+988,hw_Itajai_37,,Spare Switch,,Offline,Itajaí,,,TJSC
+989,hw_Itajai_38,,Access Switch,,Offline,Itajaí,,,TJSC
+990,hw_Itajai_39,,Access Switch,,Active,Itajaí,,,TJSC
+991,hw_Itajai_40,,Access Switch,,Active,Itajaí,,,TJSC
+992,hw_Itajai_41,,Access Switch,,Active,Itajaí,,,TJSC
+993,hw_Itajai_43,,Access Switch,,Active,Itajaí,,,TJSC
+994,hw_Itajai_44,,Access Switch,,Active,Itajaí,,,TJSC
+995,hw_Itajai_45,,Spare Switch,,Inventory,Itajaí,,,TJSC
+996,hw_Itajai_46,,Spare Switch,,Offline,Itajaí,,,TJSC
+997,hw_Itajai_47,,Access Switch,,Active,Itajaí,,,TJSC
+998,hw_Itajai_48,,Access Switch,,Active,Itajaí,,,TJSC
+2429,hw_Itajai_49,,Access Switch,,Active,Itajaí,,,TJSC
+999,hw_Itajai_50,,Access Switch,,Active,Itajaí,,,TJSC
+1000,hw_Itajai_51,,Access Switch,,Active,Itajaí,,,TJSC
+1001,hw_Itajai_52,,Access Switch,,Active,Itajaí,,,TJSC
+1002,hw_Itajai_53,,Access Switch,,Active,Itajaí,,,TJSC
+1003,hw_Itajai_54,,Spare Switch,,Offline,Itajaí,,,TJSC
+2729,hw_Itajai_61,,Access Switch,,Active,Itajaí,,,
+3395,hw_itajai_65,,Access Switch,,Active,Itajaí,,,
+1157,hw_itapema_15,,Access Switch,,Active,Itapema,,,TJSC
+1161,hw_itapema_19,,Access Switch,,Active,Itapema,,,TJSC
+1162,hw_itapema_20,,Spare Switch,,Offline,Itapema,,,TJSC
+1163,hw_itapiranga_10,,Spare Switch,,Offline,Itapiranga,,,TJSC
+1164,hw_itapiranga_12,,Access Switch,,Active,Itapiranga,,,TJSC
+1165,hw_itapiranga_13,,Access Switch,,Active,Itapiranga,,,TJSC
+3301,hw_itapiranga_14,,Access Switch,,Active,Itapiranga,,,TJSC
+1167,hw_itapoa_10,,Access Switch,,Active,Itapoá,,,TJSC
+1168,hw_itapoa_11,,Access Switch,,Active,Itapoá,,,TJSC
+1169,hw_itapoa_12,,Spare Switch,,Inventory,Itapoá,,,TJSC
+3352,hw_itapoa_14,,Access Switch,,Active,Itapoá,,,TJSC
+1170,hw_ituporanga_16,,Access Switch,,Active,Ituporanga,,,TJSC
+1171,hw_ituporanga_17,,Access Switch,,Active,Ituporanga,,,TJSC
+1172,hw_ituporanga_18,,Access Switch,,Active,Ituporanga,,,TJSC
+1173,hw_ituporanga_19,,Access Switch,,Active,Ituporanga,,,TJSC
+1174,hw_ituporanga_20,,Access Switch,,Active,Ituporanga,,,TJSC
+1175,hw_ituporanga_21,,Access Switch,,Active,Ituporanga,,,TJSC
+1176,hw_Jaguaruna_10,,Access Switch,,Active,Jaguaruna,,,TJSC
+1177,hw_Jaguaruna_11,,Access Switch,,Active,Jaguaruna,,,TJSC
+1178,hw_Jaguaruna_12,,Access Switch,,Active,Jaguaruna,,,TJSC
+1179,hw_Jaguaruna_13,,Access Switch,,Active,Jaguaruna,,,TJSC
+1180,hw_Jaguaruna_14,,Access Switch,,Active,Jaguaruna,,,TJSC
+3377,hw_Jaguaruna_16,,Access Switch,,Active,Jaguaruna,,,TJSC
+1181,hw_Jaguaruna_19,,Access Switch,,Active,Jaguaruna,,,TJSC
+3252,hw_jaragua_do_sul_40,,Access Switch,,Active,Jaraguá do Sul,,,TJSC
+3354,hw_Jaragua_Unidade_Avancada_136,,Access Switch,,Active,Jaraguá do Sul - Unidade Avançada,,,TJSC
+3355,hw_Jaragua_Unidade_Avancada_137,,Spare Switch,,Inventory,Jaraguá do Sul - Unidade Avançada,,,TJSC
+1195,hw_Jaragua_Unidade_Avancada_138,,Access Switch,,Active,Jaraguá do Sul - Unidade Avançada,,,TJSC
+3254,hw_joacaba_16,,Access Switch,,Active,Joaçaba,,,
+1858,hw_Joacaba_25,,Access Switch,,Active,Joaçaba,,,TJSC
+1204,hw_Joacaba_26,,Access Switch,,Active,Joaçaba,,,TJSC
+1859,hw_Joacaba_27,,Access Switch,,Active,Joaçaba,,,TJSC
+3231,hw_Joacaba_28,,Access Switch,,Active,Joaçaba,,,
+1205,hw_joacaba_30,,Access Switch,,Active,Joaçaba,,,TJSC
+1206,hw_Joacaba_Avanc_11,,Access Switch,,Active,Joaçaba - Unidade Avançada,,,TJSC
+2278,hw_Joinville_2,,Access Switch,,Active,Joinville,,,
+3420,hw_Joinville_3,,Access Switch,,Active,Joinville,,,
+3351,hw_joinville_13,,Access Switch,,Active,Joinville,,,TJSC
+3304,hw_joinville_31,,Access Switch,,Active,Joinville,,,
+1225,hw_joinville_36,,Access Switch,,Active,Joinville,,,TJSC
+1226,hw_joinville_37,,Access Switch,,Active,Joinville,,,TJSC
+1227,hw_joinville_38,,Access Switch,,Active,Joinville,,,TJSC
+1228,hw_joinville_39,,Access Switch,,Active,Joinville,,,TJSC
+1229,hw_joinville_40,,Access Switch,,Active,Joinville,,,TJSC
+1230,hw_joinville_41,,Access Switch,,Active,Joinville,,,TJSC
+2279,hw_Joinville_44,,Access Switch,,Active,Joinville,,,
+1210,hw_joinville_50,,Access Switch,,Active,Joinville,,,TJSC
+1232,hw_joinville_51,,Access Switch,,Active,Joinville,,,TJSC
+1208,hw_joinville_53,,Access Switch,,Active,Joinville,,,TJSC
+1209,hw_joinville_54,,Access Switch,,Active,Joinville,,,TJSC
+1234,hw_joinville_fazendario_10,,Access Switch,,Active,Joinville - Fórum Fazendário,,,TJSC
+1235,hw_joinville_fazendario_11,,Access Switch,,Active,Joinville - Fórum Fazendário,,,TJSC
+1236,hw_joinville_fazendario_12,,Spare Switch,,Offline,Joinville - Fórum Fazendário,,,TJSC
+1231,hw_joinville_fazendario_13,,Access Switch,,Inventory,Joinville - Fórum Fazendário,,,TJSC
+2745,hw_joinville_forum_fazendario_14,,Access Switch,,Active,Joinville - Fórum Fazendário,,,
+3163,hw_lages_12,,Access Switch,,Active,Lages,,,TJSC
+3173,hw_Lages_132,,Access Switch,,Active,Lages,,,
+3174,hw_Lages_134,,Access Switch,,Active,Lages,,,
+3103,hw_lages_uniplac_133,,Access Switch,,Active,Lages - Unidade Avançada,,,TJSC
+1263,hw_laguna_21,,Spare Switch,,Offline,Laguna,,,TJSC
+1264,hw_laguna_22,,Access Switch,,Active,Laguna,,,TJSC
+1265,hw_laguna_23,,Access Switch,,Active,Laguna,,,TJSC
+1266,hw_laguna_24,,Access Switch,,Active,Laguna,,,TJSC
+1267,hw_laguna_25,,Access Switch,,Active,Laguna,,,TJSC
+1268,hw_lauro_muller_10,,Access Switch,,Active,Lauro Müller,,,TJSC
+1269,hw_lauro_muller_11,,Spare Switch,,Offline,Lauro Müller,,,TJSC
+1270,hw_lauro_muller_12,,Access Switch,,Active,Lauro Müller,,,TJSC
+3108,hw_lauro_muller_13,,Spare Switch,,Offline,Lauro Müller,,,TJSC
+3144,hw_lauro_muller_14,,Access Switch,,Active,Lauro Müller,,,TJSC
+1273,hw_lebon_regis_10,,Access Switch,,Active,Lebon Régis,,,TJSC
+3195,hw_lebon_regis_11,,Access Switch,,Active,Lebon Régis,,,TJSC
+1274,hw_lebon_regis_13,,Access Switch,,Active,Lebon Régis,,,TJSC
+1275,hw_lebon_regis_14,,Access Switch,,Active,Lebon Régis,,,TJSC
+3309,hw_mafra_10,,Access Switch,,Active,Mafra,,,TJSC
+3276,hw_mafra_13,,Spare Switch,,Offline,Mafra,,,TJSC
+3277,hw_mafra_14,,Access Switch,,Active,Mafra,,,TJSC
+3278,hw_mafra_16,,Access Switch,,Active,Mafra,,,TJSC
+3279,hw_mafra_17,,Access Switch,,Active,Mafra,,,TJSC
+1281,hw_mafra_20,,Access Switch,,Active,Mafra,,,TJSC
+1282,hw_mafra_21,,Access Switch,,Active,Mafra,,,TJSC
+1283,hw_mafra_22,,Access Switch,,Active,Mafra,,,TJSC
+1288,hw_maravilha_15,,Spare Switch,,Offline,Maravilha,,,TJSC
+3300,hw_maravilha_16,,Access Switch,,Active,Maravilha,,,TJSC
+1289,hw_meleiro_10,,Access Switch,,Active,Meleiro,,,TJSC
+1290,hw_meleiro_11,,Access Switch,,Active,Meleiro,,,TJSC
+1291,hw_Modelo_10,,Access Switch,,Active,Modelo,,,TJSC
+1292,hw_Modelo_11,,Access Switch,,Active,Modelo,,,TJSC
+1293,hw_Modelo_13,,Spare Switch,,Offline,Modelo,,,TJSC
+1295,hw_mondai_11,,Access Switch,,Active,Mondaí,,,TJSC
+1296,hw_mondai_12,,Access Switch,,Active,Mondaí,,,TJSC
+1297,hw_mondai_13,,Access Switch,,Active,Mondaí,,,TJSC
+1294,hw_mondai_14,,Spare Switch,,Offline,Mondaí,,,TJSC
+3123,hw_mondai_15,,Access Switch,,Offline,Mondaí,,,TJSC
+1299,hw_Navegantes_10,,Distribution Switch,,Active,Navegantes,,,TJSC
+1300,hw_Navegantes_11,,Spare Switch,,Offline,Navegantes,,,TJSC
+1301,hw_Navegantes_12,,Access Switch,,Active,Navegantes,,,TJSC
+1302,hw_Navegantes_13,,Access Switch,,Active,Navegantes,,,TJSC
+1303,hw_Navegantes_14,,Access Switch,,Active,Navegantes,,,TJSC
+3017,hw_Navegantes_15,,Access Switch,,Active,Navegantes,,,TJSC
+2690,hw_Navegantes_21,,Access Switch,,Active,Navegantes,,,TJSC
+2692,hw_Navegantes_23,,Access Switch,,Active,Navegantes,,,
+1312,hw_Norte_Ilha_19,,Access Switch,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,42.0,TJSC
+3145,hw_Norte_Ilha_26,,Access Switch,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,36.0,TJSC
+3146,hw_Norte_Ilha_27,,Access Switch,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,34.0,TJSC
+3113,hw_orleans_10,,Access Switch,,Active,Orleans,,,TJSC
+3114,hw_orleans_11,,Access Switch,,Active,Orleans,,,TJSC
+3115,hw_orleans_12,,Access Switch,,Active,Orleans,,,TJSC
+3116,hw_orleans_13,,Spare Switch,,Offline,Orleans,,,TJSC
+3125,hw_orleans_14,,Access Switch,,Active,Orleans,,,TJSC
+3124,hw_orleans_15,,Spare Switch,,Offline,Orleans,,,TJSC
+1320,hw_Orleans_16,,Access Switch,,Active,Orleans,,,TJSC
+1323,hw_otacilio_costa_10,,Access Switch,,Active,Otacílio Costa,,,TJSC
+1324,hw_otacilio_costa_11,,Access Switch,,Active,Otacílio Costa,,,TJSC
+1325,hw_otacilio_costa_12,,Access Switch,,Active,Otacílio Costa,,,TJSC
+2723,hw_palhoca_forum_15,,Spare Switch,,Offline,Palhoça,,,
+2720,hw_palhoca_forum_16,,Access Switch,,Active,Palhoça,,,
+2721,hw_palhoca_forum_17,,Access Switch,,Active,Palhoça,,,
+2103,hw_palhoca_forum_37,,Access Switch,,Active,Palhoça,,,TJSC
+1342,hw_palmitos_10,,Spare Switch,,Offline,Palmitos,,,TJSC
+1343,hw_palmitos_11,,Access Switch,,Active,Palmitos,,,TJSC
+1344,hw_palmitos_12,,Access Switch,,Active,Palmitos,,,TJSC
+1345,hw_papanduva_10,,Spare Switch,,Offline,Papanduva,,,TJSC
+1346,hw_papanduva_11,,Access Switch,,Active,Papanduva,,,TJSC
+1347,hw_papanduva_12,,Access Switch,,Active,Papanduva,,,TJSC
+3302,hw_papanduva_14,,Spare Switch,,Offline,Papanduva,,,TJSC
+1348,hw_papanduva_15,,Access Switch,,Active,Papanduva,,,TJSC
+1349,hw_Penha_10,,Access Switch,,Active,Penha,,,TJSC
+1350,hw_Penha_11,,Access Switch,,Active,Penha,,,TJSC
+2746,hw_penha_12,,Access Switch,,Active,Penha,,,TJSC
+3004,hw_penha_13,,Spare Switch,,Offline,Penha,,,TJSC
+1352,hw_pinhalzinho_15,,Access Switch,,Active,Pinhalzinho,,,TJSC
+1353,hw_pinhalzinho_16,,Access Switch,,Active,Pinhalzinho,,,TJSC
+1354,hw_pinhalzinho_17,,Access Switch,,Active,Pinhalzinho,,,TJSC
+1355,hw_pinhalzinho_18,,Access Switch,,Active,Pinhalzinho,,,TJSC
+1356,hw_pinhalzinho_19,,Access Switch,,Active,Pinhalzinho,,,TJSC
+1357,hw_Pomerode_10,,Access Switch,,Active,Pomerode,,,TJSC
+1358,hw_Pomerode_11,,Access Switch,,Active,Pomerode,,,TJSC
+1359,hw_Pomerode_12,,Access Switch,,Active,Pomerode,,,TJSC
+1360,hw_Pomerode_13,,Access Switch,,Active,Pomerode,,,TJSC
+1361,hw_Pomerode_14,,Access Switch,,Active,Pomerode,,,TJSC
+1498,hw_ponte_serrada_10,,Spare Switch,,Offline,Ponte Serrada,,,TJSC
+1499,hw_ponte_serrada_11,,Access Switch,,Active,Ponte Serrada,,,TJSC
+1855,hw_ponte_serrada_12,,Access Switch,,Active,Ponte Serrada,,,TJSC
+3373,hw_Porto_Belo_10,,Spare Switch,,Inventory,Porto Belo,,,TJSC
+3374,hw_Porto_Belo_12,,Access Switch,,Active,Porto Belo,,,TJSC
+1502,hw_porto_belo_21,,Access Switch,,Active,Porto Belo,,,TJSC
+1503,hw_porto_belo_22,,Access Switch,,Active,Porto Belo,,,TJSC
+1504,hw_porto_belo_23,,Access Switch,,Active,Porto Belo,,,TJSC
+1505,hw_porto_belo_24,,Access Switch,,Active,Porto Belo,,,TJSC
+3303,hw_porto_uniao_29,,Spare Switch,,Offline,Porto União,,,TJSC
+1519,hw_presidente_getulio_10,,Spare Switch,,Offline,Presidente Getúlio,,,TJSC
+3133,hw_presidente_getulio_12,,Access Switch,,Active,Presidente Getúlio,,,TJSC
+1521,hw_presidente_getulio_13,,Spare Switch,,Offline,Presidente Getúlio,,,TJSC
+1522,hw_quilombo_10,,Access Switch,,Active,Quilombo,,,TJSC
+1523,hw_quilombo_11,,Access Switch,,Active,Quilombo,,,TJSC
+1524,hw_quilombo_12,,Spare Switch,,Offline,Quilombo,,,TJSC
+1525,hw_quilombo_13,,Access Switch,,Active,Quilombo,,,TJSC
+1526,hw_rio_do_campo_10,,Access Switch,,Active,Rio do Campo,,,TJSC
+1527,hw_rio_do_campo_11,,Access Switch,,Active,Rio do Campo,,,TJSC
+1528,hw_rio_do_oeste_16,,Access Switch,,Active,Rio do Oeste,,,TJSC
+1529,hw_rio_do_oeste_17,,Access Switch,,Active,Rio do Oeste,,,TJSC
+1530,hw_rio_do_oeste_18,,Access Switch,,Active,Rio do Oeste,,,TJSC
+1531,hw_rio_do_oeste_19,,Access Switch,,Active,Rio do Oeste,,,TJSC
+1532,hw_rio_do_oeste_20,,Access Switch,,Active,Rio do Oeste,,,TJSC
+1533,hw_Rio_do_Sul_Novo_10,,Distribution Switch,,Active,Rio do Sul,,,TJSC
+1534,hw_Rio_do_Sul_Novo_11,,Access Switch,,Active,Rio do Sul,,,TJSC
+1535,hw_Rio_do_Sul_Novo_12,,Access Switch,,Active,Rio do Sul,,,TJSC
+1536,hw_Rio_do_Sul_Novo_13,,Access Switch,,Active,Rio do Sul,,,TJSC
+1537,hw_Rio_do_Sul_Novo_14,,Access Switch,,Active,Rio do Sul,,,TJSC
+1538,hw_Rio_do_Sul_Novo_15,,Access Switch,,Active,Rio do Sul,,,TJSC
+1539,hw_Rio_do_Sul_Novo_16,,Access Switch,,Active,Rio do Sul,,,TJSC
+1540,hw_Rio_do_Sul_Novo_17,,Access Switch,,Active,Rio do Sul,,,TJSC
+1541,hw_Rio_do_Sul_Novo_18,,Access Switch,,Active,Rio do Sul,,,TJSC
+1542,hw_Rio_do_Sul_Novo_19,,Access Switch,,Active,Rio do Sul,,,TJSC
+1543,hw_Rio_do_Sul_Novo_22,,Access Switch,,Active,Rio do Sul,,,TJSC
+1544,hw_Rio_do_Sul_Novo_23,,Access Switch,,Active,Rio do Sul,,,TJSC
+1545,hw_Rio_do_Sul_Novo_24,,Access Switch,,Active,Rio do Sul,,,TJSC
+3289,hw_rio_negrinho_19,,Spare Switch,,Offline,Rio Negrinho,,,TJSC
+1546,hw_rio_negrinho_20,,Spare Switch,,Offline,Rio Negrinho,,,TJSC
+1547,hw_rio_negrinho_22,,Access Switch,,Active,Rio Negrinho,,,TJSC
+1548,hw_rio_negrinho_23,,Access Switch,,Active,Rio Negrinho,,,TJSC
+1551,hw_santa_cecilia_21,,Spare Switch,,Offline,Santa Cecília,,,TJSC
+1552,hw_santa_cecilia_22,,Access Switch,,Active,Santa Cecília,,,TJSC
+2634,hw_santa_cecilia_23,,Access Switch,,Active,Santa Cecília,,,
+1553,hw_santa_cecilia_24,,Spare Switch,,Offline,Santa Cecília,,,TJSC
+1554,hw_santa_cecilia_25,,Access Switch,,Active,Santa Cecília,,,TJSC
+1555,hw_santa_cecilia_26,,Access Switch,,Active,Santa Cecília,,,TJSC
+1556,hw_santa_cecilia_27,,Access Switch,,Active,Santa Cecília,,,TJSC
+1557,hw_santa_rosa_do_sul_10,,Access Switch,,Active,Santa Rosa do Sul,,,TJSC
+1558,hw_santa_rosa_do_sul_11,,Access Switch,,Active,Santa Rosa do Sul,,,TJSC
+1559,hw_santa_rosa_do_sul_12,,Access Switch,,Active,Santa Rosa do Sul,,,TJSC
+3365,hw_Santo_Amaro_11,,Access Switch,,Active,Santo Amaro da Imperatriz,,,TJSC
+3366,hw_Santo_Amaro_12,,Access Switch,,Active,Santo Amaro da Imperatriz,,,TJSC
+1572,hw_sao_bento_do_sul_12,,Spare Switch,,Offline,São Bento do Sul,,,TJSC
+2451,hw_sao_bento_do_sul_13,,Access Switch,,Active,São Bento do Sul,,,TJSC
+2452,hw_sao_bento_do_sul_14,,Access Switch,,Active,São Bento do Sul,,,TJSC
+2453,hw_sao_bento_do_sul_15,,Access Switch,,Active,São Bento do Sul,,,TJSC
+1569,hw_sao_bento_do_sul_16,,Access Switch,,Active,São Bento do Sul,,,TJSC
+1570,hw_sao_bento_do_sul_17,,Access Switch,,Active,São Bento do Sul,,,TJSC
+1571,hw_sao_bento_do_sul_18,,Access Switch,,Active,São Bento do Sul,,,TJSC
+3299,hw_sao_bento_do_sul_19,,Spare Switch,,Offline,São Bento do Sul,,,
+1573,hw_sao_bento_do_sul_20,,Spare Switch,,Offline,São Bento do Sul,,,TJSC
+1574,hw_sao_bento_do_sul_21,,Access Switch,,Active,São Bento do Sul,,,TJSC
+1575,hw_sao_bento_do_sul_22,,Spare Switch,,Offline,São Bento do Sul,,,TJSC
+1576,hw_sao_carlos_10,,Spare Switch,,Offline,São Carlos,,,TJSC
+1577,hw_sao_carlos_11,,Access Switch,,Active,São Carlos,,,TJSC
+1578,hw_sao_carlos_12,,Access Switch,,Active,São Carlos,,,TJSC
+1579,hw_sao_carlos_13,,Access Switch,,Active,São Carlos,,,TJSC
+2613,hw_sao_domingos_10,,Access Switch,,Active,São Domingos,,,
+2633,hw_sao_domingos_11,,Access Switch,,Active,São Domingos,,,
+2614,hw_sao_domingos_12,,Access Switch,,Active,São Domingos,,,
+1584,hw_sao_francisco_do_sul_10,,Access Switch,,Active,São Francisco do Sul,,,TJSC
+1585,hw_sao_francisco_do_sul_11,,Access Switch,,Active,São Francisco do Sul,,,TJSC
+1586,hw_sao_francisco_do_sul_12,,Access Switch,,Active,São Francisco do Sul,,,TJSC
+3286,hw_sao_francisco_do_sul_14,,Spare Switch,,Offline,São Francisco do Sul,,,
+2747,hw_sao_francisco_do_sul_15,,Access Switch,,Active,São Francisco do Sul,,,
+1587,hw_sao_francisco_do_sul_17,,Access Switch,,Active,São Francisco do Sul,,,TJSC
+1588,hw_sao_joao_batista_10,,Access Switch,,Active,São João Batista,,,TJSC
+1589,hw_sao_joao_batista_11,,Access Switch,,Active,São João Batista,,,TJSC
+1590,hw_sao_joao_batista_12,,Access Switch,,Active,São João Batista,,,TJSC
+1591,hw_sao_joao_batista_13,,Access Switch,,Active,São João Batista,,,TJSC
+1592,hw_sao_joao_batista_14,,Access Switch,,Active,São João Batista,,,TJSC
+3397,hw_sao_joao_batista_16,,Access Switch,,Active,São João Batista,,,TJSC
+3398,hw_sao_joao_batista_17,,Access Switch,,Active,São João Batista,,,TJSC
+1594,hw_sao_joaquim_10,,Access Switch,,Active,São Joaquim,,,TJSC
+1595,hw_sao_joaquim_11,,Access Switch,,Active,São Joaquim,,,TJSC
+1596,hw_sao_joaquim_12,,Access Switch,,Active,São Joaquim,,,TJSC
+1597,hw_sao_joaquim_13,,Access Switch,,Active,São Joaquim,,,TJSC
+1598,hw_sao_joaquim_14,,Access Switch,,Active,São Joaquim,,,TJSC
+1599,hw_sao_joaquim_15,,Access Switch,,Active,São Joaquim,,,TJSC
+1600,hw_sao_joaquim_16,,Access Switch,,Active,São Joaquim,,,TJSC
+1601,hw_sao_joaquim_17,,Access Switch,,Active,São Joaquim,,,TJSC
+1602,hw_Sao_Jose_20,,Access Switch,,Active,São José,,,TJSC
+1603,hw_Sao_Jose_21,,Access Switch,,Active,São José,,,TJSC
+1609,hw_Sao_Jose_25,,Access Switch,,Active,São José,,,TJSC
+1605,hw_Sao_Jose_28,,Access Switch,,Active,São José,,,TJSC
+1606,hw_Sao_Jose_29,,Access Switch,,Active,São José,,,TJSC
+1607,hw_Sao_Jose_30,,Access Switch,,Active,São José,,,TJSC
+2548,hw_Sao_Jose_35,,Access Switch,,Active,São José,,,TJSC
+1638,hw_Sao_Jose_69,,Access Switch,,Active,São José,,,TJSC
+1758,hw_sao_jose_do_cedro_10,,Spare Switch,,Offline,São José do Cedro,,,TJSC
+1759,hw_sao_jose_do_cedro_11,,Access Switch,,Active,São José do Cedro,,,TJSC
+1760,hw_sao_jose_do_cedro_13,,Access Switch,,Active,São José do Cedro,,,TJSC
+2743,hw_sao_jose_forum_22,,Access Switch,,Active,São José,,,TJSC
+2744,hw_sao_jose_forum_23,,Access Switch,,Active,São José,,,TJSC
+1762,hw_sao_lourenco_do_oeste_10,,Spare Switch,,Offline,São Lourenço do Oeste,,,TJSC
+1763,hw_sao_lourenco_do_oeste_11,,Access Switch,,Active,São Lourenço do Oeste,,,TJSC
+2104,hw_sao_lourenco_do_oeste_12,,Spare Switch,,Inventory,São Lourenço do Oeste,,,
+3390,hw_sao_lourenco_do_oeste_13,,Access Switch,,Active,São Lourenço do Oeste,,,TJSC
+1764,hw_sao_lourenco_do_oeste_14,,Access Switch,,Active,São Lourenço do Oeste,,,TJSC
+3328,hw_sao_lourenco_do_oeste_19,,Spare Switch,,Inventory,São Lourenço do Oeste,,,TJSC
+1774,hw_sao_miguel_do_oeste_17,,Access Switch,,Active,São Miguel do Oeste,,,TJSC
+2563,hw_sao_miguel_do_oeste_19,,Spare Switch,,Offline,São Miguel do Oeste,,,
+1775,hw_sao_miguel_do_oeste_23,,Access Switch,,Active,São Miguel do Oeste,,,TJSC
+1776,hw_seara_10,,Spare Switch,,Offline,Seara,,,TJSC
+1777,hw_seara_12,,Spare Switch,,Offline,Seara,,,TJSC
+1778,hw_seara_13,,Access Switch,,Active,Seara,,,TJSC
+3232,hw_seara_16,,Access Switch,,Active,Seara,,,TJSC
+1780,hw_Sombrio_10,,Access Switch,,Active,Sombrio,,,TJSC
+1781,hw_Sombrio_11,,Access Switch,,Active,Sombrio,,,TJSC
+1782,hw_Sombrio_12,,Access Switch,,Active,Sombrio,,,TJSC
+1783,hw_Sombrio_13,,Access Switch,,Active,Sombrio,,,TJSC
+1784,hw_Sombrio_14,,Spare Switch,,Offline,Sombrio,,,TJSC
+2908,hw_Sto_Amaro_Unidade_Avancada_136,,Access Switch,,Active,Santo Amaro da Imperatriz - Unidade Avançada,,,TJSC
+1785,hw_Taio_10,,Spare Switch,,Offline,Taió,,,TJSC
+1786,hw_Taio_11,,Access Switch,,Active,Taió,,,TJSC
+1787,hw_Taio_12,,Access Switch,,Active,Taió,,,TJSC
+1788,hw_Taio_13,,Access Switch,,Active,Taió,,,TJSC
+1789,hw_Taio_14,,Access Switch,,Active,Taió,,,TJSC
+1790,hw_tangara_10,,Spare Switch,,Offline,Tangará,,,TJSC
+1791,hw_tangara_11,,Access Switch,,Active,Tangará,,,TJSC
+1792,hw_tangara_12,,Access Switch,,Active,Tangará,,,TJSC
+1793,hw_tangara_13,,Access Switch,,Active,Tangará,,,TJSC
+1795,hw_tijucas_11,,Access Switch,,Active,Tijucas,,,TJSC
+1796,hw_tijucas_12,,Access Switch,,Active,Tijucas,,,TJSC
+1797,hw_tijucas_13,,Access Switch,,Active,Tijucas,,,TJSC
+1798,hw_tijucas_16,,Access Switch,,Active,Tijucas,,,TJSC
+1799,hw_tijucas_18,,Access Switch,,Active,Tijucas,,,TJSC
+1802,hw_tijucas_21,,Access Switch,,Active,Tijucas,,,TJSC
+1803,hw_tijucas_22,,Access Switch,,Active,Tijucas,,,TJSC
+3308,hw_Timbo_12,,Access Switch,,Active,Timbó,,,TJSC
+1804,hw_Timbo_22,,Access Switch,,Active,Timbó,,,TJSC
+1805,hw_Timbo_23,,Access Switch,,Active,Timbó,,,TJSC
+1806,hw_Timbo_24,,Access Switch,,Active,Timbó,,,TJSC
+1807,hw_Timbo_25,,Spare Switch,,Offline,Timbó,,,TJSC
+1808,hw_Timbo_27,,Access Switch,,Active,Timbó,,,TJSC
+1809,hw_trombudo_central_10,,Access Switch,,Active,Trombudo Central,,,TJSC
+1810,hw_trombudo_central_11,,Access Switch,,Active,Trombudo Central,,,TJSC
+1811,hw_trombudo_central_12,,Access Switch,,Active,Trombudo Central,,,TJSC
+1812,hw_trombudo_central_13,,Access Switch,,Active,Trombudo Central,,,TJSC
+2100,hw_Turvo_10,,Access Switch,,Offline,Turvo,,,TJSC
+2099,hw_Turvo_11,,Access Switch,,Active,Turvo,,,TJSC
+2610,hw_Turvo_12,,Access Switch,,Active,Turvo,,,TJSC
+3360,hw_Turvo_13,,Spare Switch,,Inventory,Turvo,,,TJSC
+3361,hw_Turvo_14,,Access Switch,,Active,Turvo,,,TJSC
+773,hw_unochapeco_70,,Access Switch,,Active,Chapecó - Unochapecó,,,TJSC
+1832,hw_urubici_10,,Spare Switch,,Offline,Urubici,,,TJSC
+1833,hw_urubici_11,,Access Switch,,Active,Urubici,,,TJSC
+1834,hw_urussanga_10,,Access Switch,,Active,Urussanga,,,TJSC
+1835,hw_urussanga_11,,Access Switch,,Active,Urussanga,,,TJSC
+1836,hw_urussanga_12,,Access Switch,,Active,Urussanga,,,TJSC
+2528,hw_urussanga_13,,Access Switch,,Active,Urussanga,,,TJSC
+3102,hw_urussanga_14,,Access Switch,,Active,Urussanga,,,TJSC
+1837,hw_urussanga_15,,Access Switch,,Active,Urussanga,,,TJSC
+2562,hw_videira_15,,Access Switch,,Active,Videira,,,
+1845,hw_videira_20,,Access Switch,,Active,Videira,,,TJSC
+1847,hw_xanxere_12,,Access Switch,,Active,Xanxerê,,,TJSC
+3310,hw_xanxere_13,,Access Switch,,Active,Xanxerê,,,TJSC
+3311,hw_xaxim_11,,Spare Switch,,Offline,Xaxim,,,TJSC
+2950,Khomp K80509,,Media Gateway,,Active,CPD,Rack Telecom 01,17.0,
+2949,Khomp K90900,,Media Gateway,,Active,CPD,Rack Telecom 01,17.0,
+2952,Khomp K90900 02,,Media Gateway,,Active,CPD,Rack Telecom 01,14.0,
+2850,Modem Óptico Oi 01,,Modem Óptico,,Active,CPD,Rack Telecom 01,18.0,
+2976,Nexus Sala Cofre,,Core Switch,,Active,Sala Cofre,Nexus Sala Cofre,1.0,
+2851,nk7-2,,Core Switch,,Active,CPD,Rack Nexus CPD,3.0,
+2098,OLT_CACADOR,,OLT,,Active,Caçador,,,
+3200,ONU 1.01,,ONU,,Active,Caçador,,,
+3205,ONU 1.09,,ONU,,Active,Caçador,,,
+3201,ONU 1.10,,ONU,,Active,Caçador,,,
+3206,ONU 1.15,,ONU,,Active,Caçador,,,
+3207,ONU 1.16,,ONU,,Active,Caçador,,,
+3208,ONU 1.20,,ONU,,Active,Caçador,,,
+3209,ONU 1.21,,ONU,,Active,Caçador,,,
+3210,ONU 1.30,,ONU,,Active,Caçador,,,
+3211,ONU 2.05,,ONU,,Active,Caçador,,,
+3212,ONU 2.09,,ONU,,Active,Caçador,,,
+3213,ONU 2.25,,ONU,,Active,Caçador,,,
+3214,ONU 2.26,,ONU,,Active,Caçador,,,
+3215,ONU 3.03,,ONU,,Active,Caçador,,,
+3216,ONU 3.09,,ONU,,Active,Caçador,,,
+3217,ONU 3.14,,ONU,,Active,Caçador,,,
+3427,Organizador de Cabos 01,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,41.0,
+2959,Organizador de Cabos 01 - Nexus,,Guia de Cabos,,Active,CPD,Rack Nexus CPD,35.0,
+2931,Organizador de Cabos 01-Telecom 01,,Guia de Cabos,,Active,CPD,Rack Telecom 01,40.0,
+2862,Organizador de Cabos 01-Telecom 02,,Guia de Cabos,,Active,CPD,Rack Telecom 02,26.0,
+3428,Organizador de Cabos 02,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,39.0,
+2958,Organizador de Cabos 02 - Nexus,,Guia de Cabos,,Active,CPD,Rack Nexus CPD,24.0,
+2845,Organizador de Cabos 02-Telecom 01,,Guia de Cabos,,Active,CPD,Rack Telecom 01,33.0,
+3429,Organizador de Cabos 03,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,37.0,
+2846,Organizador de Cabos 03-Telecom 01,,Guia de Cabos,,Active,CPD,Rack Telecom 01,30.0,
+3430,Organizador de Cabos 04,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,35.0,
+2847,Organizador de Cabos 04-Telecom 01,,Guia de Cabos,,Active,CPD,Rack Telecom 01,27.0,
+3431,Organizador de Cabos 05,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,33.0,
+2848,Organizador de Cabos 05-Telecom 01,,Guia de Cabos,,Active,CPD,Rack Telecom 01,23.0,
+3435,Organizador de Cabos 06,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,30.0,
+3436,Organizador de Cabos 07,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,28.0,
+3437,Organizador de Cabos 08,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,26.0,
+3438,Organizador de Cabos 09,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,24.0,
+3439,Organizador de Cabos 10,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,22.0,
+3440,Organizador de Cabos 11,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,20.0,
+3441,Organizador de Cabos 12,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,18.0,
+3442,Organizador de Cabos 13,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,16.0,
+3443,Organizador de Cabos 14,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,14.0,
+3444,Organizador de Cabos 15,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,12.0,
+3445,Organizador de Cabos 16,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,10.0,
+3446,Organizador de Cabos 17,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,8.0,
+3447,Organizador de Cabos 18,,Guia de Cabos,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,6.0,
+2974,Palo Alto 1,,Firewall,,Active,Sala Cofre,Nexus Sala Cofre,34.0,
+2975,Palo Alto 2,,Firewall,,Active,Sala Cofre,Nexus Sala Cofre,24.0,
+2608,Patch Panel 1,,Patch Panel,,Active,Fraiburgo,FGO - Rack 1 - Corredor 1º andar,10.0,
+3432,Patch Panel 01,,Patch Panel,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,32.0,
+2609,Patch Panel 2,,Patch Panel,,Active,Fraiburgo,FGO - Rack 1 - Corredor 1º andar,12.0,
+3433,Patch Panel 02,,Patch Panel,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,31.0,
+3434,Patch Panel 03,,Patch Panel,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,29.0,
+3451,Patch Panel 04,,Patch Panel,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,27.0,
+3452,Patch Panel 05,,Patch Panel,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,25.0,
+3453,Patch Panel 06,,Patch Panel,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,23.0,
+3454,Patch Panel 07,,Patch Panel,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,21.0,
+3455,Patch Panel 08,,Patch Panel,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,19.0,
+3456,Patch Panel 09,,Patch Panel,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,17.0,
+3457,Patch Panel 10,,Patch Panel,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,15.0,
+3458,Patch Panel 11,,Patch Panel,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,13.0,
+3459,Patch Panel 12,,Patch Panel,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,11.0,
+3460,Patch Panel 13,,Patch Panel,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,9.0,
+3461,Patch Panel 14,,Patch Panel,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,7.0,
+2977,PDU,,PDU,,Active,Sala Cofre,Nexus Sala Cofre,22.0,
+3426,Rot ALT-DIO e EDD ALT,,Distribuidor Óptico (DIO),,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Bracket-01,1.0,
+3422,Roteador Algar,,Router MPLS,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Bracket-01,5.0,
+2937,Roteador-HP-STJ,,Router,,Active,CPD,Rack Telecom 01,34.0,
+3450,Roteador MPLS Oi,,Router MPLS,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Rack-01,1.0,
+2951,Roteador MPLS Unifique,,Router MPLS,,Active,CPD,Rack Telecom 01,16.0,
+27,Rot_Oi_ASC_Ascurra,,Router,,Active,Ascurra,,,TJSC
+26,Rot_Oi_AZM_Armazém,,Router,,Active,Armazém,,,TJSC
+1862,Rot_Oi_CNV_Campos_Novos,,Router,,Active,Campos Novos,,,TJSC
+1861,Rot_Oi_JCA_Joacaba,,Router,,Active,Joaçaba,,,TJSC
+2037,RT_AS_1,,Router Internet,FXS2211Q2VZ,Active,CPD,Rack Nexus CPD,37.0,TJSC
+2038,RT_AS_2,,Router Internet,FXS2252Q2Q5,Active,CPD,Rack Nexus CPD,36.0,TJSC
+2579,RT_MPLS_1,,Router MPLS,,Active,CPD,Rack Nexus CPD,26.0,
+2580,RT_MPLS_2,,Router MPLS,,Active,CPD,Rack Nexus CPD,25.0,
+2938,SIP Gateway 01,,Media Gateway,,Active,CPD,Rack Telecom 01,29.0,
+2939,SIP Gateway 02,,Media Gateway,,Active,CPD,Rack Telecom 01,28.0,
+3204,Splitter Óptico 01,,Splitter Óptico,,Active,Caçador,,,
+3218,Splitter Óptico 02,,Splitter Óptico,,Active,Caçador,,,
+3219,Splitter Óptico 03,,Splitter Óptico,,Active,Caçador,,,
+2985,SteelCentral NetShark,,Network Performance Manager (NPM Riverbed),,Active,Sala Cofre,Rack 04 (Viavi e HC-2),28.0,
+209,sw_agaribaldi_14,,Access Switch,,Offline,Anita Garibaldi,,,TJSC
+210,sw_agaribaldi_15,,Access Switch,,Offline,Anita Garibaldi,,,TJSC
+216,sw_ararangua_03,,Access Switch,,Offline,Araranguá,,,TJSC
+1856,sw_ascurra_15,,Access Switch,,Offline,Ascurra,,,TJSC
+1857,sw_ascurra_16,,Access Switch,,Offline,Ascurra,,,TJSC
+265,sw_barravelha_20,,Access Switch,,Offline,Barra Velha,,,TJSC
+2030,sw_bcamboriu_avan_19,,Access Switch,,Offline,Balneário Camboriú  - Unidade Avançada,,,TJSC
+2031,sw_bcamboriu_avan_23,,Access Switch,,Offline,Balneário Camboriú  - Unidade Avançada,,,TJSC
+337,sw_blumenau_12,,Access Switch,,Offline,Blumenau,,,TJSC
+338,sw_blumenau_13,,Access Switch,,Offline,Blumenau,,,TJSC
+339,sw_blumenau_40,,Access Switch,,Offline,Blumenau,,,TJSC
+3100,sw_blumenau_41,,Access Switch,,Offline,Blumenau,,,TJSC
+342,sw_blumenau_50,,Spare Switch,,Inventory,Blumenau,,,TJSC
+344,sw_blumenau_52,,Access Switch,,Active,Blumenau,,,TJSC
+352,sw_blumenau_60,,Access Switch,,Active,Blumenau,,,TJSC
+354,sw_blumenau_62,,Access Switch,,Active,Blumenau,,,TJSC
+355,sw_blumenau_64,,Access Switch,,Active,Blumenau,,,TJSC
+356,sw_blumenau_65,,Access Switch,,Active,Blumenau,,,TJSC
+358,sw_blumenau_67,,Access Switch,,Active,Blumenau,,,TJSC
+360,sw_blumenau_69,,Access Switch,,Active,Blumenau,,,TJSC
+365,sw_blumenau_76,,Access Switch,,Active,Blumenau,,,TJSC
+366,sw_Blumenau_Furb_11,,Access Switch,,Active,Blumenau - Furb,,,TJSC
+367,sw_Blumenau_Furb_12,,Access Switch,,Active,Blumenau - Furb,,,TJSC
+368,sw_Blumenau_Furb_13,,Access Switch,,Active,Blumenau - Furb,,,TJSC
+370,sw_Blumenau_Furb_15,,Access Switch,,Active,Blumenau - Furb,,,TJSC
+371,sw_Blumenau_Furb_16,,Access Switch,,Active,Blumenau - Furb,,,TJSC
+372,sw_Blumenau_Furb_17,,Access Switch,,Offline,Blumenau - Furb,,,TJSC
+373,sw_Blumenau_Furb_18,,Access Switch,,Active,Blumenau - Furb,,,TJSC
+374,sw_Blumenau_Furb_19,,Access Switch,,Active,Blumenau - Furb,,,TJSC
+375,sw_Blumenau_Furb_20,,Spare Switch,,Inventory,Blumenau - Furb,,,TJSC
+253,sw_bpicarras_15,,Access Switch,,Offline,Balneário Piçarras,,,TJSC
+254,sw_bpicarras_16,,Access Switch,,Offline,Balneário Piçarras,,,TJSC
+255,sw_bpicarras_17,,Access Switch,,Offline,Balneário Piçarras,,,TJSC
+256,sw_bpicarras_18,,Access Switch,,Offline,Balneário Piçarras,,,TJSC
+257,sw_bpicarras_19,,Access Switch,,Offline,Balneário Piçarras,,,TJSC
+258,sw_bpicarras_20,,Access Switch,,Offline,Balneário Piçarras,,,TJSC
+707,sw_brejaru_01,,Access Switch,,Offline,Brejarú,,,TJSC
+702,sw_bretiro_14,,Access Switch,,Offline,Bom Retiro,,,TJSC
+708,sw_brusque_12,,Access Switch,,Offline,Brusque,,,TJSC
+709,sw_brusque_26,,Access Switch,,Offline,Brusque,,,TJSC
+724,sw_cacador_01,,Spare Switch,,Offline,Caçador,,,TJSC
+725,sw_cacador_4vara_139,,Access Switch,,Offline,Caçador - Unidade Avançada,,,TJSC
+726,sw_cacador_4vara_140,,Access Switch,,Offline,Caçador - Unidade Avançada,,,TJSC
+727,sw_cacador_4vara_141,,Access Switch,,Offline,Caçador - Unidade Avançada,,,TJSC
+728,sw_cacador_4vara_142,,Access Switch,,Offline,Caçador - Unidade Avançada,,,TJSC
+730,sw_camboriu_23,,Access Switch,,Active,Camboriú,,,TJSC
+731,sw_camboriu_24,,Access Switch,,Active,Camboriú,,,TJSC
+732,sw_camboriu_25,,Access Switch,,Active,Camboriú,,,TJSC
+733,sw_camboriu_26,,Access Switch,,Active,Camboriú,,,TJSC
+734,sw_camboriu_27,,Access Switch,,Active,Camboriú,,,TJSC
+735,sw_camboriu_28,,Spare Switch,,Offline,Camboriú,,,TJSC
+736,sw_camboriu_29,,Access Switch,,Active,Camboriú,,,TJSC
+737,sw_campo_belo_voip,,Access Switch,,Offline,Campo Belo do Sul,,,TJSC
+748,sw_canoinhas_17,,Access Switch,,Offline,Canoinhas,,,TJSC
+749,sw_canoinhas_18,,Access Switch,,Offline,Canoinhas,,,TJSC
+750,sw_canoinhas_19,,Access Switch,,Offline,Canoinhas,,,TJSC
+760,sw_capinzal_17,,Access Switch,,Active,Capinzal,,,TJSC
+761,sw_capinzal_18,,Access Switch,,Active,Capinzal,,,TJSC
+764,sw_capivari_02,,Access Switch,,Offline,Capivari de Baixo,,,TJSC
+763,sw_capivari_11,,Access Switch,,Offline,Capivari de Baixo,,,TJSC
+765,sw_capivari_13,,Access Switch,,Offline,Capivari de Baixo,,,TJSC
+766,sw_capivari_14,,Access Switch,,Offline,Capivari de Baixo,,,TJSC
+767,sw_capivari_15,,Access Switch,,Offline,Capivari de Baixo,,,TJSC
+768,sw_capivari_16,,Access Switch,,Offline,Capivari de Baixo,,,TJSC
+2722,sw_capivari_17,,Access Switch,,Offline,Capivari de Baixo,,,TJSC
+769,sw_capivari_18,,Access Switch,,Offline,Capivari de Baixo,,,TJSC
+810,sw_coronel_freitas_13,,Access Switch,,Offline,Coronel Freitas,,,TJSC
+815,sw_correia_pinto_17,,Access Switch,,Offline,Correia Pinto,,,TJSC
+846,sw_cunha_pora_15,,Spare Switch,,Inventory,Cunha Porã,,,TJSC
+847,sw_cunha_pora_16,,Spare Switch,,Inventory,Cunha Porã,,,TJSC
+2990,SW-DC-CIASC-02,,Access Switch,,Active,CIASC - Data Center,,,
+2991,SW-DC-CIASC-03,,Access Switch,,Active,CIASC - Data Center,,,
+2992,SW-DC-CIASC-04,,Access Switch,,Active,CIASC - Data Center,,,
+369,sw_Deposito_25,,Access Switch,,Offline,Depósito,,,TJSC
+859,sw_deposito_28,,Access Switch,,Active,Depósito,,,TJSC
+870,sw_estreito_18,,Access Switch,,Active,Estreito,,,TJSC
+2468,sw_Furb_Cesusc_21,,Access Switch,,Active,Blumenau - Furb,,,
+894,sw_gaspar_14,,Access Switch,,Active,Gaspar,,,TJSC
+895,sw_gaspar_38,,Access Switch,,Active,Gaspar,,,TJSC
+896,sw_gaspar_39,,Access Switch,,Active,Gaspar,,,TJSC
+897,sw_gaspar_40,,Access Switch,,Active,Gaspar,,,TJSC
+898,sw_gaspar_41,,Access Switch,,Active,Gaspar,,,TJSC
+899,sw_gaspar_42,,Access Switch,,Active,Gaspar,,,TJSC
+900,sw_gaspar_43,,Access Switch,,Active,Gaspar,,,TJSC
+901,sw_gaspar_44,,Access Switch,,Active,Gaspar,,,TJSC
+902,sw_gaspar_45,,Access Switch,,Active,Gaspar,,,TJSC
+903,sw_gaspar_46,,Access Switch,,Active,Gaspar,,,TJSC
+904,sw_gaspar_48,,Access Switch,,Active,Gaspar,,,TJSC
+905,sw_guaramirim_16,,Access Switch,,Offline,Guaramirim,,,TJSC
+912,sw_ibirama_14,,Spare Switch,,Offline,Ibirama,,,TJSC
+913,sw_ibirama_15,,Access Switch,,Active,Ibirama,,,TJSC
+914,sw_ibirama_16,,Access Switch,,Active,Ibirama,,,TJSC
+915,sw_ibirama_17,,Access Switch,,Active,Ibirama,,,TJSC
+916,sw_ibirama_18,,Access Switch,,Active,Ibirama,,,TJSC
+921,sw_icara_33,,Access Switch,,Offline,Içara,,,TJSC
+922,sw_icara_36,,Access Switch,,Offline,Içara,,,TJSC
+930,sw_imbituba_01,,Access Switch,,Offline,Imbituba - Segunda Vara,,,TJSC
+927,sw_imbituba_1Vara_10,,Access Switch,,Offline,Imbituba - Primeira Vara,,,TJSC
+928,sw_imbituba_1Vara_11,,Access Switch,,Offline,Imbituba - Primeira Vara,,,TJSC
+929,sw_imbituba_1Vara_12,,Access Switch,,Offline,Imbituba - Primeira Vara,,,TJSC
+931,sw_imbituba_02,,Access Switch,,Offline,Imbituba - Segunda Vara,,,TJSC
+937,sw_indaial_12,,Access Switch,,Offline,Indaial,,,TJSC
+938,sw_indaial_13,,Access Switch,,Offline,Indaial,,,TJSC
+939,sw_indaial_16,,Access Switch,,Offline,Indaial,,,TJSC
+940,sw_indaial_17,,Access Switch,,Offline,Indaial,,,TJSC
+941,sw_indaial_36,,Access Switch,,Offline,Indaial,,,TJSC
+942,sw_indaial_37,,Access Switch,,Offline,Indaial,,,TJSC
+943,sw_indaial_38,,Access Switch,,Offline,Indaial,,,TJSC
+944,sw_indaial_39,,Access Switch,,Offline,Indaial,,,TJSC
+945,sw_indaial_40,,Access Switch,,Offline,Indaial,,,TJSC
+946,sw_indaial_41,,Access Switch,,Offline,Indaial,,,TJSC
+947,sw_indaial_43,,Access Switch,,Offline,Indaial,,,TJSC
+936,sw_indaial_bb,,Access Switch,,Offline,Indaial,,,TJSC
+952,sw_ipumirim_18,,Access Switch,,Offline,Ipumirim,,,TJSC
+2101,sw_itaiopolis_13,,Access Switch,,Offline,Itaiópolis,,,
+960,sw_itaiopolis_17,,Access Switch,,Offline,Itaiópolis,,,TJSC
+1004,sw_Itajai_Univer_11,,Access Switch,,Active,Itajaí - Fórum Universitário,,,TJSC
+1005,sw_Itajai_Univer_12,,Access Switch,,Active,Itajaí - Fórum Universitário,,,TJSC
+1158,sw_itapema_16,,Access Switch,,Active,Itapema,,,TJSC
+1166,sw_itapiranga_13,,Access Switch,,Offline,Itapiranga,,,TJSC
+2102,sw_Itapoa_13,,Access Switch,,Offline,Itapoá,,,TJSC
+2969,Switch 9200 para testes,,Access Switch,,Active,CPD,Rack Nexus CPD,38.0,
+2954,Switch ALT,,Switch de Operadora,,Active,CPD,Rack Telecom 02,27.0,
+2605,Switch_DNET_SDX,,Spare Switch,,Offline,São Domingos,,,
+3423,Switch Metro Algar,,Switch de Operadora,,Active,Norte da Ilha - UFSC,Norte-da-Ilha -UFSC-Bracket-01,3.0,
+2932,Switch-Metro-Algar,,Switch de Operadora,,Active,CPD,Rack Telecom 01,39.0,
+1182,sw_jaragua_19,,Access Switch,,Offline,Jaraguá do Sul,,,TJSC
+1196,sw_joacaba_17,,Spare Switch,,Offline,Joaçaba,,,TJSC
+1197,sw_joacaba_18,,Access Switch,,Active,Joaçaba,,,TJSC
+1198,sw_joacaba_19,,Spare Switch,,Offline,Joaçaba,,,TJSC
+1199,sw_joacaba_20,,Access Switch,,Active,Joaçaba,,,TJSC
+1200,sw_joacaba_21,,Spare Switch,,Offline,Joaçaba,,,TJSC
+1201,sw_joacaba_22,,Access Switch,,Active,Joaçaba,,,TJSC
+1202,sw_joacaba_23,,Access Switch,,Active,Joaçaba,,,TJSC
+1203,sw_joacaba_24,,Access Switch,,Active,Joaçaba,,,TJSC
+1214,sw_Joinville_9,,Access Switch,,Active,Joinville,,,TJSC
+1216,sw_Joinville_12,,Access Switch,,Active,Joinville,,,TJSC
+1207,sw_joinville_52,,Access Switch,,Active,Joinville,,,TJSC
+1237,sw_lages_01,,Access Switch,,Offline,Lages,,,TJSC
+1238,sw_lages_16,,Spare Switch,,Inventory,Lages,,,TJSC
+1239,sw_lages_27,,Spare Switch,,Inventory,Lages,,,TJSC
+1240,sw_lages_100,,Distribution Switch,,Active,Lages,,,TJSC
+1241,sw_lages_111,,Access Switch,,Active,Lages,,,TJSC
+1242,sw_lages_112,,Access Switch,,Active,Lages,,,TJSC
+1243,sw_lages_113,,Access Switch,,Active,Lages,,,TJSC
+1244,sw_lages_114,,Access Switch,,Active,Lages,,,TJSC
+1245,sw_lages_115,,Spare Switch,,Offline,Lages,,,TJSC
+1246,sw_lages_116,,Access Switch,,Active,Lages,,,TJSC
+1247,sw_lages_117,,Access Switch,,Active,Lages,,,TJSC
+1248,sw_lages_118,,Access Switch,,Active,Lages,,,TJSC
+1249,sw_lages_119,,Access Switch,,Active,Lages,,,TJSC
+1250,sw_lages_120,,Access Switch,,Active,Lages,,,TJSC
+1251,sw_lages_121,,Access Switch,,Active,Lages,,,TJSC
+1252,sw_lages_122,,Access Switch,,Active,Lages,,,TJSC
+1253,sw_lages_123,,Access Switch,,Active,Lages,,,TJSC
+1254,sw_lages_124,,Access Switch,,Active,Lages,,,TJSC
+1271,sw_Lauro_muller_15,,Access Switch,,Offline,Lauro Müller,,,TJSC
+1272,sw_Lauro_muller_16,,Access Switch,,Offline,Lauro Müller,,,TJSC
+2097,sw_Lauro_muller_17,,Access Switch,,Offline,Lauro Müller,,,
+1276,sw_lebonregis_15,,Access Switch,,Offline,Lebon Régis,,,TJSC
+1277,sw_lebonregis_16,,Access Switch,,Offline,Lebon Régis,,,TJSC
+1278,sw_lebon_regis_17,,Access Switch,,Offline,Lebon Régis,,,TJSC
+1279,sw_mafra_05,,Access Switch,,Offline,Mafra,,,TJSC
+1280,sw_mafra_19,,Access Switch,,Offline,Mafra,,,TJSC
+1284,sw_mafra_23,,Access Switch,,Offline,Mafra,,,TJSC
+1285,sw_mafra_24,,Access Switch,,Offline,Mafra,,,TJSC
+1286,sw_maravilha_13,,Access Switch,,Active,Maravilha,,,TJSC
+1287,sw_maravilha_14,,Access Switch,,Active,Maravilha,,,TJSC
+1298,sw_mondai_14,,Access Switch,,Offline,Mondaí,,,TJSC
+2329,SW-MPSC-TJ,,Access Switch,,Active,Palhoça,,,MPSC
+1313,SW_NorteIlha_22,,Access Switch,,Offline,Norte da Ilha - UFSC,,,TJSC
+1314,SW_NorteIlha_23,,Access Switch,,Offline,Norte da Ilha - UFSC,,,TJSC
+1315,SW_NorteIlha_24,,Access Switch,,Offline,Norte da Ilha - UFSC,,,TJSC
+1316,SW_NorteIlha_25,,Access Switch,,Offline,Norte da Ilha - UFSC,,,TJSC
+1317,sw_orleans_13,,Access Switch,,Offline,Orleans,,,TJSC
+1318,sw_orleans_14,,Access Switch,,Offline,Orleans,,,TJSC
+1319,sw_orleans_15,,Access Switch,,Offline,Orleans,,,TJSC
+1321,sw_orleans_17,,Access Switch,,Offline,Orleans,,,TJSC
+1322,sw_orleans_18,,Access Switch,,Offline,Orleans,,,TJSC
+2504,sw_orleans_19,,Access Switch,,Offline,Orleans,,,
+1326,sw_palhoca_20,,Access Switch,,Offline,Palhoça,,,TJSC
+1520,sw_pgetulio_bb,,Access Switch,,Offline,Presidente Getúlio,,,TJSC
+2462,sw_picarras_02,,Spare Switch,,Offline,Balneário Piçarras,,,
+2463,sw_picarras_03,,Spare Switch,,Offline,Balneário Piçarras,,,
+1351,sw_pinhalzinho_13,,Spare Switch,,Inventory,Pinhalzinho,,,TJSC
+1362,sw_pomerode_15,,Access Switch,,Offline,Pomerode,,,TJSC
+1506,sw_portobelo_26,,Access Switch,,Offline,Porto Belo,,,TJSC
+1507,sw_porto_uniao_18,,Access Switch,,Offline,Porto União,,,TJSC
+1508,sw_porto_uniao_30,,Access Switch,,Active,Porto União,,,TJSC
+1509,sw_porto_uniao_31,,Access Switch,,Active,Porto União,,,TJSC
+1510,sw_porto_uniao_32,,Access Switch,,Active,Porto União,,,TJSC
+1511,sw_porto_uniao_33,,Access Switch,,Active,Porto União,,,TJSC
+1512,sw_porto_uniao_34,,Access Switch,,Active,Porto União,,,TJSC
+1513,sw_porto_uniao_35,,Access Switch,,Active,Porto União,,,TJSC
+1514,sw_porto_uniao_36,,Access Switch,,Active,Porto União,,,TJSC
+1515,sw_porto_uniao_37,,Access Switch,,Active,Porto União,,,TJSC
+1516,sw_porto_uniao_38,,Access Switch,,Active,Porto União,,,TJSC
+1517,sw_porto_uniao_39,,Access Switch,,Active,Porto União,,,TJSC
+1518,sw_porto_uniao_40,,Access Switch,,Active,Porto União,,,TJSC
+1500,sw_pserrada_13,,Access Switch,,Offline,Ponte Serrada,,,TJSC
+1501,sw_pserrada_14,,Access Switch,,Offline,Ponte Serrada,,,TJSC
+1549,sw_rio_negrinho_avanc_70,,Access Switch,,Active,Rio Negrinho - Unidade Avançada,,,TJSC
+1550,sw_rio_negrinho_avanc_71,,Access Switch,,Active,Rio Negrinho - Unidade Avançada,,,TJSC
+3101,sw_samaro_01,,Access Switch,,Offline,Santo Amaro da Imperatriz,,,TJSC
+1563,sw_samaro_04,,Access Switch,,Offline,Santo Amaro da Imperatriz,,,TJSC
+1567,sw_samaro_avan_134,,Access Switch,,Offline,Santo Amaro da Imperatriz - Unidade Avançada,,,TJSC
+1568,sw_samaro_avan_135,,Access Switch,,Offline,Santo Amaro da Imperatriz - Unidade Avançada,,,TJSC
+1561,sw_santarosa_14,,Spare Switch,,Inventory,Santa Rosa do Sul,,,TJSC
+1562,sw_santarosa_15,,Spare Switch,,Inventory,Santa Rosa do Sul,,,TJSC
+1560,sw_santarosa_17,,Access Switch,,Offline,Santa Rosa do Sul,,,TJSC
+1304,sw_santlisboa_14,,Access Switch,,Active,Norte da Ilha,,,TJSC
+1305,sw_santlisboa_15,,Access Switch,,Active,Norte da Ilha,,,TJSC
+1306,sw_santlisboa_17,,Access Switch,,Active,Norte da Ilha,,,TJSC
+3362,sw_santo_amaro_10,,Spare Switch,,Inventory,Santo Amaro da Imperatriz,,,TJSC
+1564,sw_santo_amaro_14,,Access Switch,,Active,Santo Amaro da Imperatriz,,,TJSC
+1565,sw_santo_amaro_15,,Access Switch,,Active,Santo Amaro da Imperatriz,,,TJSC
+1566,sw_santo_amaro_16,,Access Switch,,Active,Santo Amaro da Imperatriz,,,TJSC
+1604,sw_sao_jose_24,,Access Switch,,Offline,São José,,,TJSC
+1608,sw_sao_jose_34,,Access Switch,,Active,São José,,,TJSC
+1610,sw_sao_jose_36_bb,,Access Switch,,Active,São José,,,TJSC
+1611,sw_sao_jose_37,,Access Switch,,Active,São José,,,TJSC
+1612,sw_sao_jose_38,,Access Switch,,Active,São José,,,TJSC
+1613,sw_sao_jose_39,,Access Switch,,Active,São José,,,TJSC
+1614,sw_sao_jose_40,,Spare Switch,,Offline,São José,,,TJSC
+1615,sw_sao_jose_41,,Access Switch,,Active,São José,,,TJSC
+1616,sw_sao_jose_42,,Access Switch,,Active,São José,,,TJSC
+1617,sw_sao_jose_43,,Access Switch,,Active,São José,,,TJSC
+1618,sw_sao_jose_44,,Access Switch,,Active,São José,,,TJSC
+1619,sw_sao_jose_45,,Access Switch,,Active,São José,,,TJSC
+1620,sw_sao_jose_46,,Access Switch,,Active,São José,,,TJSC
+1621,sw_sao_jose_47,,Spare Switch,,Offline,São José,,,TJSC
+1627,sw_sao_jose_48,,Spare Switch,,Offline,São José,,,TJSC
+3148,sw_sao_jose_49,,Spare Switch,,Offline,São José,,,TJSC
+1628,sw_sao_jose_50,,Access Switch,,Active,São José,,,TJSC
+1629,sw_sao_jose_51,,Access Switch,,Active,São José,,,TJSC
+1630,sw_sao_jose_52,,Access Switch,,Active,São José,,,TJSC
+1631,sw_sao_jose_53,,Access Switch,,Active,São José,,,TJSC
+1854,sw_sao_jose_54,,Access Switch,,Active,São José,,,TJSC
+1632,sw_sao_jose_56,,Access Switch,,Active,São José,,,TJSC
+1633,sw_sao_jose_57,,Access Switch,,Active,São José,,,TJSC
+1634,sw_sao_jose_58,,Access Switch,,Active,São José,,,TJSC
+2547,sw_sao_jose_59,,Access Switch,,Active,São José,,,TJSC
+1635,sw_sao_jose_60,,Spare Switch,,Offline,São José,,,TJSC
+1636,sw_sao_jose_61,,Access Switch,,Active,São José,,,TJSC
+1637,sw_sao_jose_62,,Access Switch,,Active,São José,,,TJSC
+1580,sw_sdomingos_12,,Spare Switch,,Offline,São Domingos,,,TJSC
+1581,sw_sdomingos_13,,Spare Switch,,Offline,São Domingos,,,TJSC
+1582,sw_sdomingos_15,,Spare Switch,,Offline,São Domingos,,,TJSC
+1583,sw_sdomingos_16,,Spare Switch,,Offline,São Domingos,,,TJSC
+1593,sw_sjbatista_15,,Access Switch,,Offline,São João Batista,,,TJSC
+2724,sw_sjbatista_16,,Access Switch,,Offline,São João Batista,,,TJSC
+2725,sw_sjbatista_19,,Access Switch,,Offline,São João Batista,,,TJSC
+1761,sw_sjcedro_16,,Access Switch,,Offline,São José do Cedro,,,TJSC
+2105,sw_slourenco_03,,Access Switch,,Offline,São Lourenço do Oeste,,,TJSC
+2106,sw_slourenco_15,,Access Switch,,Offline,São Lourenço do Oeste,,,
+1766,sw_slourenco_16,,Access Switch,,Offline,São Lourenço do Oeste,,,TJSC
+1767,sw_slourenco_18,,Access Switch,,Offline,São Lourenço do Oeste,,,TJSC
+1768,sw_SMiguel_11,,Access Switch,,Active,São Miguel do Oeste,,,TJSC
+1769,sw_SMiguel_12,,Access Switch,,Active,São Miguel do Oeste,,,TJSC
+1770,sw_SMiguel_13,,Access Switch,,Active,São Miguel do Oeste,,,TJSC
+1771,sw_SMiguel_14,,Spare Switch,,Offline,São Miguel do Oeste,,,TJSC
+1772,sw_SMiguel_15,,Access Switch,,Active,São Miguel do Oeste,,,TJSC
+1773,sw_SMiguel_16,,Access Switch,,Active,São Miguel do Oeste,,,TJSC
+2251,sw_SMiguel_18,,Access Switch,,Active,São Miguel do Oeste,,,
+1813,sw_tubarao_03,,Access Switch,,Offline,Tubarão,,,TJSC
+1827,sw_Tubarao_13,,Access Switch,,Offline,Tubarão,,,TJSC
+1828,sw_Tubarao_14,,Spare Switch,,Inventory,Tubarão,,,TJSC
+1829,sw_turvo_15,,Access Switch,,Offline,Turvo,,,TJSC
+1830,sw_turvo_16,,Access Switch,,Offline,Turvo,,,TJSC
+1831,sw_turvo_17,,Access Switch,,Offline,Turvo,,,TJSC
+1838,sw_urussanga_22,,Access Switch,,Active,Urussanga,,,TJSC
+1839,sw_urussanga_25,,Spare Switch,,Offline,Urussanga,,,TJSC
+1840,sw_urussanga_26,,Spare Switch,,Offline,Urussanga,,,TJSC
+1841,sw_videira_16,,Access Switch,,Active,Videira,,,TJSC
+1842,sw_videira_17,,Access Switch,,Active,Videira,,,TJSC
+1843,sw_videira_18,,Access Switch,,Active,Videira,,,TJSC
+1844,sw_videira_19,,Access Switch,,Active,Videira,,,TJSC
+1848,sw_xanxere_18,,Access Switch,,Offline,Xanxerê,,,TJSC
+1852,sw_xaxim_02,,Access Switch,,Offline,Xaxim,,,TJSC
+2804,T1.1A.SALA.114:1,,Access Switch,,Active,Torre 1,,,
+2806,T1.1A.SALA.114:2,,Access Switch,,Active,Torre 1,,,TJSC
+2805,T1.1A.SALA.114:3,,Access Switch,,Active,Torre 1,,,
+2807,T1.2A.SALA.212:1,,Access Switch,,Active,Torre 1,,,
+2809,T1.2A.SALA.212:2,,Access Switch,,Active,Torre 1,,,TJSC
+2808,T1.2A.SALA.212:3,,Access Switch,,Active,Torre 1,,,
+2810,T1.3A.MEZ.01,,Access Switch,,Active,Torre 1,,,TJSC
+2814,T1.3A.SALA.301:1,,Access Switch,,Active,Torre 1,,,
+2816,T1.3A.SALA.301:2,,Access Switch,,Active,Torre 1,,,TJSC
+2813,T1.3A.SALA.304:1,,Access Switch,,Active,Torre 1,,,
+2815,T1.3A.SALA.304:2,,Access Switch,,Active,Torre 1,,,TJSC
+2812,T1.3A.SALA.308:1,,Access Switch,,Active,Torre 1,,,
+2811,T1.3A.SALA.308:2,,Access Switch,,Active,Torre 1,,,TJSC
+2801,T1.4A.MEZ.01,,Access Switch,,Active,Torre 1,,,TJSC
+2824,T1.4A.SALA.401:1,,Access Switch,,Active,Torre 1,,,
+2825,T1.4A.SALA.401:2,,Access Switch,,Active,Torre 1,,,TJSC
+2822,T1.4A.SALA.404:1,,Access Switch,,Active,Torre 1,,,
+2823,T1.4A.SALA.404:2,,Access Switch,,Active,Torre 1,,,TJSC
+2820,T1.4A.SALA.408:1,,Access Switch,,Active,Torre 1,,,
+2821,T1.4A.SALA.408:2,,Access Switch,,Active,Torre 1,,,TJSC
+2826,T1.4A.SALA.413:1,,Access Switch,,Active,Torre 1,,,
+2827,T1.4A.SALA.413:2,,Access Switch,,Active,Torre 1,,,
+2789,T1.6A.MEZ.01,,Access Switch,,Active,Torre 1,,,
+2828,T1.6A.SALA.612:1,,Access Switch,,Active,Torre 1,,,
+2830,T1.6A.SALA.612:2,,Access Switch,,Active,Torre 1,,,TJSC
+2831,T1.6A.SALA.612:3,,Access Switch,,Active,Torre 1,,,TJSC
+2802,T1.7A.MEZ.01,,Access Switch,,Active,Torre 1,,,TJSC
+2832,T1.7A.SALA.701:1,,Access Switch,,Active,Torre 1,,,
+2833,T1.7A.SALA.701:2,,Access Switch,,Active,Torre 1,,,TJSC
+2834,T1.7A.SALA.704:1,,Access Switch,,Active,Torre 1,,,
+2835,T1.7A.SALA.704:2,,Access Switch,,Active,Torre 1,,,TJSC
+2836,T1.7A.SALA.708:1,,Access Switch,,Active,Torre 1,,,
+2837,T1.7A.SALA.708:2,,Access Switch,,Active,Torre 1,,,TJSC
+2803,T1.8A.MEZ.01,,Access Switch,,Active,Torre 1,,,TJSC
+2866,T1.8A.SALA.801:1,,Access Switch,,Active,Torre 1,,,
+2867,T1.8A.SALA.801:2,,Access Switch,,Active,Torre 1,,,TJSC
+2784,T1.8A.SALA.802,,Access Switch,,Active,Torre 1,,,TJSC
+2864,T1.8A.SALA.804:1,,Access Switch,,Active,Torre 1,,,
+2865,T1.8A.SALA.804:2,,Access Switch,,Active,Torre 1,,,TJSC
+2838,T1.8A.SALA.809:1,,Access Switch,,Active,Torre 1,,,
+2839,T1.8A.SALA.809:2,,Access Switch,,Active,Torre 1,,,TJSC
+2868,T1.9A.SALA.913:1,,Access Switch,,Active,Torre 1,,,
+2870,T1.9A.SALA.913:2,,Access Switch,,Active,Torre 1,,,TJSC
+2869,T1.9A.SALA.913:3,,Access Switch,,Active,Torre 1,,,
+2871,T1.10A.SALA.1013:1,,Access Switch,,Active,Torre 1,,,
+2873,T1.10A.SALA.1013:2,,Access Switch,,Active,Torre 1,,,TJSC
+2872,T1.10A.SALA.1013:3,,Access Switch,,Active,Torre 1,,,
+2785,T1.11A.MEZ,,Access Switch,,Active,Torre 1,,,TJSC
+2792,T1.11A.SALA.1123:1,,Access Switch,,Active,Torre 1,,,
+2793,T1.11A.SALA.1123:2,,Access Switch,,Active,Torre 1,,,
+2794,T1.11A.SALA.1123:3,,Access Switch,,Active,Torre 1,,,
+2795,T1.12A.SALA.1214:1,,Access Switch,,Active,Torre 1,,,
+2796,T1.12A.SALA.1214:2,,Access Switch,,Active,Torre 1,,,
+2797,T1.12A.SALA.1214:3,,Access Switch,,Active,Torre 1,,,
+2798,T1.12A.SALA.1214:4,,Access Switch,,Active,Torre 1,,,
+2790,T1.13A.CORREDOR.01,,Access Switch,,Active,Torre 1,,,
+2791,T1.13A.CORREDOR-PRINCIPAL,,Access Switch,,Active,Torre 1,,,
+2786,T1.13.SALA.1307,,Access Switch,,Active,Torre 1,,,TJSC
+2787,T1.13.SALA.1308,,Access Switch,,Active,Torre 1,,,TJSC
+2781,T1.HS.SALA.HS.01,,Access Switch,,Active,Torre 1,,,TJSC
+2780,T1.HS.SALA.HS.02,,Access Switch,,Active,Torre 1,,,TJSC
+2800,T1.HS.SALA.HS.03,,Access Switch,,Active,Torre 1,,,TJSC
+2779,T1.HS.SALA.HS.03A,,Access Switch,,Active,Torre 1,,,TJSC
+2782,T1.HS.SALA.HS.04,,Access Switch,,Active,Torre 1,,,TJSC
+2783,T1.HS.SALA.HS.05,,Access Switch,,Active,Torre 1,,,TJSC
+2778,T1.HS.SALA.HS11,,Access Switch,,Active,Torre 1,,,TJSC
+2777,T1.HS.SALA.HS12A,,Access Switch,,Active,Torre 1,,,TJSC
+2769,T1.TERREO.BIBLIOTECA,,Access Switch,,Active,Torre 1,,,
+2775,T1.TERREO.CATRACAS,,Access Switch,,Active,Torre 1,,,TJSC
+2774,T1.TERREO.CTR.ATENDIMENTO,,Access Switch,,Active,Torre 1,,,TJSC
+2799,T1.TERREO.ENG.1,,Access Switch,,Active,Torre 1,,,TJSC
+2874,T1.Terreo.EquipBancada,,Access Switch,,Active,Torre 1,,,
+2772,T1.TERREO.SALA.001:1,,Access Switch,,Active,Torre 1,,,
+2773,T1.TERREO.SALA.001:2,,Access Switch,,Active,Torre 1,,,TJSC
+2788,T1.TERREO.SALA.006,,Access Switch,,Active,Torre 1,,,
+2767,T1.TERREO.SALA.016:1,,Access Switch,,Active,Torre 1,,,
+2768,T1.TERREO.SALA.016:2,,Access Switch,,Active,Torre 1,,,
+2750,T1.TERREO.SALA.028:1,,Access Switch,,Active,Torre 1,,,
+2751,T1.TERREO.SALA.028:2,,Access Switch,,Active,Torre 1,,,
+2776,T1.TERREO.SALA.037,,Access Switch,,Active,Torre 1,,,TJSC
+2770,T1.TERREO.TRANSP.01,,Access Switch,,Active,Torre 1,,,TJSC
+2771,T1.TERREO.TRANSP.02,,Access Switch,,Active,Torre 1,,,TJSC
+2341,T4.1A.R1.1,,Access Switch,,Active,ACCR,,,TJSC
+2342,T4.1A.R2.1,,Access Switch,,Active,ACCR,,,TJSC
+2343,T4.2A.R1.1,,Access Switch,,Active,ACCR,,,TJSC
+2344,T4.2A.R2.1,,Access Switch,,Active,ACCR,,,TJSC
+2730,T4.3A.R1.1,,Access Switch,,Active,ACCR,,,TJSC
+2731,T4.3A.R2.1,,Access Switch,,Active,ACCR,,,TJSC
+2732,T4.4A.R1.1,,Access Switch,,Active,ACCR,,,TJSC
+2733,T4.4A.R2.1,,Access Switch,,Active,ACCR,,,TJSC
+2734,T4.5A.R1.1,,Access Switch,,Active,ACCR,,,TJSC
+2735,T4.5A.R2.1,,Access Switch,,Active,ACCR,,,TJSC
+2298,T4.6A.R1.1,,Access Switch,,Active,ACCR,T4.6A.R1,,TJSC
+2311,T4.6A.R2.1,,Access Switch,,Active,ACCR,,,TJSC
+2312,T4.7A.R1.1,,Access Switch,,Active,ACCR,,,TJSC
+2313,T4.7A.R2.1,,Access Switch,,Active,ACCR,,,TJSC
+2739,T4.8A.APOIO.REDES,,Access Switch,,Active,ACCR,,,
+2314,T4.8A.R1.1,,Access Switch,,Active,ACCR,,,TJSC
+2315,T4.8A.R2.1,,Access Switch,,Active,ACCR,,,TJSC
+2738,T4.8A.R2.BANCADA,,Access Switch,,Active,ACCR,,,
+2736,T4.9A.R1.1,,Access Switch,,Active,ACCR,,,TJSC
+2737,T4.9A.R2.1,,Access Switch,,Active,ACCR,,,TJSC
+2316,T4.10.A.R1.1,,Access Switch,,Active,ACCR,,,TJSC
+2317,T4.10A.R2.1,,Access Switch,,Active,ACCR,,,TJSC
+2318,T4.11A.R1.1,,Access Switch,,Active,ACCR,,,TJSC
+2319,T4.11A.R2.1,,Access Switch,,Active,ACCR,,,TJSC
+2320,T4.12A.R2.1,,Access Switch,,Active,ACCR,,,TJSC
+2321,T4.ATICO.R1.1,,Access Switch,,Active,ACCR,,,TJSC
+2322,T4.ATICO.R2.1,,Access Switch,,Active,ACCR,,,TJSC
+2323,T4.BACKBONE-9300:1,,Core Switch,,Active,ACCR,,,TJSC
+2324,T4.BACKBONE-9300:2,,Core Switch,,Active,ACCR,,,TJSC
+2740,T4.TERREO.R1.1:1,,Access Switch,,Active,ACCR,,,
+2741,T4.TERREO.R1.1:2,,Access Switch,,Active,ACCR,,,
+2742,T4.TERREO.R1.1:3,,Access Switch,,Active,ACCR,,,
+2060,T5.1A.R1.1,,Access Switch,,Active,Academia Judicial / UDB,,,TJSC
+2061,T5.1A.R2.1,,Access Switch,,Active,Academia Judicial / UDB,,,TJSC
+2062,T5.2A.R1.1,,Access Switch,,Active,Academia Judicial / UDB,,,TJSC
+2063,T5.2A.R2.1,,Access Switch,,Active,Academia Judicial / UDB,,,TJSC
+2064,T5.3A.R1.1,,Access Switch,,Active,Academia Judicial / UDB,,,TJSC
+2065,T5.3A.R2.1,,Access Switch,,Active,Academia Judicial / UDB,,,TJSC
+105,T5.6A.R2.2,,Access Switch,FCQ1529Z660,Active,Academia Judicial / UDB,,,
+2066,T5.ATICO.R1.1,,Access Switch,,Active,Academia Judicial / UDB,,,TJSC
+2067,T5.ATICO.R2.1,,Access Switch,,Active,Academia Judicial / UDB,,,TJSC
+2980,TA-25-2 (Sala Cofre),,Agregador de tráfego para Visibilidade de Dados,,Active,Sala Cofre,Telecom 01,17.0,
+2957,TAP GTP ATX-21,,TAP,,Active,CPD,Rack Telecom 02,21.0,
+2896,TORRE2_ACESSO.1A.1,,Access Switch,,Active,Torre 2,,,TJSC
+2897,TORRE2_ACESSO.2A.1:1,,Access Switch,,Active,Torre 2,,,TJSC
+2899,TORRE2_ACESSO.2A.1:2,,Access Switch,,Active,Torre 2,,,TJSC
+2898,TORRE2_ACESSO.2A.1:3,,Access Switch,,Active,Torre 2,,,TJSC
+2911,TORRE2_ACESSO.3A.1:1,,Access Switch,,Active,Torre 2,,,TJSC
+2913,TORRE2_ACESSO.3A.1:2,,Access Switch,,Active,Torre 2,,,TJSC
+2912,TORRE2_ACESSO.3A.1:3,,Access Switch,,Active,Torre 2,,,TJSC
+2914,TORRE2_ACESSO.4A.1:1,,Access Switch,,Active,Torre 2,,,TJSC
+2916,TORRE2_ACESSO.4A.1:2,,Access Switch,,Active,Torre 2,,,TJSC
+2915,TORRE2_ACESSO.4A.1:3,,Access Switch,,Active,Torre 2,,,TJSC
+2917,TORRE2_ACESSO.5A.1:1,,Access Switch,,Active,Torre 2,,,TJSC
+2919,TORRE2_ACESSO.5A.1:2,,Access Switch,,Active,Torre 2,,,TJSC
+2918,TORRE2_ACESSO.5A.1:3,,Access Switch,,Active,Torre 2,,,TJSC
+2920,TORRE2_ACESSO.6A.1:1,,Access Switch,,Active,Torre 2,,,TJSC
+2922,TORRE2_ACESSO.6A.1:2,,Access Switch,,Active,Torre 2,,,TJSC
+2921,TORRE2_ACESSO.6A.1:3,,Access Switch,,Active,Torre 2,,,TJSC
+2923,TORRE2_ACESSO.7A.1:1,,Access Switch,,Active,Torre 2,,,TJSC
+2925,TORRE2_ACESSO.7A.1:2,,Access Switch,,Active,Torre 2,,,TJSC
+2924,TORRE2_ACESSO.7A.1:3,,Access Switch,,Active,Torre 2,,,TJSC
+2926,TORRE2_ACESSO.8A.1:1,,Access Switch,,Active,Torre 2,,,TJSC
+2928,TORRE2_ACESSO.8A.1:2,,Access Switch,,Active,Torre 2,,,TJSC
+2927,TORRE2_ACESSO.8A.1:3,,Access Switch,,Active,Torre 2,,,TJSC
+2887,TORRE2_ACESSO.RACK-PLENO:1,,Access Switch,,Active,Torre 2,,,TJSC
+2889,TORRE2_ACESSO.RACK-PLENO:2,,Access Switch,,Active,Torre 2,,,TJSC
+2888,TORRE2_ACESSO.RACK-PLENO:3,,Access Switch,,Active,Torre 2,,,TJSC
+2890,TORRE2_ACESSO.T2.SALA.101,,Access Switch,,Active,Torre 2,,,TJSC
+2891,TORRE2_ACESSO.T2.SALA.102,,Access Switch,,Active,Torre 2,,,TJSC
+2892,TORRE2_ACESSO.T2.SALA.103,,Access Switch,,Active,Torre 2,,,TJSC
+2893,TORRE2_ACESSO.T2.SALA.104,,Access Switch,,Active,Torre 2,,,TJSC
+2894,TORRE2_ACESSO.T2.SALA.105,,Access Switch,,Active,Torre 2,,,TJSC
+2895,TORRE2_ACESSO.T2.SALA.106,,Access Switch,,Active,Torre 2,,,TJSC
+2880,TORRE2_ACESSO.TERREO-RACK1:1,,Access Switch,,Active,Torre 2,,,TJSC
+2881,TORRE2_ACESSO.TERREO-RACK1:2,,Access Switch,,Active,Torre 2,,,TJSC
+2882,TORRE2_ACESSO.TERREO-RACK2:1,,Access Switch,,Active,Torre 2,,,TJSC
+2883,TORRE2_ACESSO.TERREO-RACK2:2,,Access Switch,,Active,Torre 2,,,TJSC
+2884,TORRE2_ACESSO.TERREO-RACK2:3,,Access Switch,,Active,Torre 2,,,TJSC
+2885,TORRE2_ACESSO.TERREO-RACK2:4,,Access Switch,,Active,Torre 2,,,TJSC
+2942,TORRE2_ACESSO.TERREO-RACK3:1,,Access Switch,,Active,Torre 2,,,TJSC
+2943,TORRE2_ACESSO.TERREO-RACK3:2,,Access Switch,,Active,Torre 2,,,
+2886,TORRE2_ACESSO.TERREO-RACK4.1,,Access Switch,,Active,Torre 2,,,TJSC
+2929,TORRE2_ACESSO.TERREO-RACK4.2,,Access Switch,,Active,Torre 2,,,TJSC
+2982,Viavi-APEX-01,,Network Performance Manager (NPM),,Active,Sala Cofre,Rack 04 (Viavi e HC-2),23.0,
+2983,Viavi-GigaFlow-01,,Network Performance Manager (NPM),,Active,Sala Cofre,Rack 04 (Viavi e HC-2),25.0,
+2987,Viavi-GigaStor-01,,Network Performance Manager (NPM),,Active,Sala Cofre,Rack 04 (Viavi e HC-2),34.0,
+3305,XX_joinville_XX,,Spare Switch,,Offline,Joinville,,,
